@@ -1,5 +1,4 @@
 theme: minimal
-layout: home
 header_pages:
   - index.md
   - research.md
