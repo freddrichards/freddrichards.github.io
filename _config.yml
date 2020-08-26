@@ -1,6 +1,8 @@
 theme: minima
+layout: home
 header_pages:
   - index.md
   - research.md
   - publications.md
   - other.md
+timezone: Europe/London
