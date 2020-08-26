@@ -1,3 +1,4 @@
+theme: minimal
 layout: stacked
 header_pages:
   - index.md
