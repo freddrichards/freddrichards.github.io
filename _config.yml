@@ -1,4 +1,4 @@
-layout: sidebar
+layout: stacked
 header_pages:
   - index.md
   - research.md
