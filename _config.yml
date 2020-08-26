@@ -1,5 +1,5 @@
 theme: minimal
-plugins: jekyll-seo-tag
+gems: jekyll-seo-tag
 header_pages:
   - index.md
   - research.md
