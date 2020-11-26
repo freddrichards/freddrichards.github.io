@@ -1,6 +1,9 @@
 ---
-layout: home
-title: Fred Richards
+title: "Fred Richards - Home"
+layout: homelay
+excerpt: "Linking Solid Earth and Surface Processes"
+sitemap: false
+permalink: /
 ---
 
 Welcome to my website!
