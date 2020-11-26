@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Fred Richards
+title: Home
 ---
 
 Welcome to my website!
