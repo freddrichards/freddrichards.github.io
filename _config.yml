@@ -1,4 +1,4 @@
-# theme: minima
+theme: minima
 title: Fred Richards
 email: f.richards19@imperial.ac.uk
 gems: 
@@ -39,4 +39,4 @@ kramdown:
   enable_coderay: false
   parse_block_html: true # default for kramdown is false. This will enable using Markdown links
   
-theme: jekyll-theme-cayman
+#theme: jekyll-theme-cayman
