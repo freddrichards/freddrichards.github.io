@@ -3,7 +3,7 @@ title: "Fred Richards - Home"
 layout: homelay
 excerpt: "Linking Solid Earth and Surface Processes"
 sitemap: false
-permalink: /
+permalink: /head/
 ---
 
 Welcome to my website!
