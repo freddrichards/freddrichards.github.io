@@ -14,5 +14,5 @@ If you have any interest in working with me as part of your undergraduate, gradu
 
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/die_erde.png" width="100%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/Fig1.png" width="150%">
 </figure>
