@@ -4,10 +4,6 @@ email: f.richards19@imperial.ac.uk
 gems: 
   - jekyll-seo-tag
   - jekyll-feed
-header_pages:
-  - index.md
-  - research.md
-  - publications.md
 timezone: Europe/London
 
 include:
