@@ -9,10 +9,10 @@ permalink: /publications/
 <h3 style="font-weight: bold">Published	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; [(Google Scholar)](https://scholar.google.co.uk/citations?user=G_jCE90AAAAJ&hl=en)</h3>
 
 <p style="padding-top:15px">
-**[12]** Richards, F. D., Hoggard, M. J., Crosby, A. G., Ghelichkhan, S. & White, N. J., 2020. Structure and Dynamics of the Oceanic Lithosphere-Asthenosphere System, Phys. Earth Planet. Int., 309, 106559. doi: 10.1029/2019GC008771. ([PDF](/documents/papers/richards_etal_2020_pepi.pdf))
+**[12]** Richards, F. D., Hoggard, M. J., Crosby, A. G., Ghelichkhan, S. & White, N. J., 2020. Structure and Dynamics of the Oceanic Lithosphere-Asthenosphere System, Phys. Earth Planet. Int., 309, 106559. doi: 10.1029/2019GC008771. ([PDF](/documents/papers/richards_etal_2020_pepi_compressed.pdf))
 </p>
 <p style="padding-top:12px">
-**[11]** Richards, F. D., Hoggard, M. J., White, N. J. & Ghelichkhan, S., 2020. Quantifying the relationship between shortwavelength dynamic topography and thermomechanical structure of the upper mantle using calibrated parameterization of anelasticity, 125, e2019JB019062, doi: 10.1029/2019JB019062. ([PDF](/documents/papers/richards_etal_2020_jgr.pdf))
+**[11]** Richards, F. D., Hoggard, M. J., White, N. J. & Ghelichkhan, S., 2020. Quantifying the relationship between shortwavelength dynamic topography and thermomechanical structure of the upper mantle using calibrated parameterization of anelasticity, 125, e2019JB019062, doi: 10.1029/2019JB019062. ([PDF](/documents/papers/richards_etal_2020_jgr_compressed.pdf))
 </p>
 <p style="padding-top:12px">
 **[10]** Hoggard, M. J., Czarnota, K., Richards, F. D., Huston, D. L., Jaques, A. L., & Ghelichkhan, S., 2020. Global distribution of sediment-hosted metals controlled by craton edge stability, Nature Geoscience, 13, 504-510, doi: 10.1038/s41561-020-0593-2. ([PDF](/documents/papers/hoggard_etal_2020_natgeo.pdf))
@@ -33,7 +33,7 @@ permalink: /publications/
 **[5]** Huston, D. L., Champion, D. C., Czarnota, K., Hutchens, M., Hoggard, M. J., Ware, B. D., Richards, F. D., Tessalina, S. D., Gibson, G. M. & Carr, G., 2020. Lithospheric-scale controls on zinc-lead-silver deposits of the North Australian Zinc Belt: evidence from isotopic and geophysical data, Exploring for the Future: Extended Abstracts, Geoscience Australia, Canberra. ([PDF](/documents/papers/huston_etal_2020_eftf.pdf))
 </p>
 <p style="padding-top:12px">
-**[4]** Richards, F. D., 2019. Global Analysis of Predicted and Observed Dynamic Topography (Doctoral thesis), doi: 10.17863/CAM.31532. ([PDF (/documents/papers/richards_2019_thesis.pdf))
+**[4]** Richards, F. D., 2019. Global Analysis of Predicted and Observed Dynamic Topography (Doctoral thesis), doi: 10.17863/CAM.31532. ([PDF (/documents/papers/richards_2019_thesis_compressed.pdf))
 </p>
 <p style="padding-top:12px">
 **[3]** Richards, F. D., Kalnins L. M. & Watts A. B., Cohen, B. E. & Beaman R. J., 2018. The Morphology of the Tasmantid
