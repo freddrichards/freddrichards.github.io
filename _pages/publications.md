@@ -21,7 +21,7 @@ permalink: /publications/
 **[9]** Klöcking, M., Hoggard, M. J., Rodríguez Tribaldos, V., Richards, F. D., Guimarães, J. A., Maclennan, J. C. & White, N. J., 2020. A tale of two domes: Neogene to recent volcanism and dynamic uplift of northeast Brazil and southwest Africa, Earth Planet. Sci. Lett., 547, 116464, doi: 10.1016/j.epsl.2020.116464. ([PDF](/documents/papers/klocking_etal_2020_epsl.pdf))
 </p>
 <p style="padding-top:12px">
-**[8]** Mitrovica, J. X., Austermann, J., Coulson, S. L., Creveling, J. R., Hoggard, M. J., Jarvis, G.T. & Richards, F. D., 2020. Dynamic Topography and Ice Age Paleoclimate, Ann. Rev. Earth Planet. Sci., 48, 585-621, doi: 10.1146/annurev-earth-082517-010225. ([PDF](/documents/papers/mitrovica_etal_2020_annreveps.pdf))
+**[8]** Mitrovica, J. X., Austermann, J., Coulson, S. L., Creveling, J. R., Hoggard, M. J., Jarvis, G. T. & Richards, F. D., 2020. Dynamic Topography and Ice Age Paleoclimate, Ann. Rev. Earth Planet. Sci., 48, 585-621, doi: 10.1146/annurev-earth-082517-010225. ([PDF](/documents/papers/mitrovica_etal_2020_annreveps.pdf))
 </p>
 <p style="padding-top:12px">
 **[7]** Ghelichkhan, S., Fuentes, J. J., Hoggard M. J., Richards, F. D., Mitrovica, J. X., The Precession Constant and its Long-Term Variation, Icarus, 114172, doi: 10.1016/j.icarus.2020.114172.  ([PDF](/documents/papers/ghelichkhan_etal_2020_icarus.pdf))
@@ -33,7 +33,7 @@ permalink: /publications/
 **[5]** Huston, D. L., Champion, D. C., Czarnota, K., Hutchens, M., Hoggard, M. J., Ware, B. D., Richards, F. D., Tessalina, S. D., Gibson, G. M. & Carr, G., 2020. Lithospheric-scale controls on zinc-lead-silver deposits of the North Australian Zinc Belt: evidence from isotopic and geophysical data, Exploring for the Future: Extended Abstracts, Geoscience Australia, Canberra. ([PDF](/documents/papers/huston_etal_2020_eftf.pdf))
 </p>
 <p style="padding-top:12px">
-**[4]** Richards, F. D., 2019. Global Analysis of Predicted and Observed Dynamic Topography (Doctoral thesis), doi: 10.17863/CAM.31532. ([PDF (/documents/papers/richards_2019_thesis_compressed.pdf))
+**[4]** Richards, F. D., 2019. Global Analysis of Predicted and Observed Dynamic Topography (Doctoral thesis), doi: 10.17863/CAM.31532. ([PDF] (/documents/papers/richards_2019_thesis_compressed.pdf))
 </p>
 <p style="padding-top:12px">
 **[3]** Richards, F. D., Kalnins L. M. & Watts A. B., Cohen, B. E. & Beaman R. J., 2018. The Morphology of the Tasmantid
