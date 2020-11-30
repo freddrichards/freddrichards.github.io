@@ -33,7 +33,7 @@ permalink: /publications/
 **[5]** Huston, D. L., Champion, D. C., Czarnota, K., Hutchens, M., Hoggard, M. J., Ware, B. D., Richards, F. D., Tessalina, S. D., Gibson, G. M. & Carr, G., 2020. Lithospheric-scale controls on zinc-lead-silver deposits of the North Australian Zinc Belt: evidence from isotopic and geophysical data, Exploring for the Future: Extended Abstracts, Geoscience Australia, Canberra. ([PDF](/documents/papers/huston_etal_2020_eftf.pdf))
 </p>
 <p style="padding-top:12px">
-**[4]** Richards, F. D., 2019. Global Analysis of Predicted and Observed Dynamic Topography (Doctoral thesis), doi: 10.17863/CAM.31532. ([PDF] (/documents/papers/richards_2019_thesis_compressed.pdf))
+**[4]** Richards, F. D., 2019. Global Analysis of Predicted and Observed Dynamic Topography (Doctoral thesis), doi: 10.17863/CAM.31532. ([PDF](/documents/papers/richards_2019_thesis_compressed.pdf))
 </p>
 <p style="padding-top:12px">
 **[3]** Richards, F. D., Kalnins L. M. & Watts A. B., Cohen, B. E. & Beaman R. J., 2018. The Morphology of the Tasmantid
