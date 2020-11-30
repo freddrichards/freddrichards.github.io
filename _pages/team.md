@@ -6,5 +6,7 @@ sitemap: false
 permalink: /team/
 ---
 
+### Fred Richards
+
 ### James Hazzard
 
