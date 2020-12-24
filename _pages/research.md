@@ -6,12 +6,12 @@ sitemap: false
 permalink: /research/
 ---
 
-<h3 style="font-weight: bold">Research overview</h3> 
+<!--<h3 style="font-weight: bold">Research overview</h3> 
 <p style="padding-top:10px">
-<!--I am interested in understanding the surface expression of deep Earth dynamics and structure. My past research has focused on constraining and modelling the impacts of mantle convection on surface elevations and landscape evolution. This work has helped to reconcile numerical models and observations of this so-called ‘dynamic’ topography, while revealing that convectively driven vertical motions may occur at rates of up to 100 m per million years. These fast-evolving perturbations have significant implications across the Earth Sciences as they may destabilise polar ice sheets, alter ocean circulation via closure of ocean gateways, and control locations of resource-bearing sedimentary basins. My current work aims to integrate geological and geophysical observations with numerical models to better constrain dynamic topography and glacial isostatic adjustment in order to assess their impact on polar ice mass change and palaeo-sea level estimates. These outputs will serve as useful tie points to calibrate ice sheet models, reducing uncertainty in projections of future sea-level rise.-->
+I am interested in understanding the surface expression of deep Earth dynamics and structure. My past research has focused on constraining and modelling the impacts of mantle convection on surface elevations and landscape evolution. This work has helped to reconcile numerical models and observations of this so-called ‘dynamic’ topography, while revealing that convectively driven vertical motions may occur at rates of up to 100 m per million years. These fast-evolving perturbations have significant implications across the Earth Sciences as they may destabilise polar ice sheets, alter ocean circulation via closure of ocean gateways, and control locations of resource-bearing sedimentary basins. My current work aims to integrate geological and geophysical observations with numerical models to better constrain dynamic topography and glacial isostatic adjustment in order to assess their impact on polar ice mass change and palaeo-sea level estimates. These outputs will serve as useful tie points to calibrate ice sheet models, reducing uncertainty in projections of future sea-level rise.-->
 </p>
 
-<h3 style="font-weight: bold">Global Geodynamics</h3>
+<h2 style="font-weight: bold">Global Geodynamics</h2>
 <p style="padding-top:10px">
 </p>
 
@@ -21,9 +21,9 @@ Density and viscosity are the key parameters governing mantle flow patterns with
 
 <!--Using a tidal theory we developed, we have shown that the deepest parts of the mantle beneath African and the Pacific are characterized by negative buoyancy. Such a result holds implications for the compositional distribution of the mantle, which in turn provides information on the primordial state of the mantle, and its ongoing evolution and how efficiently the mantle mixes. This initial application shows the great promise of “tidal tomography” in elucidating deep mantle buoyancy structure and there are many directions to be taken (e.g., augmenting data to include many types of tides, joint inversions with more conventional data, further generalizing the theory to allow for more complicated processes).-->
 
-<h2 style="font-weight: bold">Collaborators:</h2> Mark Hoggard (Harvard, USA), Harriet Lau (UC Berkeley, USA), Paula Koelemeijer (Royal Holloway, UK), Sia Ghelichkhan (ANU, Australia).
+<h4 style="font-weight: bold">Collaborators:</h4> Mark Hoggard (Harvard, USA), Harriet Lau (UC Berkeley, USA), Paula Koelemeijer (Royal Holloway, UK), Sia Ghelichkhan (ANU, Australia).
 
-<h2 style="font-weight: bold">Publications:</h2> Richards, F. D., Hoggard, M. J., White, N. J. & Ghelichkhan, S., 2020. Quantifying the relationship between shortwavelength dynamic topography and thermomechanical structure of the upper mantle using calibrated parameterization of anelasticity, 125, e2019JB019062, doi: 10.1029/2019JB019062. ([PDF](/documents/papers/richards_etal_2020_jgr_compressed.pdf))
+<h4 style="font-weight: bold">Publications:</h4> Richards, F. D., Hoggard, M. J., White, N. J. & Ghelichkhan, S., 2020. Quantifying the relationship between shortwavelength dynamic topography and thermomechanical structure of the upper mantle using calibrated parameterization of anelasticity, 125, e2019JB019062, doi: 10.1029/2019JB019062. ([PDF](/documents/papers/richards_etal_2020_jgr_compressed.pdf))
 
 </p>
 
