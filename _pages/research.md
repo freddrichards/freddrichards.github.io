@@ -12,9 +12,9 @@ I am interested in understanding the surface expression of deep Earth dynamics a
 
 <h2 style="font-weight: bold">Global Geodynamics</h2>
 <p style="padding-top:10px">
-</p>
 
 Density and viscosity are the key parameters governing mantle flow patterns within Earth's interior and associated deflections of its surface. Despite significant advances in our ability to image deep mantle structure using seismological techniques, determining the buoyancy and rheology of the identified anomalies is complicated by uncertainties in the composition of the deep mantle.
+</p>
 
 <!--The density field of the mantle is a key parameter in constraining the dynamics of mantle flow. We have set out to understand mantle density by appealing to a much-neglected geophysical process, namely solid Earth tides. Predicting the deformation of the solid Earth in response to periodic luni-solar forcings has a rich history in classical physics, with theoretical work dating back to Newton. The advent of modern space geodetic methods (e.g., surveying using the Global Positioning System) has yielded unprecedented constraints on solid Earth tidal deformation and revealed geographical variations in body tide deformation at the sub-mm level. These variations are indicative of heterogeneity in mantle buoyancy and elastic structure.-->
 
