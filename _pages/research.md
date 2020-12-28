@@ -12,6 +12,7 @@ I am interested in understanding the surface expression of deep Earth dynamics a
 
 <h2 style="font-weight: bold">Global Geodynamics</h2>
 <p style="padding-top:10px">
+</p>
 
 Density and viscosity are the key parameters governing mantle flow patterns within Earth's interior and associated deflections of its surface. Despite significant advances in our ability to image deep mantle structure using seismological techniques, determining the buoyancy and rheology of the identified anomalies is complicated by uncertainties in the composition of the deep mantle.
 
@@ -23,7 +24,6 @@ Density and viscosity are the key parameters governing mantle flow patterns with
 
 <h4 style="font-weight: bold">Publications:</h4> Richards, F. D., Hoggard, M. J., White, N. J. & Ghelichkhan, S., 2020. Quantifying the relationship between shortwavelength dynamic topography and thermomechanical structure of the upper mantle using calibrated parameterization of anelasticity, 125, e2019JB019062, doi: 10.1029/2019JB019062. ([PDF](/documents/papers/richards_etal_2020_jgr_compressed.pdf))
 
-</p>
 
 <h3 style="font-weight: bold">Effect of Dynamic Topography on Palaeoclimate</h3>
 <p style="padding-top:10px">
