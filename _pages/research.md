@@ -17,7 +17,9 @@ permalink: /research/
 <!--The density field of the mantle is a key parameter in constraining the dynamics of mantle flow. We have set out to understand mantle density by appealing to a much-neglected geophysical process, namely solid Earth tides. Predicting the deformation of the solid Earth in response to periodic luni-solar forcings has a rich history in classical physics, with theoretical work dating back to Newton. The advent of modern space geodetic methods (e.g., surveying using the Global Positioning System) has yielded unprecedented constraints on solid Earth tidal deformation and revealed geographical variations in body tide deformation at the sub-mm level. These variations are indicative of heterogeneity in mantle buoyancy and elastic structure.-->
 
 <!--Using a tidal theory we developed, we have shown that the deepest parts of the mantle beneath African and the Pacific are characterized by negative buoyancy. Such a result holds implications for the compositional distribution of the mantle, which in turn provides information on the primordial state of the mantle, and its ongoing evolution and how efficiently the mantle mixes. This initial application shows the great promise of “tidal tomography” in elucidating deep mantle buoyancy structure and there are many directions to be taken (e.g., augmenting data to include many types of tides, joint inversions with more conventional data, further generalizing the theory to allow for more complicated processes).-->
-![LLSVPs](llvp_rainbows.jpg)
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/llsvps.png" width="100%">
+</figure>
 
 <h4 style="font-weight: bold">Collaborators:</h4> Mark Hoggard (Harvard, USA), Sia Ghelichkhan (ANU, Australia), Paula Koelemeijer (Royal Holloway, UK), Harriet Lau (UC Berkeley, USA).
 
