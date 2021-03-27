@@ -18,7 +18,7 @@ permalink: /research/
 
 <!--Using a tidal theory we developed, we have shown that the deepest parts of the mantle beneath African and the Pacific are characterized by negative buoyancy. Such a result holds implications for the compositional distribution of the mantle, which in turn provides information on the primordial state of the mantle, and its ongoing evolution and how efficiently the mantle mixes. This initial application shows the great promise of “tidal tomography” in elucidating deep mantle buoyancy structure and there are many directions to be taken (e.g., augmenting data to include many types of tides, joint inversions with more conventional data, further generalizing the theory to allow for more complicated processes).-->
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/llsvps.png" width="100%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/llsvp_plot.png" width="100%">
 </figure>
 
 <h4 style="font-weight: bold">Collaborators:</h4> Mark Hoggard (Harvard, USA), Sia Ghelichkhan (ANU, Australia), Paula Koelemeijer (Royal Holloway, UK), Harriet Lau (UC Berkeley, USA).
