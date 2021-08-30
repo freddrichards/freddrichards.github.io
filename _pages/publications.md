@@ -6,7 +6,11 @@ sitemap: false
 permalink: /publications/
 ---
 
-<h3 style="font-weight: bold">Published	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; [(Google Scholar)](https://scholar.google.co.uk/citations?user=G_jCE90AAAAJ&hl=en)</h3>
+<h3 style="font-weight: bold">Published	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; [(Google Scholar)](https://scholar.google.co.uk/citations?user=IpZA1mcAAAAJ&hl=en&oi=sra)</h3>
+
+<p style="padding-top:15px">
+**[13]** Austermann, J., Hoggard, M. J., Latychev, K., Richards, F. D. & Mitrovica, J. X., 2021. The effect of lateral variations in Earth structure on Last Interglacial sea level, Geophys. J. Int., ggab289. doi:  https://doi.org/10.1093/gji/ggab289. ([PDF](/documents/papers/austermann_etal_2021_gji.pdf))
+</p>
 
 <p style="padding-top:15px">
 **[12]** Richards, F. D., Hoggard, M. J., Crosby, A. G., Ghelichkhan, S. & White, N. J., 2020. Structure and Dynamics of the Oceanic Lithosphere-Asthenosphere System, Phys. Earth Planet. Int., 309, 106559. doi: 10.1029/2019GC008771. ([PDF](/documents/papers/richards_etal_2020_pepi_compressed.pdf))
