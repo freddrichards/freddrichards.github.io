@@ -6,7 +6,7 @@ sitemap: false
 permalink: /publications/
 ---
 
-<h3 style="font-weight: bold">In Review	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; [(Google Scholar)](https://scholar.google.co.uk/citations?user=IpZA1mcAAAAJ&hl=en&oi=sra)</h3>
+<h3 style="font-weight: bold">In Review	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; [Google Scholar](https://scholar.google.co.uk/citations?user=IpZA1mcAAAAJ&hl=en&oi=sra)</h3>
 
 <p style="padding-top:15px">
 **[14]** Richards, F. D., Hoggard, M. J., Ghelichkhan, S., Koelemeijer, P. & Lau, H. C. P., Geodynamic, geodetic, and seismic constraints favour deflated and dense-cored LLVPs, in review. doi:  https://doi.org/10.31223/X55601 ([PDF](/documents/papers/richards_etal_2021_natgeo.pdf))
