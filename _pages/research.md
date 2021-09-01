@@ -28,10 +28,10 @@ This joint inversion approach shows great promise and will be augmented in futur
 
 <h4 style="font-weight: bold">Collaborators:</h4> Mark Hoggard (Harvard, USA), Sia Ghelichkhan (ANU, Australia), Paula Koelemeijer (Royal Holloway, UK), Harriet Lau (UC Berkeley, USA).
 
-<h4 style="font-weight: bold">Publications:</h4> Richards, F. D., Hoggard, M. J., White, N. J. & Ghelichkhan, S., 2020. Quantifying the relationship between shortwavelength dynamic topography and thermomechanical structure of the upper mantle using calibrated parameterization of anelasticity, 125, e2019JB019062, doi: 10.1029/2019JB019062. ([PDF](/documents/papers/richards_etal_2020_jgr_compressed.pdf))
-
+<h4 style="font-weight: bold">Publications:</h4>
 Richards, F. D., Hoggard, M. J., Ghelichkhan, S., Koelemeijer, P. & Lau, H. C. P., Geodynamic, geodetic, and seismic constraints favour deflated and dense-cored LLVPs, *in review*. doi:  https://doi.org/10.31223/X55601. ([PDF](/documents/papers/richards_etal_2021_natgeo.pdf))
 
+Richards, F. D., Hoggard, M. J., White, N. J. & Ghelichkhan, S., 2020. Quantifying the relationship between shortwavelength dynamic topography and thermomechanical structure of the upper mantle using calibrated parameterization of anelasticity, 125, e2019JB019062, doi: 10.1029/2019JB019062. ([PDF](/documents/papers/richards_etal_2020_jgr_compressed.pdf))
 
 
 <h3 style="font-weight: bold">Effect of Dynamic Topography on Palaeoclimate</h3>
