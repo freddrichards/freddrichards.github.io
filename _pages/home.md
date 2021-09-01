@@ -13,7 +13,7 @@ I am an Imperial College Research Fellow interested in all aspects of geodynamic
 Ongoing projects include deciphering how Earth's internal dynamics affect estimates of past and future sea-level change; using records of erosion and sedimentation to reconstruct how the pattern of mantle flow has changed over time; and understanding the link between lithospheric structure and the formation 'supergiant' sediment-hosted mineral deposits.
 
 If you have any interest in working with me as part of your undergraduate, graduate or post-doctoral research, I encourage you to get in touch.
-<br/><br/><br/>
+<br/><br/><br/><br/>
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/Fig1.png" width="125%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/Fig1.png" width="150%">
 </figure>
