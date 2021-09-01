@@ -14,6 +14,8 @@ Ongoing projects include deciphering how Earth's internal dynamics affect estima
 
 If you have any interest in working with me as part of your undergraduate, graduate or post-doctoral research, I encourage you to get in touch.
 
+
+
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/Fig1.png" width="125%">
 </figure>
