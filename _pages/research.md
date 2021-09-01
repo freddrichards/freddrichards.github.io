@@ -9,8 +9,7 @@ permalink: /research/
 <h2 style="font-weight: bold">Deep Mantle Dynamics & Structure</h2>
 <p style="padding-top:10px">
 
-<!--Density and viscosity are the key parameters governing mantle flow patterns within Earth's interior and associated deflections of its surface. Despite significant advances in our ability to image deep mantle structure using seismological techniques, determining the buoyancy and rheology of the identified anomalies is complicated by uncertainties in the composition of the deep mantle.-->
-
+Density and viscosity are the key parameters governing the pattern of mantle flow within Earth's interior, and the associated deflections of its surface and core-mantle boundary. Despite significant advances in our ability to image deep mantle structure using seismological techniques, determining the buoyancy and rheology of the identified anomalies is complicated by uncertainties in the composition of the deep mantle and the amplitude of seismic attenuation.
 
 </p>
 
