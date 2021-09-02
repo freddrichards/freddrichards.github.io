@@ -40,7 +40,7 @@ Richards, F. D., Hoggard, M. J., White, N. J. & Ghelichkhan, S., 2020. Quantifyi
 </figure>
 <p style="padding-top:10px">
     
-The study of ice age palaeoclimate has tended to assume – with the exception of glacial isostatic adjustment and localised tectonic activity – that Earth’s surface has remained a passive, non-deforming substrate. This common assumption is undermined by the existence of rapidly evolving dynamic topography and we may need to revise our present understanding of certain climatic periods, especially those that occurred millions of years before present. The mid-Pliocene warm period (MPWP; ~3 million years ago) is of particular interest as it represents the last time in Earth history that atmospheric CO_2 concentrations were similar to the present. Estimates of sea-level during this time are therefore used to tune ice sheet models and sea-level forecasts. However, uncertainty on these estimates is currently large due to the wide range of MPWP palaeoshoreline elevations (~15–65 m) and this spread is likely caused, at least in part, by changes in dynamic topography. In certain locations where agreement between model predictions and observations is good, it may be possible to correct palaeoshoreline elevations for dynamic topography to get more accurate constraints on global mean sea-level during this critical period.
+The study of ice age palaeoclimate has tended to assume – with the exception of glacial isostatic adjustment and localised tectonic activity – that Earth’s surface has remained a passive, non-deforming substrate. This common assumption is undermined by the existence of rapidly evolving dynamic topography and we may need to revise our present understanding of certain climatic periods, especially those that occurred millions of years before present. The mid-Pliocene warm period (MPWP; ~3 million years ago) is of particular interest as it represents the last time in Earth history that atmospheric CO<sub>2</sub> concentrations were similar to the present. Estimates of sea-level during this time are therefore used to tune ice sheet models and sea-level forecasts. However, uncertainty on these estimates is currently large due to the wide range of MPWP palaeoshoreline elevations (~15–65 m) and this spread is likely caused, at least in part, by changes in dynamic topography. In certain locations where agreement between model predictions and observations is good, it may be possible to correct palaeoshoreline elevations for dynamic topography to get more accurate constraints on global mean sea-level during this critical period.
 <br/><br/>
 In addition to its effect on mid-Pliocene sea-level records, the impact of dynamic topography changes on the intrinsic stability of continental ice sheets during this time is an important area of research. Decreases in bedrock elevation can result in an inland retreat of ice-sheet grounding lines (i.e., where the ice sheet loses contact with basement rocks and begins to float), reducing the ice storage capacity of the continents, and it has been suggested that this may be partly responsible for higher sea-levels during the MPWP. By contrast, uplift can help to stabilise ice sheets and may even help to trigger their formation by modifying atmospheric and oceanic circulation patterns.
 <br/><br/>
@@ -55,14 +55,14 @@ Ghelichkhan, S., Fuentes, J. J., Hoggard M. J., Richards, F. D., Mitrovica, J. X
 
 Mitrovica, J. X., Austermann, J., Coulson, S. L., Creveling, J. R., Hoggard, M. J., Jarvis, G. T. & Richards, F. D., 2020. Dynamic Topography and Ice Age Paleoclimate, Ann. Rev. Earth Planet. Sci., 48, 585-621, doi: 10.1146/annurev-earth-082517-010225. ([PDF](/documents/papers/mitrovica_etal_2020_annreveps.pdf))
 
-<h3 style="font-weight: bold">Mapping the Structure of the Upper Mantle</h3>
+<h2 style="font-weight: bold">Mapping the Structure of the Upper Mantle</h2>
 <p style="padding-top:10px">
 </p>
 
-<h3 style="font-weight: bold">Novel Exploration Methods to Secure a More Sustainable Supply of Key Metals</h3>
+<h2 style="font-weight: bold">Novel Exploration Methods to Secure a More Sustainable Supply of Key Metals</h3>
 <p style="padding-top:10px">
 </p>
 
-<h3 style="font-weight: bold">Continental Vertical Motions: Impacts on Landscape Evolution</h3>
+<h2 style="font-weight: bold">Continental Vertical Motions: Impacts on Landscape Evolution</h2>
 <p style="padding-top:10px">
 </p>
