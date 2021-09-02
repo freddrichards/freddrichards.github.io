@@ -36,7 +36,7 @@ Richards, F. D., Hoggard, M. J., White, N. J. & Ghelichkhan, S., 2020. Quantifyi
 
 <h2 style="font-weight: bold">Effect of Mantle Dynamics on Palaeoclimate</h2>
 <figure>
-<img align="right" src="{{ site.url }}{{ site.baseurl }}/images/DT_palaeoclimate.png" width="50%">
+<img align="right" src="{{ site.url }}{{ site.baseurl }}/images/DT_palaeoclimate_2.jpg" width="50%">
 </figure>
 <p style="padding-top:10px">
     
