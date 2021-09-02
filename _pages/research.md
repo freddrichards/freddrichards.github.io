@@ -10,7 +10,7 @@ permalink: /research/
 <figure>
 <img align="right" src="{{ site.url }}{{ site.baseurl }}/images/llsvp_plot.png" width="40%">
 </figure>
-<p style="padding-top:10px">
+<p style="padding-top:5px">
     
 Despite significant advances in our ability to image the deep mantle using seismological techniques, establishing the buoyancy and rheology of identified wave speed anomalies---such as the continent-sized *large low velocity provinces* (LLVPs)---is complicated by uncertainties in lower mantle composition and the amplitude of seismic attenuation. However, determining the density and viscosity structure of these features is fundamental to improving our understanding of mantle flow patterns and associated deflections of Earth's core-mantle boundary and surface.
 <br/><br/>
@@ -36,7 +36,7 @@ Richards, F. D., Hoggard, M. J., White, N. J. & Ghelichkhan, S., 2020. Quantifyi
 
 <h2 style="font-weight: bold">Effect of Mantle Dynamics on Palaeoclimate</h2>
 
-<p style="padding-top:10px">
+<p style="padding-top:5px">
 The study of ice age palaeoclimate has tended to assume – with the exception of glacial isostatic adjustment and localised tectonic activity – that Earth’s surface has remained a passive, non-deforming substrate. This common assumption is undermined by the existence of rapidly evolving dynamic topography and we may need to revise our present understanding of certain climatic periods, especially those that occurred millions of years before present. The mid-Pliocene warm period (MPWP; ~3 million years ago) is of particular interest as it represents the last time in Earth history that atmospheric CO<sub>2</sub> concentrations were similar to the present. Estimates of sea-level during this time are therefore used to tune ice sheet models and sea-level forecasts. However, uncertainty on these estimates is currently large due to the wide range of MPWP palaeoshoreline elevations (~15–65 m) and this spread is likely caused, at least in part, by changes in dynamic topography. In certain locations where agreement between model predictions and observations is good, it may be possible to correct palaeoshoreline elevations for dynamic topography to get more accurate constraints on global mean sea-level during this critical period.
 <br/><br/>
 <figure>
@@ -57,13 +57,13 @@ Ghelichkhan, S., Fuentes, J. J., Hoggard M. J., Richards, F. D., Mitrovica, J. X
 Mitrovica, J. X., Austermann, J., Coulson, S. L., Creveling, J. R., Hoggard, M. J., Jarvis, G. T. & Richards, F. D., 2020. Dynamic Topography and Ice Age Paleoclimate, Ann. Rev. Earth Planet. Sci., 48, 585-621, doi: 10.1146/annurev-earth-082517-010225. ([PDF](/documents/papers/mitrovica_etal_2020_annreveps.pdf))
 
 <h2 style="font-weight: bold">Mapping the Structure of the Upper Mantle</h2>
-<p style="padding-top:10px">
+<p style="padding-top:5px">
 </p>
 
 <h2 style="font-weight: bold">Novel Exploration Methods to Secure a More Sustainable Supply of Key Metals</h2>
-<p style="padding-top:10px">
+<p style="padding-top:5px">
 </p>
 
 <h2 style="font-weight: bold">Continental Vertical Motions: Impacts on Landscape Evolution</h2>
-<p style="padding-top:10px">
+<p style="padding-top:5px">
 </p>
