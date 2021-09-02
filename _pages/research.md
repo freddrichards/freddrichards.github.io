@@ -59,7 +59,7 @@ Mitrovica, J. X., Austermann, J., Coulson, S. L., Creveling, J. R., Hoggard, M. 
 <p style="padding-top:10px">
 </p>
 
-<h2 style="font-weight: bold">Novel Exploration Methods to Secure a More Sustainable Supply of Key Metals</h3>
+<h2 style="font-weight: bold">Novel Exploration Methods to Secure a More Sustainable Supply of Key Metals</h2>
 <p style="padding-top:10px">
 </p>
 
