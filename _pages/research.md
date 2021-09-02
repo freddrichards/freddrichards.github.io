@@ -9,8 +9,8 @@ permalink: /research/
 <h2 style="font-weight: bold">Deep Mantle Dynamics & Structure</h2>
 
 <figure>
-<img align="right" src="{{ site.url }}{{ site.baseurl }}/images/llsvp_plot.png" width="40%">
-<figcaption>LLSVP structure</figcaption>
+<img align="right" src="{{ site.url }}{{ site.baseurl }}/images/llsvp_plot.png" 
+width="40%">
 </figure>
 
 <p style="padding-top:5px">    
