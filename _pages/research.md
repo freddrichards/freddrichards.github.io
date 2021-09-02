@@ -41,6 +41,7 @@ The study of ice age palaeoclimate has tended to assume – with the exception o
 <br/><br/>
 <figure>
 <img align="left" src="{{ site.url }}{{ site.baseurl }}/images/DT_palaeoclimate_2.jpg" width="40%">
+<figcaption>Galileo's sketches of the Moon <br> in <i>Sidereus Nuncius</i> (1610)</figcaption>
 </figure>
 In addition to its effect on mid-Pliocene sea-level records, the impact of dynamic topography changes on the intrinsic stability of continental ice sheets during this time is an important area of research. Decreases in bedrock elevation can result in an inland retreat of ice-sheet grounding lines (i.e., where the ice sheet loses contact with basement rocks and begins to float), reducing the ice storage capacity of the continents, and it has been suggested that this may be partly responsible for higher sea-levels during the MPWP. By contrast, uplift can help to stabilise ice sheets and may even help to trigger their formation by modifying atmospheric and oceanic circulation patterns.
 <br/><br/>
