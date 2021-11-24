@@ -6,6 +6,20 @@ sitemap: false
 permalink: /home/
 ---
 
+<div class="content">
+
+<div class="fltrt">  
+
+![](images/teampic/fred.jpg)
+
+<center>
+
+<figcaption>2018</figcaption>
+
+</center>
+
+</div>
+
 Welcome!
 
 I am an Imperial College Research Fellow interested in all aspects of geodynamics but with a particular focus on how mantle flow and structure interacts with surface processes, especially ice sheet stability, landscape evolution, and mineral deposit formation. This research involves a mixture of computational modelling and acquisition of new data sets, with the ultimate aim of building a more complete 4D picture of Earth's evolution.
