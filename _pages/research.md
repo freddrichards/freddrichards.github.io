@@ -23,7 +23,8 @@ Developing a full understanding of the impact of dynamic topography on surface p
 <h4 style="font-weight: bold">Collaborators:</h4> Jacky Austermann (Columbia, USA), Sophie Coulson (Los Alamos National Laboratory, USA), Mark Hoggard (ANU, Australia), Jerry Mitrovica (Harvard, USA), Tamara Pico (UC Santa Barbara, USA).
 
 <h4 style="font-weight: bold">Publications:</h4>
-Austermann, J., Hoggard, M. J., Latychev, K., Richards, F. D. & Mitrovica, J. X., 2021. The effect of lateral variations in Earth structure on Last Interglacial sea level, Geophys. J. Int., ggab289. doi:  https://doi.org/10.1093/gji/ggab289. ([PDF](/documents/papers/austermann_etal_2021_gji.pdf))
+
+Austermann, J., Hoggard, M. J., Latychev, K., Richards, F. D. & Mitrovica, J. X., 2021. The effect of lateral variations in Earth structure on Last Interglacial sea level, Geophys. J. Int., ggab289. doi: 10.1093/gji/ggab289. ([PDF](/documents/papers/austermann_etal_2021_gji.pdf))
 
 Ghelichkhan, S., Fuentes, J. J., Hoggard M. J., Richards, F. D., Mitrovica, J. X., The Precession Constant and its Long-Term Variation, Icarus, 114172, doi: 10.1016/j.icarus.2020.114172.  ([PDF](/documents/papers/ghelichkhan_etal_2020_icarus.pdf))
 
@@ -77,7 +78,8 @@ This joint inversion approach shows great promise and will be augmented in futur
 <h4 style="font-weight: bold">Collaborators:</h4> Mark Hoggard (ANU, Australia), Sia Ghelichkhan (ANU, Australia), Paula Koelemeijer (Royal Holloway, UK), Harriet Lau (UC Berkeley, USA).
 
 <h4 style="font-weight: bold">Publications:</h4>
-Richards, F. D., Hoggard, M. J., Ghelichkhan, S., Koelemeijer, P. & Lau, H. C. P., Geodynamic, geodetic, and seismic constraints favour deflated and dense-cored LLVPs, *in review*. doi:  https://doi.org/10.31223/X55601. ([PDF](/documents/papers/richards_etal_2021_natgeo.pdf))
+
+Richards, F. D., Hoggard, M. J., Ghelichkhan, S., Koelemeijer, P. & Lau, H. C. P., Geodynamic, geodetic, and seismic constraints favour deflated and dense-cored LLVPs, *in review at Nature Geoscience*. doi: 10.31223/X55601. ([PDF](/documents/papers/richards_etal_2021_natgeo.pdf))
 
 Richards, F. D., Hoggard, M. J., White, N. J. & Ghelichkhan, S., 2020. Quantifying the relationship between short-wavelength dynamic topography and thermomechanical structure of the upper mantle using calibrated parameterization of anelasticity, 125, e2019JB019062, doi: 10.1029/2019JB019062. ([PDF](/documents/papers/richards_etal_2020_jgr_compressed.pdf))
 
@@ -96,6 +98,7 @@ width="40%">
 <h4 style="font-weight: bold">Collaborators:</h4> Mark Hoggard (ANU, Australia), Alistair Crosby (BP, UK), Sia Ghelichkhan (ANU, Australia), Patrick Ball (Colorado State, USA).
 
 <h4 style="font-weight: bold">Publications:</h4>
+
 Richards, F. D., Hoggard, M. J., Crosby, A. G., Ghelichkhan, S. & White, N. J., 2020. Structure and Dynamics of the Oceanic Lithosphere-Asthenosphere System, Phys. Earth Planet. Int., 309, 106559. doi: 10.1029/2019GC008771. ([PDF](/documents/papers/richards_etal_2020_pepi_compressed.pdf))
 
 Richards, F. D., Hoggard, M. J., White, N. J. & Ghelichkhan, S., 2020. Quantifying the relationship between short-wavelength dynamic topography and thermomechanical structure of the upper mantle using calibrated parameterization of anelasticity, 125, e2019JB019062, doi: 10.1029/2019JB019062. ([PDF](/documents/papers/richards_etal_2020_jgr_compressed.pdf))
@@ -119,6 +122,7 @@ width="40%">
 <h4 style="font-weight: bold">Collaborators:</h4> Gareth Roberts (Imperial, UK), Conor O'Malley (Imperial, UK), Marthe Klöcking (Göttingen, Germany), Verónica Rodríguez-Tribaldos (LBNL, USA), Mark Hoggard (ANU, Australia), Nicky White (Cambridge, UK).
 
 <h4 style="font-weight: bold">Publications:</h4>
+
 Klöcking, M., Hoggard, M. J., Rodríguez Tribaldos, V., Richards, F. D., Guimarães, J. A., Maclennan, J. C. & White, N. J., 2020. A tale of two domes: Neogene to recent volcanism and dynamic uplift of northeast Brazil and southwest Africa, Earth Planet. Sci. Lett., 547, 116464, doi: 10.1016/j.epsl.2020.116464. ([PDF](/documents/papers/klocking_etal_2020_epsl.pdf))
 
 Richards, F. D., Hoggard M. J. & White, N. J., 2016. Cenozoic Epeirogeny of the Indian Peninsula, Geochem. Geophys. Geosyst., 17, 1525-2027, doi: 10.1002/2016GC006545. ([PDF](/documents/papers/richards_etal_2016_gcubed.pdf))
