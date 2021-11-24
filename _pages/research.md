@@ -35,7 +35,7 @@ Mitrovica, J. X., Austermann, J., Coulson, S. L., Creveling, J. R., Hoggard, M. 
 
 <figure>
 <img align="right" src="{{ site.url }}{{ site.baseurl }}/images/global_deposit_map-1.jpeg" 
-width="40%">
+width="60%">
 </figure>
 
 <p style="padding-top:5px">
