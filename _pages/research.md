@@ -110,13 +110,10 @@ Seamounts: Interactions Between Tectonic Inheritance and Magmatic Evolution, Geo
 
 <h3 style="font-weight: bold">Continental Vertical Motions: Impacts on Landscape Evolution</h3>
 
-<figure>
-<img align="center" src="{{ site.url }}{{ site.baseurl }}/images/Figure11.jpg" 
-width="100%">
-</figure>
-
 <p style="padding-top:5px">
-[ENTER]    
+<figure>
+<img align="left" src="{{ site.url }}{{ site.baseurl }}/images/Figure11.jpg" width="100%">
+</figure>
 </p>
 
 <h4 style="font-weight: bold">Collaborators:</h4> Gareth Roberts (Imperial, UK), Conor O'Malley (Imperial, UK), Marthe Klöcking (Göttingen, Germany), Verónica Rodríguez-Tribaldos (LBNL, USA), Mark Hoggard (ANU, Australia), Nicky White (Cambridge, UK).
