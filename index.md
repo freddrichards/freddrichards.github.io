@@ -10,13 +10,11 @@ permalink: /
 
 ## Welcome!
 
-I am an Imperial College Research Fellow interested in all aspects of geodynamics but with a particular focus on how mantle flow and structure interacts with surface processes, especially ice sheet stability, landscape evolution, and mineral deposit formation. This research involves a mixture of computational modelling and acquisition of new data sets, with the ultimate aim of building a more complete 4D picture of Earth's evolution.
+Thanks for stopping by my website. My recent news, research summaries and publications can all be found here.
 
-Ongoing projects include deciphering how Earth's internal dynamics affect estimates of past and future sea-level change; using records of erosion and sedimentation to reconstruct how the pattern of mantle flow has changed over time; and understanding the link between lithospheric structure and the formation 'supergiant' sediment-hosted mineral deposits.
+I am an Imperial College Research Fellow and interdisciplinary geophysicist. The overarching aim of my research is to accelerate progress towards meeting the UN's Sustainable Development Goals (SDGs) by quantifying the impact of Earth's internal dynamics on surface processes. Currently, I am working to improve the accuracy of future sea level rise predictions by determining ice volumes during past warm periods, as well as present rates of ice loss. I am also developing new methods to narrow down the search space for 'supergiant' metal deposits that will be critical for driving the energy transition. This work is building a more complete 4D picture of Earth's evolution, helping to resolve outstanding geodynamic controversies including the thermochemical structure of the deep mantle, the composition and dynamics of the Earth's tectonic plates, and the role of mantle convection in driving landscape evolution.
 
 If you have any interest in working with me as part of your undergraduate, graduate or postdoctoral research, I encourage you to get in touch.
-
-
 
 <br/><br/><br/><br/>
 <figure>
