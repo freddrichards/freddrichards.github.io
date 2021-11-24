@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-<img align="right" src="images/teampic/fred.jpg" style="float: right; margin-left: 10px;">
+<img align="right" src="images/teampic/fred.jpg" style="float: right; margin-left: 10px; margin-top: 30px;">
 
 ## Welcome!
 
@@ -14,7 +14,7 @@ I am an Imperial College Research Fellow interested in all aspects of geodynamic
 
 Ongoing projects include deciphering how Earth's internal dynamics affect estimates of past and future sea-level change; using records of erosion and sedimentation to reconstruct how the pattern of mantle flow has changed over time; and understanding the link between lithospheric structure and the formation 'supergiant' sediment-hosted mineral deposits.
 
-If you have any interest in working with me as part of your undergraduate, graduate or post-doctoral research, I encourage you to get in touch.
+If you have any interest in working with me as part of your undergraduate, graduate or postdoctoral research, I encourage you to get in touch.
 
 
 
