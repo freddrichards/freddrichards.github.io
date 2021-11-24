@@ -79,7 +79,7 @@ This joint inversion approach shows great promise and will be augmented in futur
 
 <h4 style="font-weight: bold">Publications:</h4>
 
-Richards, F. D., Hoggard, M. J., Ghelichkhan, S., Koelemeijer, P. & Lau, H. C. P., Geodynamic, geodetic, and seismic constraints favour deflated and dense-cored LLVPs, *in review at Nature Geoscience*. doi: 10.31223/X55601. ([PDF](/documents/papers/richards_etal_2021_natgeo.pdf))
+Richards, F. D., Hoggard, M. J., Ghelichkhan, S., Koelemeijer, P. & Lau, H. C. P., Geodynamic, geodetic, and seismic constraints favour deflated and dense-cored LLVPs, *in review*. doi: 10.31223/X55601. ([PDF](/documents/papers/richards_etal_2021_natgeo.pdf))
 
 Richards, F. D., Hoggard, M. J., White, N. J. & Ghelichkhan, S., 2020. Quantifying the relationship between short-wavelength dynamic topography and thermomechanical structure of the upper mantle using calibrated parameterization of anelasticity, 125, e2019JB019062, doi: 10.1029/2019JB019062. ([PDF](/documents/papers/richards_etal_2020_jgr_compressed.pdf))
 
