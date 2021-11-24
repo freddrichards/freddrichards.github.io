@@ -35,7 +35,7 @@ Mitrovica, J. X., Austermann, J., Coulson, S. L., Creveling, J. R., Hoggard, M. 
 
 <figure>
 <img align="right" src="{{ site.url }}{{ site.baseurl }}/images/global_deposit_map-1.jpeg" 
-width="60%">
+width="70%">
 </figure>
 
 <p style="padding-top:5px">
@@ -87,7 +87,7 @@ Richards, F. D., Hoggard, M. J., White, N. J. & Ghelichkhan, S., 2020. Quantifyi
 
 <figure>
 <img align="right" src="{{ site.url }}{{ site.baseurl }}/images/temperature_model.jpg" 
-width="40%">
+width="70%">
 </figure>
 
 
