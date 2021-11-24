@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-<img align="right" src="images/teampic/fred.jpg">
+<img align="right" src="images/teampic/fred.jpg" style="float: right; margin-left: 10px;">
 
 ## Welcome!
 
