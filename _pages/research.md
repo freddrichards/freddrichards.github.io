@@ -86,7 +86,7 @@ Richards, F. D., Hoggard, M. J., White, N. J. & Ghelichkhan, S., 2020. Quantifyi
 <h3 style="font-weight: bold">Mapping the Thermomechanical Structure of the Upper Mantle</h3>
 
 <figure>
-<img align="right" src="{{ site.url }}{{ site.baseurl }}/images/temperature_model.jpg" 
+<img align="left" src="{{ site.url }}{{ site.baseurl }}/images/temperature_model.jpg" 
 width="55%">
 </figure>
 
@@ -111,8 +111,8 @@ Seamounts: Interactions Between Tectonic Inheritance and Magmatic Evolution, Geo
 <h3 style="font-weight: bold">Continental Vertical Motions: Impacts on Landscape Evolution</h3>
 
 <figure>
-<img align="right" src="{{ site.url }}{{ site.baseurl }}/images/Figure11.jpg" 
-width="40%">
+<img align="center" src="{{ site.url }}{{ site.baseurl }}/images/Figure11.jpg" 
+width="100%">
 </figure>
 
 <p style="padding-top:5px">
