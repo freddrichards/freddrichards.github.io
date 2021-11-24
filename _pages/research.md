@@ -6,7 +6,8 @@ sitemap: false
 permalink: /research/
 ---
 <br/><br/>
-<h2 style="font-weight: bold">Effect of Mantle Dynamics on Palaeoclimate</h2>
+
+<h3 style="font-weight: bold">Effect of Mantle Dynamics on Palaeoclimate</h2>
 
 <p style="padding-top:5px">
 The study of ice age palaeoclimate has tended to assume – with the exception of glacial isostatic adjustment and localised tectonic activity – that Earth’s surface has remained a passive, non-deforming substrate. This common assumption is undermined by the existence of rapidly evolving dynamic topography and we may need to revise our present understanding of certain climatic periods, especially those that occurred millions of years before present. The mid-Pliocene warm period (MPWP; ~3 million years ago) is of particular interest as it represents the last time in Earth history that atmospheric CO<sub>2</sub> concentrations were similar to the present. Estimates of sea-level during this time are therefore used to tune ice sheet models and sea-level forecasts. However, uncertainty on these estimates is currently large due to the wide range of MPWP palaeoshoreline elevations (~15–65 m) and this spread is likely caused, at least in part, by changes in dynamic topography. In certain locations where agreement between model predictions and observations is good, it may be possible to correct palaeoshoreline elevations for dynamic topography to get more accurate constraints on global mean sea-level during this critical period.
@@ -16,8 +17,7 @@ The study of ice age palaeoclimate has tended to assume – with the exception o
 </figure>
 In addition to its effect on mid-Pliocene sea-level records, the impact of dynamic topography changes on the intrinsic stability of continental ice sheets during this time is an important area of research. Decreases in bedrock elevation can result in an inland retreat of ice-sheet grounding lines (i.e., where the ice sheet loses contact with basement rocks and begins to float), reducing the ice storage capacity of the continents, and it has been suggested that this may be partly responsible for higher sea-levels during the MPWP. By contrast, uplift can help to stabilise ice sheets and may even help to trigger their formation by modifying atmospheric and oceanic circulation patterns.
 <br/><br/>
-Developing a full understanding of the impact of dynamic topography on surface processes will require a lot more work, and large uncertainties on the internal viscosity and density structure of the mantle remain. However, expansion of palaeotopographic data compilations and integration of these constraints with sophisticated inverse modelling techniques will allow us to steadily refine our knowledge of past mantle states and rheology. It will not be long before we can start to give more definitive answers to the palaeoclimate questions outlined above and many more.    
-    
+Developing a full understanding of the impact of dynamic topography on surface processes will require a lot more work, and large uncertainties on the internal viscosity and density structure of the mantle remain. However, expansion of palaeotopographic data compilations and integration of these constraints with sophisticated inverse modelling techniques will allow us to steadily refine our knowledge of past mantle states and rheology. It will not be long before we can start to give more definitive answers to the palaeoclimate questions outlined above and many more.
 </p>
 
 <h4 style="font-weight: bold">Collaborators:</h4> Jacky Austermann (Columbia, USA), Sophie Coulson (Los Alamos National Laboratory, USA), Mark Hoggard (ANU, Australia), Jerry Mitrovica (Harvard, USA), Tamara Pico (UC Santa Barbara, USA).
@@ -29,25 +29,22 @@ Ghelichkhan, S., Fuentes, J. J., Hoggard M. J., Richards, F. D., Mitrovica, J. X
 
 Mitrovica, J. X., Austermann, J., Coulson, S. L., Creveling, J. R., Hoggard, M. J., Jarvis, G. T. & Richards, F. D., 2020. Dynamic Topography and Ice Age Paleoclimate, Ann. Rev. Earth Planet. Sci., 48, 585-621, doi: 10.1146/annurev-earth-082517-010225. ([PDF](/documents/papers/mitrovica_etal_2020_annreveps.pdf))
 
-<h2 style="font-weight: bold">Novel Exploration Methods to Secure a More Sustainable Supply of Critical Metals</h2>
+
+<h3 style="font-weight: bold">Novel Exploration Methods to Secure a More Sustainable Supply of Critical Metals</h2>
 
 <figure>
 <img align="right" src="{{ site.url }}{{ site.baseurl }}/images/global_deposit_map-1.jpeg" 
 width="40%">
 </figure>
 
-
 <p style="padding-top:5px">
 [ENTER]
-</p>
-
 </p>
 
 <h4 style="font-weight: bold">Collaborators:</h4> Mark Hoggard (ANU, Australia), Karol Czarnota (Geoscience Australia, Australia), David Huston (Geoscience Australia, Australia), Lynton Jaques (ANU, Australia).
 
 <h4 style="font-weight: bold">Publications:</h4> 
 
-<p style="padding-top:12px">
 Hoggard, M. J., Czarnota, K., Richards, F. D., Huston, D. L., Jaques, A. L., & Ghelichkhan, S., 2020. Global distribution of sediment-hosted metals controlled by craton edge stability, Nature Geoscience, 13, 504-510, doi: 10.1038/s41561-020-0593-2. ([PDF](/documents/papers/hoggard_etal_2020_natgeo.pdf))
 
 Czarnota, K., Hoggard, M. J., Richards, F. D., Teh, M., Huston, D. L., Jacques, A. L. & Ghelichkhan, S., 2020. Minerals on the edge: Sediment-hosted base metal endowment above steps in lithospheric thickness, Exploring for the Future: Extended Abstracts, Geoscience Australia, Canberra. ([PDF](/documents/papers/czarnota_etal_2020_eftf.pdf))
@@ -55,7 +52,7 @@ Czarnota, K., Hoggard, M. J., Richards, F. D., Teh, M., Huston, D. L., Jacques, 
 Huston, D. L., Champion, D. C., Czarnota, K., Hutchens, M., Hoggard, M. J., Ware, B. D., Richards, F. D., Tessalina, S. D., Gibson, G. M. & Carr, G., 2020. Lithospheric-scale controls on zinc-lead-silver deposits of the North Australian Zinc Belt: evidence from isotopic and geophysical data, Exploring for the Future: Extended Abstracts, Geoscience Australia, Canberra. ([PDF](/documents/papers/huston_etal_2020_eftf.pdf))
 
 
-<h2 style="font-weight: bold">Dynamics of the Deep Earth</h2>
+<h3 style="font-weight: bold">Dynamics of the Deep Earth</h2>
 
 <figure>
 <img align="right" src="{{ site.url }}{{ site.baseurl }}/images/llsvp_plot.png" 
@@ -84,7 +81,7 @@ Richards, F. D., Hoggard, M. J., Ghelichkhan, S., Koelemeijer, P. & Lau, H. C. P
 
 Richards, F. D., Hoggard, M. J., White, N. J. & Ghelichkhan, S., 2020. Quantifying the relationship between short-wavelength dynamic topography and thermomechanical structure of the upper mantle using calibrated parameterization of anelasticity, 125, e2019JB019062, doi: 10.1029/2019JB019062. ([PDF](/documents/papers/richards_etal_2020_jgr_compressed.pdf))
 
-<h2 style="font-weight: bold">Mapping the Thermomechanical Structure of the Upper Mantle</h2>
+<h3 style="font-weight: bold">Mapping the Thermomechanical Structure of the Upper Mantle</h2>
 
 <figure>
 <img align="right" src="{{ site.url }}{{ site.baseurl }}/images/temperature_model.jpg" 
@@ -108,7 +105,7 @@ Richards, F. D., Hoggard M. J., Cowton, L. R. & White N. J., 2018. Reassessing t
 Richards, F. D., Kalnins L. M. & Watts A. B., Cohen, B. E. & Beaman R. J., 2018. The Morphology of the Tasmantid
 Seamounts: Interactions Between Tectonic Inheritance and Magmatic Evolution, Geochem. Geophys. Geosyst., 19, 3870-3891, doi: 10.1029/2018GC007821.  ([PDF](/documents/papers/richards_etal_2018_gcubed.pdf))
 
-<h2 style="font-weight: bold">Continental Vertical Motions: Impacts on Landscape Evolution</h2>
+<h3 style="font-weight: bold">Continental Vertical Motions: Impacts on Landscape Evolution</h2>
 
 <figure>
 <img align="right" src="{{ site.url }}{{ site.baseurl }}/images/Figure11.jpg" 
