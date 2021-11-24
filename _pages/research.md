@@ -5,7 +5,7 @@ excerpt: "Fred Richards - Research"
 sitemap: false
 permalink: /research/
 ---
-
+<br/><br/>
 <h2 style="font-weight: bold">Effect of Mantle Dynamics on Palaeoclimate</h2>
 
 <p style="padding-top:5px">
