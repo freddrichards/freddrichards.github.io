@@ -21,7 +21,7 @@ Since many climate and ice sheet models are tuned using palaeoclimatic estimates
 <img align="left" src="{{ site.url }}{{ site.baseurl }}/images/DT_palaeoclimate_2.jpg" width="100%">
 </figure>
   
-By developing new methodologies to map seismic velocity structure into temperature, density and viscosity, I have generated mantle convection simulations that can explain both present-day topographic patterns and changes in elevation inferred from ancient sea-level markers. One important outcome of this work is that during the mid-Pliocene warm period (the last time in Earth history that atmospheric CO<sub>2</sub> concentrations were similar to the present), global ice volumes appear to have been larger than previously assumed, ruling out the most pessimistic recent sea-level projections. Another, is that the eastern coast of Baffin Island has experienced significant convectively-driven uplift in the past 5 million years, potentially explaining geological evidence that Northern Hemisphere glaciation began in the Canadian Arctic rather than Greenland. In the future, more sophisticated inverse methods will be coupled with new geological constraints to extend and refine mantle convection reconstructions, allowing us to investigate deep Earth-climate interactions over ~10 million-year timescales.
+By developing new methodologies to map seismic velocity structure into temperature, density and viscosity, I have generated mantle convection simulations that can explain both present-day topographic patterns and changes in elevation inferred from ancient sea-level markers. One important outcome of this work is that during the mid-Pliocene warm period (the last time in Earth history that atmospheric CO<sub>2</sub> concentrations were similar to the present), global ice volumes appear to have been larger than previously assumed, ruling out the most pessimistic recent sea-level projections. Another key result is that the eastern coast of Baffin Island has experienced significant convectively-driven uplift in the past 5 million years, potentially explaining geological evidence that Northern Hemisphere glaciation began in the Canadian Arctic rather than Greenland. In the future, I plan to use more sophisticated inverse methods coupled with new geological constraints to extend and refine mantle convection reconstructions, allowing deep Earth-climate interactions to be determined over ~10 million-year timescales .
  
 </p>
 
@@ -38,17 +38,18 @@ Mitrovica, J. X., Austermann, J., Coulson, S. L., Creveling, J. R., Hoggard, M. 
 
 <h3 style="font-weight: bold">Novel Exploration Methods to Secure a More Sustainable Supply of Critical Metals</h3>
 
-<figure>
-<img align="right" src="{{ site.url }}{{ site.baseurl }}/images/global_deposit_map-1.jpeg" 
-width="55%">
-</figure>
 
 <p style="padding-top:5px">
 
 As the energy transition gathers pace in the coming decades, we are projected to need unprecedented quantities of base metals (copper, zinc, lead and nickel) and associated subsidiary metals (e.g., indium, cobalt, and molybdenum). These elements are critical ingredients in a range of low-carbon technologies, such as electric car batteries and solar photovoltaic cells, but also to the production of food via their use in fungicides and fertilisers. The burgeoning demand for these materials is forecast to outstrip supply in the near future, potentially stalling progress towards a greener future. Pressure is therefore mounting to find new large deposits of critical metal but, despite huge increases in exploration expenditure, no new supergiant deposits of copper (those containing more than 50 million tonnes) have discovered in the last 25 years. This lack of success can be partly attributed to the fact that, in heavily explored regions, most large surficial deposits have already been found. However, exploration beneath sedimentary cover is in its infancy, and it is thought that major ore bodies may lie close to the surface in many intracontinental basins.
   
+<figure>
+<img align="left" src="{{ site.url }}{{ site.baseurl }}/images/global_deposit_map-1.jpeg" 
+width="100%">
+</figure>
+  
 In collaboration with colleagues in Australia, I mapped the thickness of the lithosphere (the rigid upper portion of Earth's tectonic plates) using a methodology I have developed for converting seismic velocity observations into temperature estimates. These maps revealed a strong and previously unreported relationship between the locations of large sediment-hosted mineral systems and the edges of the oldest, thickest parts of the global lithosphere, known as cratons. In fact, ~85% of all sediment-hosted base metals mined to date, and 100% of all giant deposits (more than 10 million tonnes of metal), occur along this transition.
-
+<br/>
 This discovery is important for several reasons. First, it suggests that there is a link between shallow geological processes operating in sedimentary basins and Earth’s mantle hundreds of kilometers beneath our feet, improving our knowledge of sediment-hosted mineral systems and increasing our ability to predict were others may have developed. Secondly, since these deposits are up to 2 billion years old (which is nearly half the age of the Earth), the relationship suggests that the transition between thick and thin continental lithosphere either persists for billions of years without modification by the plate tectonic cycle, or else, is only destroyed temporarily before regrowing to its original thickness. Finally, our estimates of plate thickness from seismology, in combination with other geological observations, allow identification of new prospective regions for mineral exploration. These ‘treasure maps’ will also work for deposits that are hidden beneath Earth’s surface.
 
 Current projects in this area include: i) integrating other forms of geophysical observation (e.g., magnetotellurics) with numerical modelling work to better understand the link between deep mantle processes and shallow intrabasin mineral systems; ii) using machine learning techniques to narrow down on the key ingredients necessary for a well-developed mineral system; iii) determining the key geodynamic controls on magmatic nickel-copper-PGE deposits.
