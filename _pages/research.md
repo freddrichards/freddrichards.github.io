@@ -25,7 +25,7 @@ To address this challenge, we are developing new methodologies to accurately con
 
 </p>
 
-<h4 style="font-weight: bold">Collaborators:</h4> Jacky Austermann (Columbia, USA), Sophie Coulson (Los Alamos National Laboratory, USA), Mark Hoggard (ANU, Australia), Jerry Mitrovica (Harvard, USA), Tamara Pico (UC Santa Barbara, USA).
+<h4 style="font-weight: bold">Collaborators:</h4> Jacky Austermann (Columbia, USA), Sophie Coulson (Los Alamos National Laboratory, USA), Sia Ghelichkhan (ANU, Australia), Saskia Goes (Imperial, UK), James Hazzard (Imperial, UK), Mark Hoggard (ANU, Australia), Jerry Mitrovica (Harvard, USA), Tamara Pico (UC Santa Barbara, USA), Gareth Roberts (Imperial, UK).
 
 <h4 style="font-weight: bold">Publications:</h4>
 
