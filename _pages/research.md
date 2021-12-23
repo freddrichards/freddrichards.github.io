@@ -8,7 +8,7 @@ permalink: /research/
 <br/><br/>
 <h2 style="font-weight: bold">Research Themes</h2>
 
-<h3 style="font-weight: bold">Effect of Mantle Dynamics on Palaeoclimate Records</h3>
+<h3 style="font-weight: bold">Influence of Mantle Dynamics on Palaeoclimate Records and Predictions of Future Sea-Level Change</h3>
 
 <p style="padding-top:5px">
 Studies of ice age palaeoclimate have tended to assume – with the exception of glacial isostatic adjustment (GIA) and localised tectonic activity – that Earth’s surface has remained a passive, non-deforming substrate. However, new observational constraints show that changes in the pattern of mantle convection can generate relatively rapid vertical surface motions (~100 m per million years). The existence of this dynamic topography has several important implications for our understanding of past and present climate. 
