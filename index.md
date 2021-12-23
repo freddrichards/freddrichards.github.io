@@ -9,7 +9,7 @@ permalink: /
 
 <img align="right" src="images/teampic/fred.jpg" style="float: right; margin-left: 20px; margin-top: 30px; margin-bottom:20px;">
 
-<div style="text-align: right">
+<div style="text-align: justify">
 ### Welcome!
 
 Thanks for stopping by my website. My recent news, current research projects and publications can all be found here.
