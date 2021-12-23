@@ -7,7 +7,7 @@ permalink: /
 ---
 <br/><br/>
 
-<img align="right" src="images/teampic/fred.jpg" style="float: right; margin-left: 10px; margin-top: 30px;">
+<img align="right" src="images/teampic/fred.jpg" style="float: right; margin-left: 30px; margin-top: 30px;">
 
 ### Welcome!
 
