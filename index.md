@@ -9,6 +9,7 @@ permalink: /
 
 <img align="right" src="images/teampic/fred.jpg" style="float: right; margin-left: 20px; margin-top: 30px; margin-bottom:20px;">
 
+<div style="text-align: right">
 ### Welcome!
 
 Thanks for stopping by my website. My recent news, current research projects and publications can all be found here.
@@ -19,6 +20,7 @@ Currently, I am working to shrink uncertainty in projections of future sea level
 
 If you have any interest in working with me as part of your undergraduate, graduate or postdoctoral research, I encourage you to get in touch.
 
+</div>
 <br/><br/><br/><br/>
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/Fig1.png" width="150%">
