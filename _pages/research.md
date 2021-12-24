@@ -96,7 +96,7 @@ Richards, F. D., Hoggard, M. J., White, N. J. & Ghelichkhan, S., 2020. Quantifyi
 
 <figure>
 <img align="left" src="{{ site.url }}{{ site.baseurl }}/images/temperature_model.jpg" 
-width="55%">
+width="60%" style="float: left; margin-right: 20px; margin-top: 15px; margin-bottom:15px;">
 </figure>
 
 
