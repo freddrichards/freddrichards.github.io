@@ -83,11 +83,6 @@ This joint inversion approach shows great promise and will be augmented in futur
 
 </p>
 
-<!--and more localised *ultra-low velocity zones* (ULVZs)-->
-<!--The density field of the mantle is a key parameter in constraining the dynamics of mantle flow. We have set out to understand mantle density by appealing to a much-neglected geophysical process, namely solid Earth tides. Predicting the deformation of the solid Earth in response to periodic luni-solar forcings has a rich history in classical physics, with theoretical work dating back to Newton. The advent of modern space geodetic methods (e.g., surveying using the Global Positioning System) has yielded unprecedented constraints on solid Earth tidal deformation and revealed geographical variations in body tide deformation at the sub-mm level. These variations are indicative of heterogeneity in mantle buoyancy and elastic structure.-->
-
-<!--Using a tidal theory we developed, we have shown that the deepest parts of the mantle beneath African and the Pacific are characterized by negative buoyancy. Such a result holds implications for the compositional distribution of the mantle, which in turn provides information on the primordial state of the mantle, and its ongoing evolution and how efficiently the mantle mixes. This initial application shows the great promise of “tidal tomography” in elucidating deep mantle buoyancy structure and there are many directions to be taken (e.g., augmenting data to include many types of tides, joint inversions with more conventional data, further generalizing the theory to allow for more complicated processes).-->
-
 
 <h4 style="font-weight: bold">Collaborators:</h4> Mark Hoggard (ANU, Australia), Sia Ghelichkhan (ANU, Australia), Paula Koelemeijer (Royal Holloway, UK), Harriet Lau (UC Berkeley, USA).
 
@@ -106,7 +101,11 @@ width="55%">
 
 
 <p style="padding-top:5px">
-[ENTER]
+The thermomechanical structure of Earth’s lithosphere and its interaction with the underlying asthenosphere exerts a fundamental control on Earth’s internal dynamics and its surface expression. Some features of the lithosphere-asthenosphere system are well understood, such as the cooling and sinking of oceanic lithosphere as a function of age, and the importance of a low-viscosity asthenosphere for ‘lubricating’ plate motions. However, many important details of this upper mantle structure remain unclear, including: i) the degree to which the rheological boundary between the lithosphere and asthenosphere is time-dependent; ii) the chemical heterogeneity of the continental lithosphere and its impact on long-term stability; and iii) whether small-scale convection can explain the apparent ‘flattening’ of sea-floor subsidence in older oceanic basins, and rapid vertical motions and magmatism at continental margins.
+
+We have been tackling these questions by merging insights from recent experiments on the frequency-dependence of mantle rheology across seismic to convective timescales, new high-resolution tomographic images of the shallow upper mantle, and petrological data sets that constrain the temperature structure of this region. By comparing xenolith-derived measurements of palaeo-lithospheric thickness with seismic estimates of present-day structure, this work has found that thermal erosion of the base of the lithosphere can generate significant topography and drainage reorganisation (e.g., Angola). We have also demonstrated that advection of asthenospheric temperature anomalies, consistent with petrological estimates, can explain short-wavelength vertical motions of Earth’s surface. Lastly, we have shown that thermomechanically self-consistent simulations of upper mantle flow generate oceanic subsidence and gravity predictions that are fully consistent with those of plate cooling models.
+
+Questions we aim to tackle going forward include disentangling the chemical versus thermal contributions to the lithospheric heterogeneity of continents and determining how lithosphere thins and rethickens during emplacement of Large Igneous Provinces.
 </p>
 
 <h4 style="font-weight: bold">Collaborators:</h4> Mark Hoggard (ANU, Australia), Alistair Crosby (BP, UK), Sia Ghelichkhan (ANU, Australia), Patrick Ball (Colorado State, USA).
@@ -116,6 +115,8 @@ width="55%">
 Richards, F. D., Hoggard, M. J., Crosby, A. G., Ghelichkhan, S. & White, N. J., 2020. Structure and Dynamics of the Oceanic Lithosphere-Asthenosphere System, Phys. Earth Planet. Int., 309, 106559. doi: 10.1029/2019GC008771. ([PDF](/documents/papers/richards_etal_2020_pepi_compressed.pdf))
 
 Richards, F. D., Hoggard, M. J., White, N. J. & Ghelichkhan, S., 2020. Quantifying the relationship between short-wavelength dynamic topography and thermomechanical structure of the upper mantle using calibrated parameterization of anelasticity, 125, e2019JB019062, doi: 10.1029/2019JB019062. ([PDF](/documents/papers/richards_etal_2020_jgr_compressed.pdf))
+
+Klöcking, M., Hoggard, M. J., Rodríguez Tribaldos, V., Richards, F. D., Guimarães, J. A., Maclennan, J. C. & White, N. J., 2020. A tale of two domes: Neogene to recent volcanism and dynamic uplift of northeast Brazil and southwest Africa, Earth Planet. Sci. Lett., 547, 116464, doi: 10.1016/j.epsl.2020.116464. ([PDF](/documents/papers/klocking_etal_2020_epsl.pdf))
 
 Richards, F. D., Hoggard M. J., Cowton, L. R. & White N. J., 2018. Reassessing the Thermal Structure of Oceanic Lithosphere with Revised Global Inventories of Basement Depths and Heat Flow Measurements, J. Geophys. Res.: Solid Earth, 123, 9136-9161, doi: 10.1029/2018JB015998. ([PDF](/documents/papers/richards_etal_2018_jgr.pdf))
 
