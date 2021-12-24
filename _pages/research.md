@@ -135,7 +135,7 @@ Recent work in this area has investigated the longevity of passive margin escarp
 </figure>
 </p>
 
-The inverse modelling framework applied in this work is remarkably successful, however, it only accounts for erosion within river channels and is insensitive to subsidence. In the coming years, we aim to combine sophisticated inverse methods with efficient landscape evolution models and new sedimentary datasets to generate more complete histories of continental vertical motion. These outputs will dramatically improve reconstructions of Earth’s time-dependent mantle convection, past sea-levels, and palaeoclimate.
+The inverse modelling framework applied to date is remarkably successful, however, it only accounts for erosion within river channels and is insensitive to subsidence. In the coming years, we aim to combine sophisticated inverse methods with efficient landscape evolution models and new sedimentary datasets to generate more complete histories of continental vertical motion. These outputs will dramatically improve reconstructions of Earth’s time-dependent mantle convection, past sea-levels, and palaeoclimate.
 
 <h4 style="font-weight: bold">Collaborators:</h4> Gareth Roberts (Imperial, UK), Conor O'Malley (Imperial, UK), Marthe Klöcking (Göttingen, Germany), Verónica Rodríguez-Tribaldos (LBNL, USA), Mark Hoggard (ANU, Australia), Nicky White (Cambridge, UK).
 
