@@ -8,7 +8,7 @@ permalink: /research/
 <br/><br/>
 <h2 style="font-weight: bold">Research Themes</h2>
 
-<h3 style="font-weight: bold">Influence of Mantle Dynamics on Palaeoclimate and Projected Sea-Level Change</h3>
+<h3 style="font-weight: bold">Impact of Mantle Dynamics on Palaeoclimate and Future Sea-Level Change</h3>
 
 <p style="padding-top:5px">
 Early studies of ice age palaeoclimate have tended to assume – with the exception of glacial isostatic adjustment (GIA) and localised tectonic activity – that Earth’s surface has remained a passive, non-deforming substrate. However, new observational constraints show that changes in the pattern of mantle convection can generate relatively rapid vertical surface motions (~100 m per million years). This dynamic component of Earth’s topography has several important ramifications for our understanding of past climate. First, vertical displacement of ancient sea-level markers can lead to inaccurate estimates of ice volume during past warm periods. Secondly, surface elevation changes with respect to sea-level alter the equilibrium position of ice sheet grounding lines (i.e., where ice sheets begins to float), affecting continental ice storage capacity. Thirdly, topographic growth/decay can interact with atmospheric and oceanic circulation patterns, creating lasting changes in regional climate and ice accumulation patterns. Finally, changes in long-wavelength dynamic topography of the surface and core-mantle boundary, as well as internal density anomalies, can modulate the periodicity and amplitude of Earth’s precession, which influences the pacing of glacial-interglacial transitions.
