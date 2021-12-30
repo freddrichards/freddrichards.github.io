@@ -12,14 +12,18 @@ permalink: /research/
 
 <p style="padding-top:5px">
 Early studies of ice age palaeoclimate have tended to assume – with the exception of glacial isostatic adjustment (GIA) and localised tectonic activity – that Earth’s surface has remained a passive, non-deforming substrate. However, new observational constraints show that changes in the pattern of mantle convection can generate relatively rapid vertical surface motions (~100 m per million years). This dynamic component of Earth’s topography has several important ramifications for our understanding of past climate. First, vertical displacement of ancient sea-level markers can lead to inaccurate estimates of ice volume during past warm periods. Secondly, surface elevation changes with respect to sea-level alter the equilibrium position of ice sheet grounding lines (i.e., where ice sheets begins to float), affecting continental ice storage capacity. Thirdly, topographic growth/decay can interact with atmospheric and oceanic circulation patterns, creating lasting changes in regional climate and ice accumulation patterns. Finally, changes in long-wavelength dynamic topography of the surface and core-mantle boundary, as well as internal density anomalies, can modulate the periodicity and amplitude of Earth’s precession, which influences the pacing of glacial-interglacial transitions.
-<br/><br/>
+ 
+<figure>
+<img align="left" src="{{ site.url }}{{ site.baseurl }}/images/DT_palaeoclimate_2.jpg" width="100%">
+</figure> 
+
 In addition, while GIA is accounted for in most recent sea-level studies, modelling of this process is generally based on the assumption that Earth’s internal viscosity varies only with depth. However, mantle rheology has also been shown to vary laterally as a function of temperature, composition and deformation timescale. This lateral variability can dramatically alter inferred rates of GIA over time scales ranging from decades (modern ice melt) to hundreds of thousands of years (glacial-interglacial cycles), and therefore has significant implications for studies of past global mean sea-level, rates of modern ice loss, and future ice-sheet stability.
 <br/><br/>
 Many sea-level projections are tuned to fit ice loss estimates from the satellite and palaeoclimate record but none of these target values account for the mantle dynamic impacts described above. The resulting forecasts therefore remain subject to deep uncertainty, reducing their utility for decision makers involved in developing adaptation and mitigation strategies. Accurately mapping 3D variations in Earth’s internal structure, and its spatiotemporal evolution is therefore a grand challenge of climate research.
  
 <figure>
-<img align="left" src="{{ site.url }}{{ site.baseurl }}/images/DT_palaeoclimate_2.jpg" width="100%">
-</figure>
+<img align="left" src="{{ site.url }}{{ site.baseurl }}/images/australia_result.jpg" width="100%">
+</figure> 
   
 To address this challenge, we are developing new methodologies to accurately convert seismic velocity structure into temperature, density and viscosity, and obtain uncertainties on these quantities. This work has allowed us to generate mantle convection simulations that explain both present-day topographic patterns and changes in elevation inferred from ancient sea-level markers. One important outcome is that during the mid-Pliocene warm period (the last time in Earth history that atmospheric CO2 concentrations were similar to the present), global ice volumes appear to have been larger than previously assumed, ruling out the most pessimistic recent sea-level projections. Another key result is that the eastern coast of Baffin Island has experienced significant convectively-driven uplift in the past 5 million years, potentially explaining geological evidence that Northern Hemisphere glaciation began in the Canadian Arctic rather than Greenland. We have also successfully developed high-resolution models of steady-state viscosity, lithospheric thickness and heat flow beneath Antarctica, using a Bayesian inverse framework to quantify uncertainties in these parameters.  In future, we plan to use more sophisticated inverse methods coupled with new geological constraints to extend and refine mantle convection reconstructions, allowing deep Earth-climate interactions to be determined over ~10 million-year timescales.
 
