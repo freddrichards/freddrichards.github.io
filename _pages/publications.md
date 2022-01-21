@@ -37,7 +37,7 @@ permalink: /publications/
 **[8]** Mitrovica, J. X., Austermann, J., Coulson, S. L., Creveling, J. R., Hoggard, M. J., Jarvis, G. T. & Richards, F. D., 2020. Dynamic Topography and Ice Age Paleoclimate, Ann. Rev. Earth Planet. Sci., 48, 585-621, doi: 10.1146/annurev-earth-082517-010225. ([PDF](/documents/papers/mitrovica_etal_2020_annreveps.pdf))
 </p>
 <p style="padding-top:12px">
-**[7]** Ghelichkhan, S., Fuentes, J. J., Hoggard M. J., Richards, F. D., Mitrovica, J. X., The Precession Constant and its Long-Term Variation, Icarus, 114172, doi: 10.1016/j.icarus.2020.114172.  ([PDF](/documents/papers/ghelichkhan_etal_2020_icarus.pdf))
+**[7]** Ghelichkhan, S., Fuentes, J. J., Hoggard M. J., Richards, F. D., Mitrovica, J. X., The Precession Constant and its Long-Term Variation, Icarus, 114172, doi: 10.1016/j.icarus.2020.114172.  ([PDF](/documents/papers/ghelichkhan_etal_2021_icarus.pdf))
 </p>
 <p style="padding-top:12px">
 **[6]** Czarnota, K., Hoggard, M. J., Richards, F. D., Teh, M., Huston, D. L., Jacques, A. L. & Ghelichkhan, S., 2020. Minerals on the edge: Sediment-hosted base metal endowment above steps in lithospheric thickness, Exploring for the Future: Extended Abstracts, Geoscience Australia, Canberra. ([PDF](/documents/papers/czarnota_etal_2020_eftf.pdf))
