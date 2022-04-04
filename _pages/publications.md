@@ -32,11 +32,11 @@ permalink: /publications/
 </p>
 
 <p style="padding-top:12px">
-**[13]**  O'Brien, A. C., Boubert, D., Bowman, D. M., Richards, F. D. & Maunder, M., Pandemic Posters, Astron. Geophys., 62, 19, doi: 10.1093/astrogeo/atab039. ([PDF](/documents/papers/obrien_etal_2021_astrongeophys.pdf))
+**[13]**  O'Brien, A. C., Boubert, D., Bowman, D. M., Richards, F. D. & Maunder, M., Pandemic Posters, Astron. Geophys., 62, 19, doi: 10.1093/astrogeo/atab039. N.B. not research-related. ([PDF](/documents/papers/obrien_etal_2021_astrongeophys.pdf))
 </p>
 
 <p style="padding-top:12px">
-**[12]**  Bowman, D. M., Maunder, M., Richards, F. D., O'Brien, A. C. & Boubert, D., Hear it through the grapevine, Astron. Geophys., 62, 12-14, doi: 10.1093/astrogeo/atab076. ([PDF](/documents/papers/bowman_etal_2021_astrongeophys.pdf))
+**[12]**  Bowman, D. M., Maunder, M., Richards, F. D., O'Brien, A. C. & Boubert, D., Hear it through the grapevine, Astron. Geophys., 62, 12-14, doi: 10.1093/astrogeo/atab076. N.B. not research-related. ([PDF](/documents/papers/bowman_etal_2021_astrongeophys.pdf))
 </p>
 
 <h3 style="font-weight: bold">2020</h3>
