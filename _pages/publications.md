@@ -10,6 +10,10 @@ permalink: /publications/
 
 
 <p style="padding-top:15px">
+**[19]** Hazzard, J. A. N., Richards, F. D., Roberts, G. G. & Goes, S., Probabilistic Assessment of Antarctic Thermomechanical Structure: Impacts on Ice Sheet Stability, *in review*. ([PDF](/documents/papers/hazzard_etal_2022_jgr.pdf))
+</p>
+
+<p style="padding-top:15px">
 **[18]** Davies, D. R., Ghelichkhan, S., Hoggard, M. J., Valentine, A. P. & Richards, F. D., Observations and Models of Dynamic Topography: Current Status and Future Directions, *in review*. ([PDF](/documents/papers/davies_etal_2022_elsevier.pdf))
 </p>
 
