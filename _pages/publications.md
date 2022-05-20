@@ -10,7 +10,7 @@ permalink: /publications/
 
 
 <p style="padding-top:15px">
-**[19]** Hazzard, J. A. N., Richards, F. D., Roberts, G. G. & Goes, S., Probabilistic Assessment of Antarctic Thermomechanical Structure: Impacts on Ice Sheet Stability, *in review*. ([PDF](/documents/papers/hazzard_etal_2022_jgr.pdf))
+**[19]** Hazzard, J. A. N., Richards, F. D., Roberts, G. G. & Goes, S. D. B., Probabilistic Assessment of Antarctic Thermomechanical Structure: Impacts on Ice Sheet Stability, *in review*. ([PDF](/documents/papers/hazzard_etal_2022_jgr.pdf))
 </p>
 
 <p style="padding-top:15px">
