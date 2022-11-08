@@ -1,7 +1,7 @@
 theme: minima
 title: Fred Richards
 email: f.richards19@imperial.ac.uk
-gems: 
+plugins: 
   - jekyll-seo-tag
   - jekyll-feed
 timezone: Europe/London
