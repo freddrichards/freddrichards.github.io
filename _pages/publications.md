@@ -27,17 +27,17 @@ permalink: /publications/
 <h3 style="font-weight: bold">2023</h3>
 
 <p style="padding-top:15px">
-**[20]** Richards, F. D., Hoggard, M. J., Ghelichkhan, S., Koelemeijer, P. & Lau, H. C. P., Geodynamic, geodetic, and seismic constraints favour deflated and dense-cored LLVPs, Earth Plan. Sci. Lett., 602, 117964. doi: https://doi.org/10.1016/j.epsl.2022.117964 ([PDF](/documents/papers/richards_etal_2023_epsl.pdf))
+**[20]** Richards, F. D., Hoggard, M. J., Ghelichkhan, S., Koelemeijer, P. & Lau, H. C. P., Geodynamic, geodetic, and seismic constraints favour deflated and dense-cored LLVPs, Earth Plan. Sci. Lett., 602, 117964. doi: 10.1016/j.epsl.2022.117964 ([PDF](/documents/papers/richards_etal_2023_epsl.pdf))
 </p>
 
 <p style="padding-top:15px">
-**[19]** Davies, D. R., Ghelichkhan, S., Hoggard, M. J., Valentine, A. P. & Richards, F. D., Chapter 12: Observations and Models of Dynamic Topography: Current Status and Future Directions, in  Duarte, J. C. (ed.) Dynamics of plate tectonics and mantle convection. Cambridge, MA: Elsevier. doi: https://doi.org/10.31223/X55W5T ([PDF](/documents/papers/davies_etal_2022_elsevier.pdf))
+**[19]** Davies, D. R., Ghelichkhan, S., Hoggard, M. J., Valentine, A. P. & Richards, F. D., Chapter 12: Observations and Models of Dynamic Topography: Current Status and Future Directions, in  Duarte, J. C. (ed.) Dynamics of plate tectonics and mantle convection. Cambridge, MA: Elsevier. doi: 10.31223/X55W5T ([PDF](/documents/papers/davies_etal_2022_elsevier.pdf))
 </p>
 
 <h3 style="font-weight: bold">2022</h3>
 
 <p style="padding-top:15px">
-**[18]** Huston, D. L., Champion, D. C., Czarnota, K., Duan, J., Hutchens, M., Paradis, S. G., Hoggard, M. J., Ware, B. D., Gibson, G. M., Doublier, M. P., Kelley, K. D., McCafferty, A. E., Hayward, N., Richards, F. D., Tessalina, S. D. & Carr, G. R., Zinc on the edge: isotopic and geophysical evidence that cratonic edges control shale-hosted zinc-lead deposits, Miner. Deposita, 58, 1–23. doi: https://doi.org/10.1007/s00126-022-01153-9 ([PDF](/documents/papers/huston_etal_2022_minerdepos.pdf))
+**[18]** Huston, D. L., Champion, D. C., Czarnota, K., Duan, J., Hutchens, M., Paradis, S. G., Hoggard, M. J., Ware, B. D., Gibson, G. M., Doublier, M. P., Kelley, K. D., McCafferty, A. E., Hayward, N., Richards, F. D., Tessalina, S. D. & Carr, G. R., Zinc on the edge: isotopic and geophysical evidence that cratonic edges control shale-hosted zinc-lead deposits, Miner. Deposita, 58, 1–23. doi: 10.1007/s00126-022-01153-9 ([PDF](/documents/papers/huston_etal_2022_minerdepos.pdf))
 </p>
 
 <p style="padding-top:12px">
@@ -45,14 +45,13 @@ permalink: /publications/
 </p>
 
 <p style="padding-top:12px">
-**[16]** Maunder, M., O'Brien, A. C., Reid, J., Bowman, D. M., Richards, F. D. & Gough-Kelly, S., Generation Covid, Astron. Geophys, 63, 3.22-3.27. doi: https://doi.org/10.1093/astrogeo/atac037. N.B. not research-related. ([PDF](/documents/papers/maunder_etal_2022_astrongeophys.pdf))
+**[16]** Maunder, M., O'Brien, A. C., Reid, J., Bowman, D. M., Richards, F. D. & Gough-Kelly, S., Generation Covid, Astron. Geophys, 63, 3.22-3.27. doi: 10.1093/astrogeo/atac037. N.B. not research-related. ([PDF](/documents/papers/maunder_etal_2022_astrongeophys.pdf))
 </p>
-
 
 <h3 style="font-weight: bold">2021</h3>
 
 <p style="padding-top:15px">
-**[15]** Austermann, J., Hoggard, M. J., Latychev, K., Richards, F. D. & Mitrovica, J. X., 2021. The effect of lateral variations in Earth structure on Last Interglacial sea level, Geophys. J. Int., 227, 1938-1960. doi:  https://doi.org/10.1093/gji/ggab289. ([PDF](/documents/papers/austermann_etal_2021_gji.pdf))
+**[15]** Austermann, J., Hoggard, M. J., Latychev, K., Richards, F. D. & Mitrovica, J. X., The effect of lateral variations in Earth structure on Last Interglacial sea level, Geophys. J. Int., 227, 1938-1960. doi: 10.1093/gji/ggab289. ([PDF](/documents/papers/austermann_etal_2021_gji.pdf))
 </p>
 
 <p style="padding-top:12px">
@@ -60,11 +59,11 @@ permalink: /publications/
 </p>
 
 <p style="padding-top:12px">
-**[13]**  O'Brien, A. C., Boubert, D., Bowman, D. M., Richards, F. D. & Maunder, M., Pandemic Posters, Astron. Geophys., 62, 19, doi: 10.1093/astrogeo/atab039. N.B. not research-related. ([PDF](/documents/papers/obrien_etal_2021_astrongeophys.pdf))
+**[13]**  O'Brien, A. C., Boubert, D., Bowman, D. M., Richards, F. D. & Maunder, M., Pandemic Posters, Astron. Geophys., 62, 1.19, doi: 10.1093/astrogeo/atab039. N.B. not research-related. ([PDF](/documents/papers/obrien_etal_2021_astrongeophys.pdf))
 </p>
 
 <p style="padding-top:12px">
-**[12]**  Bowman, D. M., Maunder, M., Richards, F. D., O'Brien, A. C. & Boubert, D., Hear it through the grapevine, Astron. Geophys., 62, 12-14, doi: 10.1093/astrogeo/atab076. N.B. not research-related. ([PDF](/documents/papers/bowman_etal_2021_astrongeophys.pdf))
+**[12]**  Bowman, D. M., Maunder, M., Richards, F. D., O'Brien, A. C. & Boubert, D., Hear it through the grapevine, Astron. Geophys., 62, 4.12-4.14, doi: 10.1093/astrogeo/atab076. N.B. not research-related. ([PDF](/documents/papers/bowman_etal_2021_astrongeophys.pdf))
 </p>
 
 <h3 style="font-weight: bold">2020</h3>
