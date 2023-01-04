@@ -31,7 +31,7 @@ permalink: /publications/
 </p>
 
 <p style="padding-top:15px">
-**[19]** Davies, D. R., Ghelichkhan, S., Hoggard, M. J., Valentine, A. P. & Richards, F. D., Chapter 12: Observations and Models of Dynamic Topography: Current Status and Future Directions, in  Duarte, J. C. (ed.) Dynamics of plate tectonics and mantle convection. Cambridge, MA: Elsevier. ([PDF](/documents/papers/davies_etal_2022_elsevier.pdf))
+**[19]** Davies, D. R., Ghelichkhan, S., Hoggard, M. J., Valentine, A. P. & Richards, F. D., Chapter 12: Observations and Models of Dynamic Topography: Current Status and Future Directions, in  Duarte, J. C. (ed.) Dynamics of plate tectonics and mantle convection. Cambridge, MA: Elsevier. doi: https://doi.org/10.31223/X55W5T ([PDF](/documents/papers/davies_etal_2022_elsevier.pdf))
 </p>
 
 <h3 style="font-weight: bold">2022</h3>
@@ -41,11 +41,11 @@ permalink: /publications/
 </p>
 
 <p style="padding-top:12px">
-**[17]**  Bowman, D. M., Richards, F. D., Maunder, M., O'Brien, A. C. & Boubert, D., Stay in love with your PhD, Astron. Geophys, 63(3), pp. 32-35, doi: 10.1093/astrogeo/atac039. N.B. not research-related. ([PDF](/documents/papers/bowman_etal_2022_astrongeophys.pdf))
+**[17]**  Bowman, D. M., Richards, F. D., Maunder, M., O'Brien, A. C. & Boubert, D., Stay in love with your PhD, Astron. Geophys, 63, 3.32-3.35. doi: 10.1093/astrogeo/atac039. N.B. not research-related. ([PDF](/documents/papers/bowman_etal_2022_astrongeophys.pdf))
 </p>
 
 <p style="padding-top:12px">
-**[16]** Maunder, M., O'Brien, A. C., Reid, J., Bowman, D. M., Richards, F. D. & Gough-Kelly, S., Generation Covid, Astron. Geophys, 63(3), pp. 22-27. N.B. not research-related. ([PDF](/documents/papers/maunder_etal_2022_astrongeophys.pdf))
+**[16]** Maunder, M., O'Brien, A. C., Reid, J., Bowman, D. M., Richards, F. D. & Gough-Kelly, S., Generation Covid, Astron. Geophys, 63, 3.22-3.27. doi: https://doi.org/10.1093/astrogeo/atac037. N.B. not research-related. ([PDF](/documents/papers/maunder_etal_2022_astrongeophys.pdf))
 </p>
 
 
