@@ -6,6 +6,8 @@ plugins:
   - jekyll-feed
 timezone: Europe/London
 
+google_analytics: G-VHKJC55JYR
+
 include:
   - .htaccess
   - _pages
