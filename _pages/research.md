@@ -33,12 +33,21 @@ To address this challenge, we are developing new methodologies to accurately con
 
 <h4 style="font-weight: bold">Publications:</h4>
 
+Richards, F. D., Coulson, S. L., Hoggard, M. J., Austermann, J., Dyer, B. & Mitrovica, J. X., Correcting for mantle dynamics reconciles Mid-Pliocene sea-level estimates, *in review at Science Advances*. ([PDF](/documents/papers/richards_etal_2022_nature_inreview.pdf))
+
+Hazzard, J. A. N., Richards, F. D., Roberts, G. G. & Goes, S. D. B., Probabilistic Assessment of Antarctic Thermomechanical Structure: Impacts on Ice Sheet Stability, *in review at J. Geophys. Res.: Solid Earth*. ([PDF](/documents/papers/hazzard_etal_2022_jgr_inreview_compressed.pdf))
+
+Rovere, A., Pico, T., Richards, F. D., O’Leary, M. J., Mitrovica, J. X., Goodwin, I. D., Austermann, J. & Latychev, K., The influence of reef isostasy, dynamic topography, and glacial isostatic adjustment on the Last Interglacial sea-level record of Northeastern Australia, *in review at Commun. Earth Environ.* ([PDF](/documents/papers/rovere_etal_2022_natcommearthenv_inreview.pdf))
+
+Hollyday, A., Austermann, J., Lloyd, A. J., Hoggard, M. J., Richards, F. D. & Rovere, A., A revised estimate of early Pliocene global mean sea level using geodynamic models of the Patagonian slab window, *in review at Geochem. Geophys. Geosyst.* ([PDF](/documents/papers/hollyday_etal_2022_gcubed_inreview.pdf))
+
+Lloyd, A. J., Crawford, O., Al-Attar, D. A., Austermann, J., Hoggard, M. J., Richards, F. D. & Syvret, F., GIA imaging of 3D mantle viscosity based on paleo sea-level observations - Part I: Sensitivity kernels for an Earth with laterally varying viscosity, *in review at Geophys. J. Int*. ([PDF](/documents/papers/lloyd_etal_2022_gji_inreview.pdf))
+
 Austermann, J., Hoggard, M. J., Latychev, K., Richards, F. D. & Mitrovica, J. X., 2021. The effect of lateral variations in Earth structure on Last Interglacial sea level, Geophys. J. Int., ggab289. doi: 10.1093/gji/ggab289. ([PDF](/documents/papers/austermann_etal_2021_gji.pdf))
 
 Ghelichkhan, S., Fuentes, J. J., Hoggard M. J., Richards, F. D., Mitrovica, J. X., The Precession Constant and its Long-Term Variation, Icarus, 114172, doi: 10.1016/j.icarus.2020.114172.  ([PDF](/documents/papers/ghelichkhan_etal_2020_icarus.pdf))
 
 Mitrovica, J. X., Austermann, J., Coulson, S. L., Creveling, J. R., Hoggard, M. J., Jarvis, G. T. & Richards, F. D., 2020. Dynamic Topography and Ice Age Paleoclimate, Ann. Rev. Earth Planet. Sci., 48, 585-621, doi: 10.1146/annurev-earth-082517-010225. ([PDF](/documents/papers/mitrovica_etal_2020_annreveps.pdf))
-
 
 <h3 style="font-weight: bold">Novel Exploration Methods to Secure Sustainable Supplies of Critical Metals</h3>
 
