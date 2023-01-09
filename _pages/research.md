@@ -64,6 +64,8 @@ Current projects in this area include: i) integrating other forms of geophysical
 
 <h4 style="font-weight: bold">Publications:</h4> 
 
+Huston, D. L., Champion, D. C., Czarnota, K., Duan, J., Hutchens, M., Paradis, S. G., Hoggard, M. J., Ware, B. D., Gibson, G. M., Doublier, M. P., Kelley, K. D., McCafferty, A. E., Hayward, N., Richards, F. D., Tessalina, S. D. & Carr, G. R.,  2022. Zinc on the edge: isotopic and geophysical evidence that cratonic edges control shale-hosted zinc-lead deposits, Miner. Deposita, 58, 1–23, doi: 10.1007/s00126-022-01153-9 ([PDF](/documents/papers/huston_etal_2022_minerdepos.pdf))
+
 Hoggard, M. J., Czarnota, K., Richards, F. D., Huston, D. L., Jaques, A. L., & Ghelichkhan, S., 2020. Global distribution of sediment-hosted metals controlled by craton edge stability, Nature Geoscience, 13, 504-510, doi: 10.1038/s41561-020-0593-2. ([PDF](/documents/papers/hoggard_etal_2020_natgeo.pdf))
 
 Czarnota, K., Hoggard, M. J., Richards, F. D., Teh, M., Huston, D. L., Jacques, A. L. & Ghelichkhan, S., 2020. Minerals on the edge: Sediment-hosted base metal endowment above steps in lithospheric thickness, Exploring for the Future: Extended Abstracts, Geoscience Australia, Canberra. ([PDF](/documents/papers/czarnota_etal_2020_eftf.pdf))
@@ -92,7 +94,7 @@ This joint inversion approach shows great promise and will be augmented in futur
 
 <h4 style="font-weight: bold">Publications:</h4>
 
-Richards, F. D., Hoggard, M. J., Ghelichkhan, S., Koelemeijer, P. & Lau, H. C. P., Geodynamic, geodetic, and seismic constraints favour deflated and dense-cored LLVPs, *in review*. doi: 10.31223/X55601. ([PDF](/documents/papers/richards_etal_2021_natgeo.pdf))
+Richards, F. D., Hoggard, M. J., Ghelichkhan, S., Koelemeijer, P. & Lau, H. C. P., 2023. Geodynamic, geodetic, and seismic constraints favour deflated and dense-cored LLVPs, Earth Plan. Sci. Lett., 602, 117964., doi: 10.1016/j.epsl.2022.117964 ([PDF](/documents/papers/richards_etal_2023_epsl.pdf))
 
 Richards, F. D., Hoggard, M. J., White, N. J. & Ghelichkhan, S., 2020. Quantifying the relationship between short-wavelength dynamic topography and thermomechanical structure of the upper mantle using calibrated parameterization of anelasticity, 125, e2019JB019062, doi: 10.1029/2019JB019062. ([PDF](/documents/papers/richards_etal_2020_jgr_compressed.pdf))
 
