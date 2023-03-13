@@ -9,11 +9,19 @@ permalink: /publications/
 <h3 style="font-weight: bold">In Review	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; [Google Scholar](https://scholar.google.co.uk/citations?user=IpZA1mcAAAAJ&hl=en&oi=sra)</h3>
 
 <p style="padding-top:15px">
-**[25]** Richards, F. D., Coulson, S. L., Hoggard, M. J., Austermann, J., Dyer, B. & Mitrovica, J. X., Correcting for mantle dynamics reconciles Mid-Pliocene sea-level estimates, *in review at Science Advances*. ([PDF](/documents/papers/richards_etal_2022_nature_inreview.pdf))
+**[27]** Richards, F. D., Coulson, S. L., Hoggard, M. J., Austermann, J., Dyer, B. & Mitrovica, J. X., Correcting for mantle dynamics reconciles Mid-Pliocene sea-level estimates, *in review at Science Advances*. ([PDF](/documents/papers/richards_etal_2022_nature_inreview.pdf))
 </p>
 
 <p style="padding-top:15px">
-**[24]** Hazzard, J. A. N., Richards, F. D., Roberts, G. G. & Goes, S. D. B., Probabilistic Assessment of Antarctic Thermomechanical Structure: Impacts on Ice Sheet Stability, *in review at J. Geophys. Res.: Solid Earth*. ([PDF](/documents/papers/hazzard_etal_2022_jgr_inreview_compressed.pdf))
+**[26]** Hazzard, J. A. N., Richards, F. D., Roberts, G. G. & Goes, S. D. B., Probabilistic Assessment of Antarctic Thermomechanical Structure: Impacts on Ice Sheet Stability, *in review at J. Geophys. Res.: Solid Earth*. ([PDF](/documents/papers/hazzard_etal_2022_jgr_inreview_compressed.pdf))
+</p>
+
+<p style="padding-top:15px">
+**[25]** Stephenson, S. N., Richards, F. D. & Ball, P. W.,  Destruction and regrowth of lithospheric mantle beneath large igneous provinces, *in review at Science Advances* ([PDF](/documents/papers/stephenson_etal_2023_sciadv_inreview.pdf))
+</p>
+
+<p style="padding-top:15px">
+**[24]** Holdt, M. C., White, N. J. & Richards, F. D., A Revised Oceanic Plate Cooling Model, *in review at J. Geophys. Res.: Solid Earth.* ([PDF](/documents/papers/holdt_etal_2023_jgr_inreview.pdf))
 </p>
 
 <p style="padding-top:15px">
@@ -32,7 +40,7 @@ permalink: /publications/
 
 
 <p style="padding-top:15px">
-**[20]**  Hollyday, A., Austermann, J., Lloyd, A. J., Hoggard, M. J., Richards, F. D. & Rovere, A., A revised estimate of early Pliocene global mean sea level using geodynamic models of the Patagonian slab window, 24, e2022GC010648, doi: 10.1029/2022GC010648 ([PDF](/documents/papers/hollyday_etal_2023_gcubed.pdf))
+**[20]**  Hollyday, A., Austermann, J., Lloyd, A. J., Hoggard, M. J., Richards, F. D. & Rovere, A., A revised estimate of early Pliocene global mean sea level using geodynamic models of the Patagonian slab window, Geochem. Geophys. Geosyst., 24, e2022GC010648, doi: 10.1029/2022GC010648 ([PDF](/documents/papers/hollyday_etal_2023_gcubed.pdf))
 </p>
 
 <p style="padding-top:15px">
@@ -78,7 +86,7 @@ permalink: /publications/
 </p>
 
 <p style="padding-top:12px">
-**[10]** Richards, F. D., Hoggard, M. J., White, N. J. & Ghelichkhan, S., 2020. Quantifying the relationship between shortwavelength dynamic topography and thermomechanical structure of the upper mantle using calibrated parameterization of anelasticity, 125, e2019JB019062, doi: 10.1029/2019JB019062. ([PDF](/documents/papers/richards_etal_2020_jgr_compressed.pdf))
+**[10]** Richards, F. D., Hoggard, M. J., White, N. J. & Ghelichkhan, S., 2020. Quantifying the relationship between shortwavelength dynamic topography and thermomechanical structure of the upper mantle using calibrated parameterization of anelasticity, J. Geophys. Res.: Solid Earth, 125, e2019JB019062, doi: 10.1029/2019JB019062. ([PDF](/documents/papers/richards_etal_2020_jgr_compressed.pdf))
 </p>
 
 <p style="padding-top:12px">
