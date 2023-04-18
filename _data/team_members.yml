@@ -1,6 +1,6 @@
 - name: Fred Richards
   photo: fred.jpg
-  info: Lecturer ("~" Assistant Professor)
+  info: Lecturer (~ Assistant Professor)
   email: f.richards19@imperial.ac.uk
   number_addit: 2
   addit1: <a href="../documents/CVs/fred_richards_CV_20_05_22.pdf">CV</a>
