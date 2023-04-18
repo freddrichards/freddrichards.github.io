@@ -9,7 +9,7 @@ permalink: /publications/
 <h3 style="font-weight: bold">In Review	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; [Google Scholar](https://scholar.google.co.uk/citations?user=IpZA1mcAAAAJ&hl=en&oi=sra)</h3>
 
 <p style="padding-top:15px">
-**[27]** Richards, F. D., Quantifying Plio-Pleistocene Global Mean Sea Level Variation, *in review at Encyclopedia of Quaternary Science*. ([PDF](/documents/papers/richards_2023_EQS_inreview.pdf))
+**[28]** Richards, F. D., Quantifying Plio-Pleistocene Global Mean Sea Level Variation, *in review at Encyclopedia of Quaternary Science*. ([PDF](/documents/papers/richards_2023_EQS_inreview.pdf))
 </p>
 
 <p style="padding-top:15px">
