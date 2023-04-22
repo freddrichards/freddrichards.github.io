@@ -17,23 +17,23 @@ permalink: /publications/
 </p>
 
 <p style="padding-top:15px">
-**[26]** Hazzard, J. A. N., Richards, F. D., Roberts, G. G. & Goes, S. D. B., Probabilistic Assessment of Antarctic Thermomechanical Structure: Impacts on Ice Sheet Stability, *in review at J. Geophys. Res.: Solid Earth*. ([PDF](/documents/papers/hazzard_etal_2022_jgr_inreview_compressed.pdf))
+**[26]** Stephenson, S. N., Ball, P. W. & Richards, F. D.,  Destruction and regrowth of lithospheric mantle beneath large igneous provinces, *in review at Science Advances* ([PDF](/documents/papers/stephenson_etal_2023_sciadv_inreview.pdf))
 </p>
 
 <p style="padding-top:15px">
-**[25]** Stephenson, S. N., Ball, P. W. & Richards, F. D.,  Destruction and regrowth of lithospheric mantle beneath large igneous provinces, *in review at Science Advances* ([PDF](/documents/papers/stephenson_etal_2023_sciadv_inreview.pdf))
+**[25]** Holdt, M. C., White, N. J. & Richards, F. D., A Revised Oceanic Plate Cooling Model, *in review at J. Geophys. Res.: Solid Earth.* ([PDF](/documents/papers/holdt_etal_2023_jgr_inreview.pdf))
 </p>
 
 <p style="padding-top:15px">
-**[24]** Holdt, M. C., White, N. J. & Richards, F. D., A Revised Oceanic Plate Cooling Model, *in review at J. Geophys. Res.: Solid Earth.* ([PDF](/documents/papers/holdt_etal_2023_jgr_inreview.pdf))
+**[24]** Rovere, A., Pico, T., Richards, F. D., O’Leary, M. J., Mitrovica, J. X., Goodwin, I. D., Austermann, J. & Latychev, K., The influence of reef isostasy, dynamic topography, and glacial isostatic adjustment on the Last Interglacial sea-level record of Northeastern Australia, *in review at Commun. Earth Environ.* ([PDF](/documents/papers/rovere_etal_2022_natcommearthenv_inreview.pdf))
 </p>
 
 <p style="padding-top:15px">
-**[23]** Rovere, A., Pico, T., Richards, F. D., O’Leary, M. J., Mitrovica, J. X., Goodwin, I. D., Austermann, J. & Latychev, K., The influence of reef isostasy, dynamic topography, and glacial isostatic adjustment on the Last Interglacial sea-level record of Northeastern Australia, *in review at Commun. Earth Environ.* ([PDF](/documents/papers/rovere_etal_2022_natcommearthenv_inreview.pdf))
+**[23]** Lloyd, A. J., Crawford, O., Al-Attar, D. A., Austermann, J., Hoggard, M. J., Richards, F. D. & Syvret, F., GIA imaging of 3D mantle viscosity based on paleo sea-level observations - Part I: Sensitivity kernels for an Earth with laterally varying viscosity, *in review at Geophys. J. Int*. ([PDF](/documents/papers/lloyd_etal_2022_gji_inreview.pdf))
 </p>
 
 <p style="padding-top:15px">
-**[22]** Lloyd, A. J., Crawford, O., Al-Attar, D. A., Austermann, J., Hoggard, M. J., Richards, F. D. & Syvret, F., GIA imaging of 3D mantle viscosity based on paleo sea-level observations - Part I: Sensitivity kernels for an Earth with laterally varying viscosity, *in review at Geophys. J. Int*. ([PDF](/documents/papers/lloyd_etal_2022_gji_inreview.pdf))
+**[22]** Hazzard, J. A. N., Richards, F. D., Roberts, G. G. & Goes, S. D. B., Probabilistic Assessment of Antarctic Thermomechanical Structure: Impacts on Ice Sheet Stability, *accepted at J. Geophys. Res.: Solid Earth*. ([PDF](/documents/papers/hazzard_etal_2022_jgr_inreview_compressed.pdf))
 </p>
 
 <h3 style="font-weight: bold">2023</h3>
