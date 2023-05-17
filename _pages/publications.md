@@ -32,16 +32,16 @@ permalink: /publications/
 **[23]** Lloyd, A. J., Crawford, O., Al-Attar, D. A., Austermann, J., Hoggard, M. J., Richards, F. D. & Syvret, F., GIA imaging of 3D mantle viscosity based on paleo sea-level observations - Part I: Sensitivity kernels for an Earth with laterally varying viscosity, *in review at Geophys. J. Int*. ([PDF](/documents/papers/lloyd_etal_2022_gji_inreview.pdf))
 </p>
 
-<p style="padding-top:15px">
-**[22]** Hazzard, J. A. N., Richards, F. D., Roberts, G. G. & Goes, S. D. B., Probabilistic Assessment of Antarctic Thermomechanical Structure: Impacts on Ice Sheet Stability, *accepted at J. Geophys. Res.: Solid Earth*. ([PDF](/documents/papers/hazzard_etal_2022_jgr_inreview_compressed.pdf))
-</p>
 
 <h3 style="font-weight: bold">2023</h3>
 
 <p style="padding-top:15px">
-**[21]** Richards, F. D., Hoggard, M. J., Ghelichkhan, S., Koelemeijer, P. & Lau, H. C. P., Geodynamic, geodetic, and seismic constraints favour deflated and dense-cored LLVPs, Earth Plan. Sci. Lett., 602, 117964, doi: 10.1016/j.epsl.2022.117964 ([PDF](/documents/papers/richards_etal_2023_epsl.pdf))
+**[22]** Richards, F. D., Hoggard, M. J., Ghelichkhan, S., Koelemeijer, P. & Lau, H. C. P., Geodynamic, geodetic, and seismic constraints favour deflated and dense-cored LLVPs, Earth Plan. Sci. Lett., 602, 117964, doi: 10.1016/j.epsl.2022.117964 ([PDF](/documents/papers/richards_etal_2023_epsl.pdf))
 </p>
 
+<p style="padding-top:15px">
+**[21]** Hazzard, J. A. N., Richards, F. D., Roberts, G. G. & Goes, S. D. B., Probabilistic Assessment of Antarctic Thermomechanical Structure: Impacts on Ice Sheet Stability, *accepted at J. Geophys. Res.: Solid Earth*. ([PDF](/documents/papers/hazzard_etal_2023_jgr.pdf))
+</p>
 
 <p style="padding-top:15px">
 **[20]**  Hollyday, A., Austermann, J., Lloyd, A. J., Hoggard, M. J., Richards, F. D. & Rovere, A., A revised estimate of early Pliocene global mean sea level using geodynamic models of the Patagonian slab window, Geochem. Geophys. Geosyst., 24, e2022GC010648, doi: 10.1029/2022GC010648 ([PDF](/documents/papers/hollyday_etal_2023_gcubed.pdf))
