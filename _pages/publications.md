@@ -17,11 +17,13 @@ permalink: /publications/
 </p>
 
 <p style="padding-top:15px">
-**[26]** Stephenson, S. N., Ball, P. W. & Richards, F. D.,  Destruction and regrowth of lithospheric mantle beneath large igneous provinces, *in review at Science Advances* ([PDF](/documents/papers/stephenson_etal_2023_sciadv_inreview.pdf))
+**[26]** Stephenson, S. N., Ball, P. W. & Richards, F. D.,  Destruction and regrowth of lithospheric mantle beneath large igneous provinces, *in review at Science Advances*. 
+#([PDF](/documents/papers/stephenson_etal_2023_sciadv_inreview.pdf))
 </p>
 
 <p style="padding-top:15px">
-**[25]** Holdt, M. C., White, N. J. & Richards, F. D., A Revised Oceanic Plate Cooling Model, *in review at J. Geophys. Res.: Solid Earth.* ([PDF](/documents/papers/holdt_etal_2023_jgr_inreview.pdf))
+**[25]** Holdt, M. C., White, N. J. & Richards, F. D., A Revised Oceanic Plate Cooling Model, *in review at J. Geophys. Res.: Solid Earth*. 
+#([PDF](/documents/papers/holdt_etal_2023_jgr_inreview.pdf))
 </p>
 
 <p style="padding-top:15px">
@@ -29,7 +31,8 @@ permalink: /publications/
 </p>
 
 <p style="padding-top:15px">
-**[23]** Lloyd, A. J., Crawford, O., Al-Attar, D. A., Austermann, J., Hoggard, M. J., Richards, F. D. & Syvret, F., GIA imaging of 3D mantle viscosity based on paleo sea-level observations - Part I: Sensitivity kernels for an Earth with laterally varying viscosity, *in review at Geophys. J. Int*. ([PDF](/documents/papers/lloyd_etal_2022_gji_inreview.pdf))
+**[23]** Lloyd, A. J., Crawford, O., Al-Attar, D. A., Austermann, J., Hoggard, M. J., Richards, F. D. & Syvret, F., GIA imaging of 3D mantle viscosity based on paleo sea-level observations - Part I: Sensitivity kernels for an Earth with laterally varying viscosity, *in review at Geophys. J. Int*. 
+#([PDF](/documents/papers/lloyd_etal_2022_gji_inreview.pdf))
 </p>
 
 
