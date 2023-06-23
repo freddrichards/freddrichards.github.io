@@ -57,7 +57,7 @@ permalink: /publications/
 <h3 style="font-weight: bold">2022</h3>
 
 <p style="padding-top:15px">
-**[18]** Huston, D. L., Champion, D. C., Czarnota, K., Duan, J., Hutchens, M., Paradis, S. G., Hoggard, M. J., Ware, B. D., Gibson, G. M., Doublier, M. P., Kelley, K. D., McCafferty, A. E., Hayward, N., Richards, F. D., Tessalina, S. D. & Carr, G. R., Zinc on the edge: isotopic and geophysical evidence that cratonic edges control shale-hosted zinc-lead deposits, Miner. Deposita, 58, 1–23, doi: 10.1007/s00126-022-01153-9 ([PDF](/documents/papers/huston_etal_2022_minerdepos.pdf))
+**[18]** Huston, D. L., Champion, D. C., Czarnota, K., Duan, J., Hutchens, M., Paradis, S. G., Hoggard, M. J., Ware, B. D., Gibson, G. M., Doublier, M. P., Kelley, K. D., McCafferty, A. E., Hayward, N., Richards, F. D., Tessalina, S. D. & Carr, G. R., Zinc on the edge: isotopic and geophysical evidence that cratonic edges control shale-hosted zinc-lead deposits, Miner. Deposita, 58, 1–23, doi: 10.1007/s00126-022-01153-9 ([PDF](/documents/papers/huston_etal_2022_mindep.pdf))
 </p>
 
 <p style="padding-top:12px">
