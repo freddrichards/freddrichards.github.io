@@ -30,7 +30,7 @@ permalink: /publications/
 
 <p style="padding-top:15px">
 **[24]** Stephenson, S. N., Ball, P. W. & Richards, F. D.,  Destruction and regrowth of lithospheric mantle beneath large igneous provinces, *in press at Science Advances*. 
-<!---([PDF](/documents/papers/stephenson_etal_2023_sciadv_inreview.pdf))--->
+([PDF](/documents/papers/stephenson_etal_2023_sciadv_inreview.pdf))
 </p>
 
 <p style="padding-top:15px">
