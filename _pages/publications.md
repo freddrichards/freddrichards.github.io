@@ -25,16 +25,16 @@ permalink: /publications/
 <h3 style="font-weight: bold">Accepted</h3>
 
 <p style="padding-top:15px">
-**[25]** Richards, F. D., Quantifying Plio-Pleistocene Global Mean Sea Level Variation, *in review at Encyclopedia of Quaternary Science*. ([PDF](/documents/papers/richards_2023_EQS_inreview.pdf))
+**[25]** Richards, F. D., Quantifying Plio-Pleistocene Global Mean Sea Level Variation, *in press at Encyclopedia of Quaternary Science*. ([PDF](/documents/papers/richards_2023_EQS_inreview.pdf))
 </p>
 
 <p style="padding-top:15px">
-**[24]** Stephenson, S. N., Ball, P. W. & Richards, F. D.,  Destruction and regrowth of lithospheric mantle beneath large igneous provinces, *in review at Science Advances*. 
+**[24]** Stephenson, S. N., Ball, P. W. & Richards, F. D.,  Destruction and regrowth of lithospheric mantle beneath large igneous provinces, *in press at Science Advances*. 
 <!---([PDF](/documents/papers/stephenson_etal_2023_sciadv_inreview.pdf))--->
 </p>
 
 <p style="padding-top:15px">
-**[23]** Rovere, A., Pico, T., Richards, F. D., O’Leary, M. J., Mitrovica, J. X., Goodwin, I. D., Austermann, J. & Latychev, K., The influence of reef isostasy, dynamic topography, and glacial isostatic adjustment on the Last Interglacial sea-level record of Northeastern Australia, *in review at Commun. Earth Environ.* ([PDF](/documents/papers/rovere_etal_2022_natcommearthenv_inreview.pdf))
+**[23]** Rovere, A., Pico, T., Richards, F. D., O’Leary, M. J., Mitrovica, J. X., Goodwin, I. D., Austermann, J. & Latychev, K., The influence of reef isostasy, dynamic topography, and glacial isostatic adjustment on the Last Interglacial sea-level record of Northeastern Australia, *in press at Commun. Earth Environ.* ([PDF](/documents/papers/rovere_etal_2022_natcommearthenv_inreview.pdf))
 </p>
 
 <h3 style="font-weight: bold">2023</h3>
