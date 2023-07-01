@@ -9,32 +9,33 @@ permalink: /publications/
 <h3 style="font-weight: bold">In Review	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; [Google Scholar](https://scholar.google.co.uk/citations?user=IpZA1mcAAAAJ&hl=en&oi=sra)</h3>
 
 <p style="padding-top:15px">
-**[28]** Richards, F. D., Quantifying Plio-Pleistocene Global Mean Sea Level Variation, *in review at Encyclopedia of Quaternary Science*. ([PDF](/documents/papers/richards_2023_EQS_inreview.pdf))
+**[28]** Richards, F. D., Coulson, S. L., Hoggard, M. J., Austermann, J., Dyer, B. & Mitrovica, J. X., Correcting for mantle dynamics reconciles Mid-Pliocene sea-level estimates, *in review at Science Advances*. ([PDF](/documents/papers/richards_etal_2022_nature_inreview.pdf))
 </p>
 
 <p style="padding-top:15px">
-**[27]** Richards, F. D., Coulson, S. L., Hoggard, M. J., Austermann, J., Dyer, B. & Mitrovica, J. X., Correcting for mantle dynamics reconciles Mid-Pliocene sea-level estimates, *in review at Science Advances*. ([PDF](/documents/papers/richards_etal_2022_nature_inreview.pdf))
-</p>
-
-<p style="padding-top:15px">
-**[26]** Stephenson, S. N., Ball, P. W. & Richards, F. D.,  Destruction and regrowth of lithospheric mantle beneath large igneous provinces, *in review at Science Advances*. 
-<!---([PDF](/documents/papers/stephenson_etal_2023_sciadv_inreview.pdf))--->
-</p>
-
-<p style="padding-top:15px">
-**[25]** Holdt, M. C., White, N. J. & Richards, F. D., A Revised Oceanic Plate Cooling Model, *in review at J. Geophys. Res.: Solid Earth*. 
+**[27]** Holdt, M. C., White, N. J. & Richards, F. D., A Revised Oceanic Plate Cooling Model, *in review at J. Geophys. Res.: Solid Earth*. 
 <!---([PDF](/documents/papers/holdt_etal_2023_jgr_inreview.pdf))--->
 </p>
 
 <p style="padding-top:15px">
-**[24]** Rovere, A., Pico, T., Richards, F. D., O’Leary, M. J., Mitrovica, J. X., Goodwin, I. D., Austermann, J. & Latychev, K., The influence of reef isostasy, dynamic topography, and glacial isostatic adjustment on the Last Interglacial sea-level record of Northeastern Australia, *in review at Commun. Earth Environ.* ([PDF](/documents/papers/rovere_etal_2022_natcommearthenv_inreview.pdf))
-</p>
-
-<p style="padding-top:15px">
-**[23]** Lloyd, A. J., Crawford, O., Al-Attar, D. A., Austermann, J., Hoggard, M. J., Richards, F. D. & Syvret, F., GIA imaging of 3D mantle viscosity based on paleo sea-level observations - Part I: Sensitivity kernels for an Earth with laterally varying viscosity, *in review at Geophys. J. Int*. 
+**[26]** Lloyd, A. J., Crawford, O., Al-Attar, D. A., Austermann, J., Hoggard, M. J., Richards, F. D. & Syvret, F., GIA imaging of 3D mantle viscosity based on paleo sea-level observations - Part I: Sensitivity kernels for an Earth with laterally varying viscosity, *in review at Geophys. J. Int*. 
 <!---([PDF](/documents/papers/lloyd_etal_2022_gji_inreview.pdf))--->
 </p>
 
+<h3 style="font-weight: bold">Accepted</h3>
+
+<p style="padding-top:15px">
+**[25]** Richards, F. D., Quantifying Plio-Pleistocene Global Mean Sea Level Variation, *in review at Encyclopedia of Quaternary Science*. ([PDF](/documents/papers/richards_2023_EQS_inreview.pdf))
+</p>
+
+<p style="padding-top:15px">
+**[24]** Stephenson, S. N., Ball, P. W. & Richards, F. D.,  Destruction and regrowth of lithospheric mantle beneath large igneous provinces, *in review at Science Advances*. 
+<!---([PDF](/documents/papers/stephenson_etal_2023_sciadv_inreview.pdf))--->
+</p>
+
+<p style="padding-top:15px">
+**[23]** Rovere, A., Pico, T., Richards, F. D., O’Leary, M. J., Mitrovica, J. X., Goodwin, I. D., Austermann, J. & Latychev, K., The influence of reef isostasy, dynamic topography, and glacial isostatic adjustment on the Last Interglacial sea-level record of Northeastern Australia, *in review at Commun. Earth Environ.* ([PDF](/documents/papers/rovere_etal_2022_natcommearthenv_inreview.pdf))
+</p>
 
 <h3 style="font-weight: bold">2023</h3>
 
