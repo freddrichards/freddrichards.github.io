@@ -25,26 +25,26 @@ permalink: /publications/
 <h3 style="font-weight: bold">Accepted</h3>
 
 <p style="padding-top:15px">
-**[25]** Richards, F. D., Quantifying Plio-Pleistocene Global Mean Sea Level Variation, *in press at Encyclopedia of Quaternary Science*. ([PDF](/documents/papers/richards_2023_EQS_inreview.pdf))
-</p>
-
-<p style="padding-top:15px">
-**[24]** Stephenson, S. N., Ball, P. W. & Richards, F. D.,  Destruction and regrowth of lithospheric mantle beneath large igneous provinces, *in press at Science Advances*. 
+**[25]** Stephenson, S. N., Ball, P. W. & Richards, F. D.,  Destruction and regrowth of lithospheric mantle beneath large igneous provinces, *in press at Science Advances*. 
 ([PDF](/documents/papers/stephenson_etal_2023_sciadv_inreview.pdf))
 </p>
 
 <p style="padding-top:15px">
-**[23]** Rovere, A., Pico, T., Richards, F. D., O’Leary, M. J., Mitrovica, J. X., Goodwin, I. D., Austermann, J. & Latychev, K., The influence of reef isostasy, dynamic topography, and glacial isostatic adjustment on the Last Interglacial sea-level record of Northeastern Australia, *in press at Commun. Earth Environ.* ([PDF](/documents/papers/rovere_etal_2022_natcommearthenv_inreview.pdf))
+**[24]** Rovere, A., Pico, T., Richards, F. D., O’Leary, M. J., Mitrovica, J. X., Goodwin, I. D., Austermann, J. & Latychev, K., The influence of reef isostasy, dynamic topography, and glacial isostatic adjustment on the Last Interglacial sea-level record of Northeastern Australia, *in press at Commun. Earth Environ.* ([PDF](/documents/papers/rovere_etal_2022_natcommearthenv_inreview.pdf))
 </p>
 
 <h3 style="font-weight: bold">2023</h3>
 
 <p style="padding-top:15px">
-**[22]** Richards, F. D., Hoggard, M. J., Ghelichkhan, S., Koelemeijer, P. & Lau, H. C. P., Geodynamic, geodetic, and seismic constraints favour deflated and dense-cored LLVPs, Earth Plan. Sci. Lett., 602, 117964, doi: 10.1016/j.epsl.2022.117964 ([PDF](/documents/papers/richards_etal_2023_epsl.pdf))
+**[23]** Richards, F. D., Hoggard, M. J., Ghelichkhan, S., Koelemeijer, P. & Lau, H. C. P., Geodynamic, geodetic, and seismic constraints favour deflated and dense-cored LLVPs, Earth Plan. Sci. Lett., 602, 117964, doi: 10.1016/j.epsl.2022.117964 ([PDF](/documents/papers/richards_etal_2023_epsl.pdf))
 </p>
 
 <p style="padding-top:15px">
-**[21]** Hazzard, J. A. N., Richards, F. D., Roberts, G. G. & Goes, S. D. B., Probabilistic Assessment of Antarctic Thermomechanical Structure: Impacts on Ice Sheet Stability, *accepted at J. Geophys. Res.: Solid Earth*. ([PDF](/documents/papers/hazzard_etal_2023_jgr.pdf))
+**[22]** Richards, F. D., Quantifying Plio-Pleistocene Global Mean Sea Level Variation, in Elias, S. (ed.) Encyclopedia of Quaternary Science (3rd Edition), Cambridge, MA: Elsevier, doi: 10.1016/B978-0-323-99931-1.00073-8. ([PDF](/documents/papers/richards_2023_EQS.pdf))
+</p>
+
+<p style="padding-top:15px">
+**[21]** Hazzard, J. A. N., Richards, F. D., Roberts, G. G. & Goes, S. D. B., Probabilistic Assessment of Antarctic Thermomechanical Structure: Impacts on Ice Sheet Stability, J. Geophys. Res.: Solid Earth, 128, e2023JB026653, doi: 10.1029/2023JB026653. ([PDF](/documents/papers/hazzard_etal_2023_jgr.pdf))
 </p>
 
 <p style="padding-top:15px">
