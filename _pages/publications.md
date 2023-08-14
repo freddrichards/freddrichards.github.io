@@ -9,7 +9,7 @@ permalink: /publications/
 <h3 style="font-weight: bold">In Review	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; [Google Scholar](https://scholar.google.co.uk/citations?user=IpZA1mcAAAAJ&hl=en&oi=sra)</h3>
 
 <p style="padding-top:15px">
-**[28]** Richards, F. D., Coulson, S. L., Hoggard, M. J., Austermann, J., Dyer, B. & Mitrovica, J. X., Correcting for mantle dynamics reconciles Mid-Pliocene sea-level estimates, *in review at Science Advances*. ([PDF](/documents/papers/richards_etal_2022_nature_inreview.pdf))
+**[28]** Richards, F. D., Coulson, S. L., Hoggard, M. J., Austermann, J., Dyer, B. & Mitrovica, J. X., Correcting for mantle dynamics reconciles Mid-Pliocene sea-level estimates, *in review at Science Advances*. ([PDF](/documents/papers/richards_etal_2023_sciadv_inreview.pdf))
 </p>
 
 <p style="padding-top:15px">
