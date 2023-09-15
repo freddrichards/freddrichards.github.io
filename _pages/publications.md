@@ -8,13 +8,23 @@ permalink: /publications/
 <br/><br/>
 <h3 style="font-weight: bold">In Review	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; [Google Scholar](https://scholar.google.co.uk/citations?user=IpZA1mcAAAAJ&hl=en&oi=sra)</h3>
 
+
 <p style="padding-top:15px">
-**[28]** Richards, F. D., Coulson, S. L., Hoggard, M. J., Austermann, J., Dyer, B. & Mitrovica, J. X., Correcting for mantle dynamics reconciles Mid-Pliocene sea-level estimates, *in review at Science Advances*. ([PDF](/documents/papers/richards_etal_2023_sciadv_inreview.pdf))
+**[30]** Richards, F. D., Coulson, S. L., Hoggard, M. J., Austermann, J., Dyer, B. & Mitrovica, J. X., Geodynamically-corrected Pliocene shoreline elevations rule out major destabilisation of East Antarctic Ice Sheet, *in review at Science Advances*. ([PDF](/documents/papers/richards_etal_2023_sciadv_inreview.pdf))
 </p>
 
 <p style="padding-top:15px">
-**[27]** Holdt, M. C., White, N. J. & Richards, F. D., A Revised Oceanic Plate Cooling Model, *in review at J. Geophys. Res.: Solid Earth*. 
+**[29]** Hazzard, J. A. N. & Richards, F. D., Antarctic Geothermal Heat Flow, Crustal Conductivity and Heat Production Inferred From Seismological Data, *in review at Geophys. Res. Lett.*. ([PDF](/documents/papers/hazzard_etal_2023_grl_inreview.pdf))
+</p>
+
+<p style="padding-top:15px">
+**[28]** Holdt, M. C., White, N. J. & Richards, F. D., A Revised Oceanic Plate Cooling Model, *in review at J. Geophys. Res.: Solid Earth*. 
 <!---([PDF](/documents/papers/holdt_etal_2023_jgr_inreview.pdf))--->
+</p>
+
+<p style="padding-top:15px">
+**[27]** Hollyday, A., Raymo, M. E., Austermann, J., Richards, F. D., Hoggard, M. J. & Rovere, A., Pliocene shorelines and the epeirogenic motion of continentalmargins: A target dataset for dynamic topography models, *in review at Earth Surf. Dyn*. 
+<!---(([PDF](/documents/papers/hollyday_etal_2023_esd_inreview.pdf))--->
 </p>
 
 <p style="padding-top:15px">
@@ -25,26 +35,25 @@ permalink: /publications/
 <h3 style="font-weight: bold">Accepted</h3>
 
 <p style="padding-top:15px">
-**[25]** Stephenson, S. N., Ball, P. W. & Richards, F. D.,  Destruction and regrowth of lithospheric mantle beneath large igneous provinces, *in press at Science Advances*. 
-([PDF](/documents/papers/stephenson_etal_2023_sciadv_inreview.pdf))
-</p>
-
-<p style="padding-top:15px">
-**[24]** Rovere, A., Pico, T., Richards, F. D., O’Leary, M. J., Mitrovica, J. X., Goodwin, I. D., Austermann, J. & Latychev, K., The influence of reef isostasy, dynamic topography, and glacial isostatic adjustment on the Last Interglacial sea-level record of Northeastern Australia, *in press at Commun. Earth Environ.* ([PDF](/documents/papers/rovere_etal_2022_natcommearthenv_inreview.pdf))
+**[25]** Rovere, A., Pico, T., Richards, F. D., O’Leary, M. J., Mitrovica, J. X., Goodwin, I. D., Austermann, J. & Latychev, K., The influence of reef isostasy, dynamic topography, and glacial isostatic adjustment on the Last Interglacial sea-level record of Northeastern Australia, *in press at Commun. Earth Environ.* ([PDF](/documents/papers/rovere_etal_2022_natcommearthenv_inreview.pdf))
 </p>
 
 <h3 style="font-weight: bold">2023</h3>
 
 <p style="padding-top:15px">
-**[23]** Richards, F. D., Hoggard, M. J., Ghelichkhan, S., Koelemeijer, P. & Lau, H. C. P., Geodynamic, geodetic, and seismic constraints favour deflated and dense-cored LLVPs, Earth Plan. Sci. Lett., 602, 117964, doi: 10.1016/j.epsl.2022.117964 ([PDF](/documents/papers/richards_etal_2023_epsl.pdf))
+**[24]** Richards, F. D., Hoggard, M. J., Ghelichkhan, S., Koelemeijer, P. & Lau, H. C. P., Geodynamic, geodetic, and seismic constraints favour deflated and dense-cored LLVPs, Earth Plan. Sci. Lett., 602, 117964, doi: 10.1016/j.epsl.2022.117964. ([PDF](/documents/papers/richards_etal_2023_epsl.pdf))
 </p>
 
 <p style="padding-top:15px">
-**[22]** Richards, F. D., Quantifying Plio-Pleistocene Global Mean Sea Level Variation, in Elias, S. (ed.) Encyclopedia of Quaternary Science (3rd Edition), Cambridge, MA: Elsevier, doi: 10.1016/B978-0-323-99931-1.00073-8. ([PDF](/documents/papers/richards_2023_EQS.pdf))
+**[23]** Richards, F. D., Quantifying Plio-Pleistocene Global Mean Sea Level Variation, in Elias, S. (ed.) Encyclopedia of Quaternary Science (3rd Edition), Cambridge, MA: Elsevier, doi: 10.1016/B978-0-323-99931-1.00073-8. ([PDF](/documents/papers/richards_2023_EQS.pdf))
 </p>
 
 <p style="padding-top:15px">
-**[21]** Hazzard, J. A. N., Richards, F. D., Roberts, G. G. & Goes, S. D. B., Probabilistic Assessment of Antarctic Thermomechanical Structure: Impacts on Ice Sheet Stability, J. Geophys. Res.: Solid Earth, 128, e2023JB026653, doi: 10.1029/2023JB026653. ([PDF](/documents/papers/hazzard_etal_2023_jgr.pdf))
+**[22]** Hazzard, J. A. N., Richards, F. D., Roberts, G. G. & Goes, S. D. B., Probabilistic Assessment of Antarctic Thermomechanical Structure: Impacts on Ice Sheet Stability, J. Geophys. Res.: Solid Earth, 128, e2023JB026653, doi: 10.1029/2023JB026653. ([PDF](/documents/papers/hazzard_etal_2023_jgr.pdf))
+</p>
+
+<p style="padding-top:15px">
+**[21]** Stephenson, S. N., Ball, P. W. & Richards, F. D.,  Destruction and regrowth of lithospheric mantle beneath large igneous provinces, Science Advances, 9, eadf6216, doi: 10.1126/sciadv.adf6216. ([PDF](/documents/papers/stephenson_etal_2023_sciadv.pdf))
 </p>
 
 <p style="padding-top:15px">
