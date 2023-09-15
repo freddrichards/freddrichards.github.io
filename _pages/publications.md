@@ -14,7 +14,7 @@ permalink: /publications/
 </p>
 
 <p style="padding-top:15px">
-**[29]** Hazzard, J. A. N. & Richards, F. D., Antarctic Geothermal Heat Flow, Crustal Conductivity and Heat Production Inferred From Seismological Data, *in review at Geophys. Res. Lett.*. ([PDF](/documents/papers/hazzard_etal_2023_grl_inreview.pdf))
+**[29]** Hazzard, J. A. N. & Richards, F. D., Antarctic Geothermal Heat Flow, Crustal Conductivity and Heat Production Inferred From Seismological Data, *in review at Geophys. Res. Lett.*. ([PDF](/documents/papers/hazzard_richards_2023_grl_inreview.pdf))
 </p>
 
 <p style="padding-top:15px">
