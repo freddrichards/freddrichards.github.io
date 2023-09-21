@@ -60,7 +60,7 @@ permalink: /publications/
 </p>
 
 <p style="padding-top:15px">
-**[19]** Davies, D. R., Ghelichkhan, S., Hoggard, M. J., Valentine, A. P. & Richards, F. D., Chapter 12: Observations and Models of Dynamic Topography: Current Status and Future Directions, in  Duarte, J. C. (ed.) Dynamics of plate tectonics and mantle convection. Cambridge, MA: Elsevier, doi: 10.31223/X55W5T. ([PDF](/documents/papers/davies_etal_2023_elsevier.pdf))
+**[19]** Davies, D. R., Ghelichkhan, S., Hoggard, M. J., Valentine, A. P. & Richards, F. D., Chapter 12: Observations and Models of Dynamic Topography: Current Status and Future Directions, in  Duarte, J. C. (ed.) Dynamics of plate tectonics and mantle convection. Cambridge, MA: Elsevier, doi: 10.1016/B978-0-323-85733-8.00017-2. ([PDF](/documents/papers/davies_etal_2023_elsevier.pdf))
 </p>
 
 <h3 style="font-weight: bold">2022</h3>
