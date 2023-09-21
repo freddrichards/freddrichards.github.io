@@ -32,42 +32,41 @@ permalink: /publications/
 <!---([PDF](/documents/papers/lloyd_etal_2022_gji_inreview.pdf))--->
 </p>
 
-<h3 style="font-weight: bold">Accepted</h3>
-
-<p style="padding-top:15px">
-**[25]** Rovere, A., Pico, T., Richards, F. D., O’Leary, M. J., Mitrovica, J. X., Goodwin, I. D., Austermann, J. & Latychev, K., The influence of reef isostasy, dynamic topography, and glacial isostatic adjustment on the Last Interglacial sea-level record of Northeastern Australia, *in press at Commun. Earth Environ.* ([PDF](/documents/papers/rovere_etal_2022_natcommearthenv_inreview.pdf))
-</p>
 
 <h3 style="font-weight: bold">2023</h3>
 
 <p style="padding-top:15px">
-**[24]** Richards, F. D., Hoggard, M. J., Ghelichkhan, S., Koelemeijer, P. & Lau, H. C. P., Geodynamic, geodetic, and seismic constraints favour deflated and dense-cored LLVPs, Earth Plan. Sci. Lett., 602, 117964, doi: 10.1016/j.epsl.2022.117964. ([PDF](/documents/papers/richards_etal_2023_epsl.pdf))
+**[25]** Richards, F. D., Hoggard, M. J., Ghelichkhan, S., Koelemeijer, P. & Lau, H. C. P., Geodynamic, geodetic, and seismic constraints favour deflated and dense-cored LLVPs, Earth Plan. Sci. Lett., 602, 117964, doi: 10.1016/j.epsl.2022.117964. ([PDF](/documents/papers/richards_etal_2023_epsl.pdf))
 </p>
 
 <p style="padding-top:15px">
-**[23]** Richards, F. D., Quantifying Plio-Pleistocene Global Mean Sea Level Variation, in Elias, S. (ed.) Encyclopedia of Quaternary Science (3rd Edition), Cambridge, MA: Elsevier, doi: 10.1016/B978-0-323-99931-1.00073-8. ([PDF](/documents/papers/richards_2023_EQS.pdf))
+**[24]** Richards, F. D., Quantifying Plio-Pleistocene Global Mean Sea Level Variation, in Elias, S. (ed.) Encyclopedia of Quaternary Science (3rd Edition), Cambridge, MA: Elsevier, doi: 10.1016/B978-0-323-99931-1.00073-8. ([PDF](/documents/papers/richards_2023_EQS.pdf))
 </p>
 
 <p style="padding-top:15px">
-**[22]** Hazzard, J. A. N., Richards, F. D., Roberts, G. G. & Goes, S. D. B., Probabilistic Assessment of Antarctic Thermomechanical Structure: Impacts on Ice Sheet Stability, J. Geophys. Res.: Solid Earth, 128, e2023JB026653, doi: 10.1029/2023JB026653. ([PDF](/documents/papers/hazzard_etal_2023_jgr.pdf))
+**[23]** Hazzard, J. A. N., Richards, F. D., Roberts, G. G. & Goes, S. D. B., Probabilistic Assessment of Antarctic Thermomechanical Structure: Impacts on Ice Sheet Stability, J. Geophys. Res.: Solid Earth, 128, e2023JB026653, doi: 10.1029/2023JB026653. ([PDF](/documents/papers/hazzard_etal_2023_jgr.pdf))
 </p>
 
 <p style="padding-top:15px">
-**[21]** Stephenson, S. N., Ball, P. W. & Richards, F. D.,  Destruction and regrowth of lithospheric mantle beneath large igneous provinces, Science Advances, 9, eadf6216, doi: 10.1126/sciadv.adf6216. ([PDF](/documents/papers/stephenson_etal_2023_sciadv.pdf))
+**[22]** Stephenson, S. N., Ball, P. W. & Richards, F. D.,  Destruction and regrowth of lithospheric mantle beneath large igneous provinces, Science Advances, 9, eadf6216, doi: 10.1126/sciadv.adf6216. ([PDF](/documents/papers/stephenson_etal_2023_sciadv.pdf))
 </p>
 
 <p style="padding-top:15px">
-**[20]**  Hollyday, A., Austermann, J., Lloyd, A. J., Hoggard, M. J., Richards, F. D. & Rovere, A., A revised estimate of early Pliocene global mean sea level using geodynamic models of the Patagonian slab window, Geochem. Geophys. Geosyst., 24, e2022GC010648, doi: 10.1029/2022GC010648 ([PDF](/documents/papers/hollyday_etal_2023_gcubed.pdf))
+**[21]** Rovere, A., Pico, T., Richards, F. D., O’Leary, M. J., Mitrovica, J. X., Goodwin, I. D., Austermann, J. & Latychev, K., Influence of reef isostasy, dynamic topography, and glacial isostatic adjustment on sea-level records in Northeastern Australia, Commun. Earth Environ., 4, 328, doi: 10.1038/s43247-023-00967-3. ([PDF](/documents/papers/rovere_etal_2023_natcommearthenv.pdf))
 </p>
 
 <p style="padding-top:15px">
-**[19]** Davies, D. R., Ghelichkhan, S., Hoggard, M. J., Valentine, A. P. & Richards, F. D., Chapter 12: Observations and Models of Dynamic Topography: Current Status and Future Directions, in  Duarte, J. C. (ed.) Dynamics of plate tectonics and mantle convection. Cambridge, MA: Elsevier, doi: 10.31223/X55W5T ([PDF](/documents/papers/davies_etal_2023_elsevier.pdf))
+**[20]**  Hollyday, A., Austermann, J., Lloyd, A. J., Hoggard, M. J., Richards, F. D. & Rovere, A., A revised estimate of early Pliocene global mean sea level using geodynamic models of the Patagonian slab window, Geochem. Geophys. Geosyst., 24, e2022GC010648, doi: 10.1029/2022GC010648. ([PDF](/documents/papers/hollyday_etal_2023_gcubed.pdf))
+</p>
+
+<p style="padding-top:15px">
+**[19]** Davies, D. R., Ghelichkhan, S., Hoggard, M. J., Valentine, A. P. & Richards, F. D., Chapter 12: Observations and Models of Dynamic Topography: Current Status and Future Directions, in  Duarte, J. C. (ed.) Dynamics of plate tectonics and mantle convection. Cambridge, MA: Elsevier, doi: 10.31223/X55W5T. ([PDF](/documents/papers/davies_etal_2023_elsevier.pdf))
 </p>
 
 <h3 style="font-weight: bold">2022</h3>
 
 <p style="padding-top:15px">
-**[18]** Huston, D. L., Champion, D. C., Czarnota, K., Duan, J., Hutchens, M., Paradis, S. G., Hoggard, M. J., Ware, B. D., Gibson, G. M., Doublier, M. P., Kelley, K. D., McCafferty, A. E., Hayward, N., Richards, F. D., Tessalina, S. D. & Carr, G. R., Zinc on the edge: isotopic and geophysical evidence that cratonic edges control shale-hosted zinc-lead deposits, Miner. Deposita, 58, 1–23, doi: 10.1007/s00126-022-01153-9 ([PDF](/documents/papers/huston_etal_2022_mindep.pdf))
+**[18]** Huston, D. L., Champion, D. C., Czarnota, K., Duan, J., Hutchens, M., Paradis, S. G., Hoggard, M. J., Ware, B. D., Gibson, G. M., Doublier, M. P., Kelley, K. D., McCafferty, A. E., Hayward, N., Richards, F. D., Tessalina, S. D. & Carr, G. R., Zinc on the edge: isotopic and geophysical evidence that cratonic edges control shale-hosted zinc-lead deposits, Miner. Deposita, 58, 1–23, doi: 10.1007/s00126-022-01153-9. ([PDF](/documents/papers/huston_etal_2022_mindep.pdf))
 </p>
 
 <p style="padding-top:12px">
