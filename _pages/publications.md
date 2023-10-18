@@ -10,7 +10,7 @@ permalink: /publications/
 
 
 <p style="padding-top:15px">
-**[30]** Richards, F. D., Coulson, S. L., Hoggard, M. J., Austermann, J., Dyer, B. & Mitrovica, J. X., Geodynamically corrected Pliocene shoreline elevations in Australia consistent with mid-range projections of Antarctic ice loss, *in review at Science Advances*. ([PDF](/documents/papers/richards_etal_2023_sciadv_inreview.pdf))
+**[30]** Richards, F. D., Coulson, S. L., Hoggard, M. J., Austermann, J., Dyer, B. & Mitrovica, J. X., Geodynamically corrected Pliocene shoreline elevations in Australia consistent with mid-range projections of Antarctic ice loss, *in press at Science Advances*. ([PDF](/documents/papers/richards_etal_2023_sciadv_inreview.pdf))
 </p>
 
 <p style="padding-top:15px">
