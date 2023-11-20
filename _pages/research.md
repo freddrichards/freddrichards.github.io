@@ -29,7 +29,7 @@ To address this challenge, we are developing new methodologies to accurately con
 
 </p>
 
-<h4 style="font-weight: bold">Collaborators:</h4> Jacky Austermann (Columbia, USA), Sophie Coulson (Los Alamos National Laboratory, USA), Sia Ghelichkhan (ANU, Australia), Saskia Goes (Imperial, UK), James Hazzard (Imperial, UK), Mark Hoggard (ANU, Australia), Jerry Mitrovica (Harvard, USA), Tamara Pico (UC Santa Barbara, USA), Gareth Roberts (Imperial, UK).
+<h4 style="font-weight: bold">Collaborators:</h4> David Al-Attar (Cambridge, UK), Jacky Austermann (Columbia, USA), Sophie Coulson (Los Alamos National Laboratory, USA), Blake Dyer (UVic, Canada), Sia Ghelichkhan (ANU, Australia), Saskia Goes (Imperial, UK), James Hazzard (Imperial, UK), Mark Hoggard (ANU, Australia), Andrew Hollyday (Columbia, USA), Harriet Lau (Brown, USA), Andrew Lloyd (Columbia, USA), Bob Myhill (Bristol, UK), Jerry Mitrovica (Harvard, USA), John Naliboff (NM Tech, USA), Tamara Pico (UC Santa Barbara, USA), Gareth Roberts (Imperial, UK), Alessio Rovere (MARUM, Germany).
 
 <h4 style="font-weight: bold">Publications:</h4>
 
@@ -126,7 +126,7 @@ We have been tackling these questions by merging insights from recent experiment
 Questions we aim to tackle going forward include disentangling the chemical versus thermal contributions to the lithospheric heterogeneity of continents and determining how lithosphere thins and rethickens during emplacement of Large Igneous Provinces.
 </p>
 
-<h4 style="font-weight: bold">Collaborators:</h4> Mark Hoggard (ANU, Australia), Alistair Crosby (BP, UK), Sia Ghelichkhan (ANU, Australia), Patrick Ball (Colorado State, USA).
+<h4 style="font-weight: bold">Collaborators:</h4> Mark Hoggard (ANU, Australia), Alistair Crosby (BP, UK), Sia Ghelichkhan (ANU, Australia), Megan Holdt (Cambridge, UK), Simon Stephenson (Oxford, UK), Yasuko Takei (Tokyo, Japan), Nicky White (Cambridge, UK).
 
 <h4 style="font-weight: bold">Publications:</h4>
 
@@ -157,7 +157,7 @@ Recent work in this area has investigated the longevity of passive margin escarp
 
 The inverse modelling framework applied to date is remarkably successful, however, it only accounts for erosion within river channels and is insensitive to subsidence. In the coming years, we aim to combine sophisticated inverse methods with efficient landscape evolution models and new sedimentary datasets to generate more complete histories of continental vertical motion. These outputs will dramatically improve reconstructions of Earth’s time-dependent mantle convection, past sea-levels, and palaeoclimate.
 
-<h4 style="font-weight: bold">Collaborators:</h4> Gareth Roberts (Imperial, UK), Conor O'Malley (Imperial, UK), Marthe Klöcking (Göttingen, Germany), Verónica Rodríguez-Tribaldos (LBNL, USA), Mark Hoggard (ANU, Australia), Nicky White (Cambridge, UK).
+<h4 style="font-weight: bold">Collaborators:</h4> Gareth Roberts (Imperial, UK), Conor O'Malley (Imperial, UK), Marthe Klöcking (Göttingen, Germany), Verónica Rodríguez-Tribaldos (GFZ Potsdam, Germany), Mark Hoggard (ANU, Australia), Nicky White (Cambridge, UK).
 
 <h4 style="font-weight: bold">Publications:</h4>
 
