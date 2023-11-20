@@ -33,19 +33,19 @@ To address this challenge, we are developing new methodologies to accurately con
 
 <h4 style="font-weight: bold">Publications:</h4>
 
-Richards, F. D., Coulson, S. L., Hoggard, M. J., Austermann, J., Dyer, B. & Mitrovica, J. X., Correcting for mantle dynamics reconciles Mid-Pliocene sea-level estimates, *in review at Science Advances*. ([PDF](/documents/papers/richards_etal_2022_nature_inreview.pdf))
+Richards, F. D., Coulson, S. L., Hoggard, M. J., Austermann, J., Dyer, B. & Mitrovica, J. X., 2023. Geodynamically corrected Pliocene shoreline elevations in Australia consistent with midrange projections of Antarctic ice loss, Science Advances, 9, eadg3035, doi: 10.1126/sciadv.adg3035. ([PDF](/documents/papers/richards_etal_2023_sciadv.pdf))
 
-Hazzard, J. A. N., Richards, F. D., Roberts, G. G. & Goes, S. D. B., Probabilistic Assessment of Antarctic Thermomechanical Structure: Impacts on Ice Sheet Stability, *in review at J. Geophys. Res.: Solid Earth*. ([PDF](/documents/papers/hazzard_etal_2022_jgr_inreview_compressed.pdf))
+Hazzard, J. A. N., Richards, F. D., Roberts, G. G. & Goes, S. D. B., 2023. Probabilistic Assessment of Antarctic Thermomechanical Structure: Impacts on Ice Sheet Stability, J. Geophys. Res.: Solid Earth, 128, e2023JB026653, doi: 10.1029/2023JB026653. ([PDF](/documents/papers/hazzard_etal_2023_jgr.pdf))
 
-Rovere, A., Pico, T., Richards, F. D., O’Leary, M. J., Mitrovica, J. X., Goodwin, I. D., Austermann, J. & Latychev, K., The influence of reef isostasy, dynamic topography, and glacial isostatic adjustment on the Last Interglacial sea-level record of Northeastern Australia, *in review at Commun. Earth Environ.* ([PDF](/documents/papers/rovere_etal_2022_natcommearthenv_inreview.pdf))
+Rovere, A., Pico, T., Richards, F. D., O’Leary, M. J., Mitrovica, J. X., Goodwin, I. D., Austermann, J. & Latychev, K., 2023. Influence of reef isostasy, dynamic topography, and glacial isostatic adjustment on sea-level records in Northeastern Australia, Commun. Earth Environ., 4, 328, doi: 10.1038/s43247-023-00967-3. ([PDF](/documents/papers/rovere_etal_2023_natcommearthenv.pdf))
 
-Hollyday, A., Austermann, J., Lloyd, A. J., Hoggard, M. J., Richards, F. D. & Rovere, A., A revised estimate of early Pliocene global mean sea level using geodynamic models of the Patagonian slab window, *in review at Geochem. Geophys. Geosyst.* ([PDF](/documents/papers/hollyday_etal_2022_gcubed_inreview.pdf))
+Hollyday, A., Austermann, J., Lloyd, A. J., Hoggard, M. J., Richards, F. D. & Rovere, A., 2023. A revised estimate of early Pliocene global mean sea level using geodynamic models of the Patagonian slab window, Geochem. Geophys. Geosyst., 24, e2022GC010648, doi: 10.1029/2022GC010648. ([PDF](/documents/papers/hollyday_etal_2023_gcubed.pdf))
 
-Lloyd, A. J., Crawford, O., Al-Attar, D. A., Austermann, J., Hoggard, M. J., Richards, F. D. & Syvret, F., GIA imaging of 3D mantle viscosity based on paleo sea-level observations - Part I: Sensitivity kernels for an Earth with laterally varying viscosity, *in review at Geophys. J. Int*. ([PDF](/documents/papers/lloyd_etal_2022_gji_inreview.pdf))
+Lloyd, A. J., Crawford, O., Al-Attar, D. A., Austermann, J., Hoggard, M. J., Richards, F. D. & Syvret, F., 2023. GIA imaging of 3D mantle viscosity based on paleo sea-level observations - Part I: Sensitivity kernels for an Earth with laterally varying viscosity, *accepted at Geophys. J. Int*. ([PDF](/documents/papers/lloyd_etal_2022_gji_inpress.pdf))
 
-Austermann, J., Hoggard, M. J., Latychev, K., Richards, F. D. & Mitrovica, J. X., 2021. The effect of lateral variations in Earth structure on Last Interglacial sea level, Geophys. J. Int., ggab289. doi: 10.1093/gji/ggab289. ([PDF](/documents/papers/austermann_etal_2021_gji.pdf))
+Austermann, J., Hoggard, M. J., Latychev, K., Richards, F. D. & Mitrovica, J. X., 2021. The effect of lateral variations in Earth structure on Last Interglacial sea level, Geophys. J. Int., 227, 1938-1960, doi: 10.1093/gji/ggab289. ([PDF](/documents/papers/austermann_etal_2021_gji.pdf))
 
-Ghelichkhan, S., Fuentes, J. J., Hoggard M. J., Richards, F. D., Mitrovica, J. X., The Precession Constant and its Long-Term Variation, Icarus, 114172, doi: 10.1016/j.icarus.2020.114172.  ([PDF](/documents/papers/ghelichkhan_etal_2020_icarus.pdf))
+Ghelichkhan, S., Fuentes, J. J., Hoggard M. J., Richards, F. D., Mitrovica, J. X., 2021. The Precession Constant and its Long-Term Variation, Icarus, 114172, doi: 10.1016/j.icarus.2020.114172.  ([PDF](/documents/papers/ghelichkhan_etal_2020_icarus.pdf))
 
 Mitrovica, J. X., Austermann, J., Coulson, S. L., Creveling, J. R., Hoggard, M. J., Jarvis, G. T. & Richards, F. D., 2020. Dynamic Topography and Ice Age Paleoclimate, Ann. Rev. Earth Planet. Sci., 48, 585-621, doi: 10.1146/annurev-earth-082517-010225. ([PDF](/documents/papers/mitrovica_etal_2020_annreveps.pdf))
 
@@ -106,7 +106,7 @@ This joint inversion approach shows great promise and will be augmented in futur
 
 Richards, F. D., Hoggard, M. J., Ghelichkhan, S., Koelemeijer, P. & Lau, H. C. P., 2023. Geodynamic, geodetic, and seismic constraints favour deflated and dense-cored LLVPs, Earth Plan. Sci. Lett., 602, 117964., doi: 10.1016/j.epsl.2022.117964 ([PDF](/documents/papers/richards_etal_2023_epsl.pdf))
 
-Davies, D. R., Ghelichkhan, S., Hoggard, M. J., Valentine, A. P. & Richards, F. D., 2023. Chapter 12: Observations and Models of Dynamic Topography: Current Status and Future Directions, in  Duarte, J. C. (ed.) Dynamics of plate tectonics and mantle convection. Cambridge, MA: Elsevier, doi: 10.31223/X55W5T ([PDF](/documents/papers/davies_etal_2022_elsevier.pdf))
+Davies, D. R., Ghelichkhan, S., Hoggard, M. J., Valentine, A. P. & Richards, F. D., 2023. Chapter 12: Observations and Models of Dynamic Topography: Current Status and Future Directions, in  Duarte, J. C. (ed.) Dynamics of plate tectonics and mantle convection. Cambridge, MA: Elsevier, doi: 10.1016/B978-0-323-85733-8.00017-2. ([PDF](/documents/papers/davies_etal_2023_elsevier.pdf))
 
 <h3 style="font-weight: bold">Mapping the Thermomechanical Structure of the Upper Mantle</h3>
 
@@ -127,6 +127,8 @@ Questions we aim to tackle going forward include disentangling the chemical vers
 <h4 style="font-weight: bold">Collaborators:</h4> Mark Hoggard (ANU, Australia), Alistair Crosby (BP, UK), Sia Ghelichkhan (ANU, Australia), Patrick Ball (Colorado State, USA).
 
 <h4 style="font-weight: bold">Publications:</h4>
+
+Stephenson, S. N., Ball, P. W. & Richards, F. D.,  Destruction and regrowth of lithospheric mantle beneath large igneous provinces, Science Advances, 9, eadf6216, doi: 10.1126/sciadv.adf6216. ([PDF](/documents/papers/stephenson_etal_2023_sciadv.pdf))
 
 Richards, F. D., Hoggard, M. J., Crosby, A. G., Ghelichkhan, S. & White, N. J., 2020. Structure and Dynamics of the Oceanic Lithosphere-Asthenosphere System, Phys. Earth Planet. Int., 309, 106559. doi: 10.1029/2019GC008771. ([PDF](/documents/papers/richards_etal_2020_pepi_compressed.pdf))
 
