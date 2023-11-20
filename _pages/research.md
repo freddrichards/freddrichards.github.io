@@ -128,7 +128,7 @@ Questions we aim to tackle going forward include disentangling the chemical vers
 
 <h4 style="font-weight: bold">Publications:</h4>
 
-Stephenson, S. N., Ball, P. W. & Richards, F. D.,  Destruction and regrowth of lithospheric mantle beneath large igneous provinces, Science Advances, 9, eadf6216, doi: 10.1126/sciadv.adf6216. ([PDF](/documents/papers/stephenson_etal_2023_sciadv.pdf))
+Stephenson, S. N., Ball, P. W. & Richards, F. D., 2023. Destruction and regrowth of lithospheric mantle beneath large igneous provinces, Science Advances, 9, eadf6216, doi: 10.1126/sciadv.adf6216. ([PDF](/documents/papers/stephenson_etal_2023_sciadv.pdf))
 
 Richards, F. D., Hoggard, M. J., Crosby, A. G., Ghelichkhan, S. & White, N. J., 2020. Structure and Dynamics of the Oceanic Lithosphere-Asthenosphere System, Phys. Earth Planet. Int., 309, 106559. doi: 10.1029/2019GC008771. ([PDF](/documents/papers/richards_etal_2020_pepi_compressed.pdf))
 
