@@ -10,29 +10,29 @@ permalink: /publications/
 
 
 <p style="padding-top:15px">
-**[30]** Richards, F. D., Coulson, S. L., Hoggard, M. J., Austermann, J., Dyer, B. & Mitrovica, J. X., Geodynamically corrected Pliocene shoreline elevations in Australia consistent with mid-range projections of Antarctic ice loss, *in press at Science Advances*. ([PDF](/documents/papers/richards_etal_2023_sciadv_inpress.pdf))
-</p>
-
-<p style="padding-top:15px">
-**[29]** Lloyd, A. J., Crawford, O., Al-Attar, D. A., Austermann, J., Hoggard, M. J., Richards, F. D. & Syvret, F., GIA imaging of 3D mantle viscosity based on paleo sea-level observations - Part I: Sensitivity kernels for an Earth with laterally varying viscosity, *in press at Geophys. J. Int*. 
+**[30]** Lloyd, A. J., Crawford, O., Al-Attar, D. A., Austermann, J., Hoggard, M. J., Richards, F. D. & Syvret, F., GIA imaging of 3D mantle viscosity based on paleo sea-level observations - Part I: Sensitivity kernels for an Earth with laterally varying viscosity, *in press at Geophys. J. Int*. 
 <!---([PDF](/documents/papers/lloyd_etal_2022_gji_inpress.pdf))--->
 </p>
 
 <p style="padding-top:15px">
-**[28]** Hazzard, J. A. N. & Richards, F. D., Antarctic Geothermal Heat Flow, Crustal Conductivity and Heat Production Inferred From Seismological Data, *in review at Geophys. Res. Lett.*. ([PDF](/documents/papers/hazzard_richards_2023_grl_inreview.pdf))
+**[29]** Hazzard, J. A. N. & Richards, F. D., Antarctic Geothermal Heat Flow, Crustal Conductivity and Heat Production Inferred From Seismological Data, *in review at Geophys. Res. Lett.*. ([PDF](/documents/papers/hazzard_richards_2023_grl_inreview.pdf))
 </p>
 
 <p style="padding-top:15px">
-**[27]** Holdt, M. C., White, N. J. & Richards, F. D., A Revised Oceanic Plate Cooling Model, *in review at J. Geophys. Res.: Solid Earth*. 
+**[28]** Holdt, M. C., White, N. J. & Richards, F. D., A Revised Oceanic Plate Cooling Model, *in review at J. Geophys. Res.: Solid Earth*. 
 <!---([PDF](/documents/papers/holdt_etal_2023_jgr_inreview.pdf))--->
 </p>
 
 <p style="padding-top:15px">
-**[26]** Hollyday, A., Raymo, M. E., Austermann, J., Richards, F. D., Hoggard, M. J. & Rovere, A., Pliocene shorelines and the epeirogenic motion of continentalmargins: A target dataset for dynamic topography models, *in review at Earth Surf. Dyn*. 
+**[27]** Hollyday, A., Raymo, M. E., Austermann, J., Richards, F. D., Hoggard, M. J. & Rovere, A., Pliocene shorelines and the epeirogenic motion of continentalmargins: A target dataset for dynamic topography models, *in review at Earth Surf. Dyn*. 
 <!---(([PDF](/documents/papers/hollyday_etal_2023_esd_inreview.pdf))--->
 </p>
 
 <h3 style="font-weight: bold">2023</h3>
+
+<p style="padding-top:15px">
+**[26]** Richards, F. D., Coulson, S. L., Hoggard, M. J., Austermann, J., Dyer, B. & Mitrovica, J. X., Geodynamically corrected Pliocene shoreline elevations in Australia consistent with midrange projections of Antarctic ice loss, doi: 10.1126/sciadv.adg3035. ([PDF](/documents/papers/richards_etal_2023_sciadv.pdf))
+</p>
 
 <p style="padding-top:15px">
 **[25]** Richards, F. D., Hoggard, M. J., Ghelichkhan, S., Koelemeijer, P. & Lau, H. C. P., Geodynamic, geodetic, and seismic constraints favour deflated and dense-cored LLVPs, Earth Plan. Sci. Lett., 602, 117964, doi: 10.1016/j.epsl.2022.117964. ([PDF](/documents/papers/richards_etal_2023_epsl.pdf))
