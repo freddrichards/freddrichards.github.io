@@ -10,7 +10,7 @@ permalink: /publications/
 
 
 <p style="padding-top:15px">
-**[30]** Lloyd, A. J., Crawford, O., Al-Attar, D. A., Austermann, J., Hoggard, M. J., Richards, F. D. & Syvret, F., GIA imaging of 3D mantle viscosity based on paleo sea-level observations - Part I: Sensitivity kernels for an Earth with laterally varying viscosity, *in press at Geophys. J. Int*. 
+**[30]** Lloyd, A. J., Crawford, O., Al-Attar, D. A., Austermann, J., Hoggard, M. J., Richards, F. D. & Syvret, F., GIA imaging of 3D mantle viscosity based on paleo sea-level observations - Part I: Sensitivity kernels for an Earth with laterally varying viscosity, *accepted at Geophys. J. Int*. 
 <!---([PDF](/documents/papers/lloyd_etal_2022_gji_inpress.pdf))--->
 </p>
 
@@ -31,7 +31,7 @@ permalink: /publications/
 <h3 style="font-weight: bold">2023</h3>
 
 <p style="padding-top:15px">
-**[26]** Richards, F. D., Coulson, S. L., Hoggard, M. J., Austermann, J., Dyer, B. & Mitrovica, J. X., Geodynamically corrected Pliocene shoreline elevations in Australia consistent with midrange projections of Antarctic ice loss, doi: 10.1126/sciadv.adg3035. ([PDF](/documents/papers/richards_etal_2023_sciadv.pdf))
+**[26]** Richards, F. D., Coulson, S. L., Hoggard, M. J., Austermann, J., Dyer, B. & Mitrovica, J. X., Geodynamically corrected Pliocene shoreline elevations in Australia consistent with midrange projections of Antarctic ice loss, Science Advances, 9, eadg3035, doi: 10.1126/sciadv.adg3035. ([PDF](/documents/papers/richards_etal_2023_sciadv.pdf))
 </p>
 
 <p style="padding-top:15px">
