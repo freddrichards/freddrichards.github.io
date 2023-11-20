@@ -35,6 +35,8 @@ To address this challenge, we are developing new methodologies to accurately con
 
 Richards, F. D., Coulson, S. L., Hoggard, M. J., Austermann, J., Dyer, B. & Mitrovica, J. X., 2023. Geodynamically corrected Pliocene shoreline elevations in Australia consistent with midrange projections of Antarctic ice loss, Science Advances, 9, eadg3035, doi: 10.1126/sciadv.adg3035. ([PDF](/documents/papers/richards_etal_2023_sciadv.pdf))
 
+Richards, F. D., 2023. Quantifying Plio-Pleistocene Global Mean Sea Level Variation, in Elias, S. (ed.) Encyclopedia of Quaternary Science (3rd Edition), Cambridge, MA: Elsevier, doi: 10.1016/B978-0-323-99931-1.00073-8. ([PDF](/documents/papers/richards_2023_EQS.pdf))
+
 Hazzard, J. A. N., Richards, F. D., Roberts, G. G. & Goes, S. D. B., 2023. Probabilistic Assessment of Antarctic Thermomechanical Structure: Impacts on Ice Sheet Stability, J. Geophys. Res.: Solid Earth, 128, e2023JB026653, doi: 10.1029/2023JB026653. ([PDF](/documents/papers/hazzard_etal_2023_jgr.pdf))
 
 Rovere, A., Pico, T., Richards, F. D., O’Leary, M. J., Mitrovica, J. X., Goodwin, I. D., Austermann, J. & Latychev, K., 2023. Influence of reef isostasy, dynamic topography, and glacial isostatic adjustment on sea-level records in Northeastern Australia, Commun. Earth Environ., 4, 328, doi: 10.1038/s43247-023-00967-3. ([PDF](/documents/papers/rovere_etal_2023_natcommearthenv.pdf))
