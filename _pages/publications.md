@@ -15,7 +15,7 @@ permalink: /publications/
 </p>
 
 <p style="padding-top:15px">
-**[32]** An, Y., Ding, H. & Richards, F. D., Jiang, W., Li, J. & Shen, W., Satellite observations reveal shorter periodic inner core oscillation, *in review at Nature*. 
+**[32]** An, Y., Ding, H., Richards, F. D., Jiang, W., Li, J. & Shen, W., Satellite observations reveal shorter periodic inner core oscillation, *in review at Nature*. 
 <!---([PDF](/documents/papers/an_etal_2024_nature_inreview.pdf))--->
 </p>
 
