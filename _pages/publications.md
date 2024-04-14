@@ -31,7 +31,7 @@ permalink: /publications/
 
 <p style="padding-top:15px">
 **[29]** Hollyday, A., Raymo, M. E., Austermann, J., Richards, F. D., Hoggard, M. J. & Rovere, A., Pliocene shorelines and the epeirogenic motion of continentalmargins: A target dataset for dynamic topography models, *in review at Earth Surf. Dyn*. 
-<!---(([PDF](/documents/papers/hollyday_etal_2023_esd_inreview.pdf))--->
+<!---(([PDF](/documents/papers/hollyday_etal_2024_esd_inreview.pdf))--->
 </p>
 
 <h3 style="font-weight: bold">2023</h3>
