@@ -41,7 +41,7 @@ permalink: /publications/
 </p>
 
 <p style="padding-top:15px">
-**[27]** Lloyd, A. J., Crawford, O., Al-Attar, D. A., Austermann, J., Hoggard, M. J., Richards, F. D. & Syvret, F., GIA imaging of 3D mantle viscosity based on palaeo sea-level observations - Part I: Sensitivity kernels for an Earth with laterally varying viscosity, GJI, 236, ggad455, doi: https://doi.org/10.1093/gji/ggad455
+**[27]** Lloyd, A. J., Crawford, O., Al-Attar, D. A., Austermann, J., Hoggard, M. J., Richards, F. D. & Syvret, F., GIA imaging of 3D mantle viscosity based on palaeo sea-level observations - Part I: Sensitivity kernels for an Earth with laterally varying viscosity, GJI, 236, ggad455, doi: 10.1093/gji/ggad455
 ([PDF](/documents/papers/lloyd_etal_2024_gji.pdf))
 </p>
 
