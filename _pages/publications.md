@@ -34,7 +34,7 @@ permalink: /publications/
 <!---(([PDF](/documents/papers/hollyday_etal_2024_esd_inreview.pdf))--->
 </p>
 
-<h3 style="font-weight: bold">2023</h3>
+<h3 style="font-weight: bold">2024</h3>
 
 <p style="padding-top:15px">
 **[28]** Hazzard, J. A. N. & Richards, F. D., Antarctic geothermal heat flow, crustal conductivity and heat production inferred from seismological data. Geophys. Res. Lett., 51, e2023GL106274, doi: 10.1029/2023GL106274 ([PDF](/documents/papers/hazzard_richards_2024_grl.pdf))
