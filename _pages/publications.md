@@ -10,7 +10,7 @@ permalink: /publications/
 
 
 <p style="padding-top:15px">
-**[33]** Fernandes, V. M., Roberts, G. G. & Richards, F. D., Testing Mantle Convection Simulations with Paleobiology and Other Stratigraphic Observations: Examples from Western North America, *in review at Geochem. Geophys. Geosyst.*. 
+**[33]** Fernandes, V. M., Roberts, G. G. & Richards, F. D., Testing Mantle Convection Simulations with Paleobiology and Other Stratigraphic Observations: Examples from Western North America, *in review at Geochem. Geophys. Geosyst.*
 <!---([PDF](/documents/papers/fernandes_etal_2024_gcubed_inreview.pdf))--->
 </p>
 
@@ -25,7 +25,7 @@ permalink: /publications/
 </p>
 
 <p style="padding-top:15px">
-**[30]** O'Malley, C. P. B., Roberts, G. G., Panton, J., Richards, F. D., Davies, J. H., Fernandes, V. M. & Ghelichkhan, S., Reconciling Surface Deflections From Simulations of Global Mantle Convection, *in review at Geochem. Geophys. Geosyst.*. 
+**[30]** O'Malley, C. P. B., Roberts, G. G., Panton, J., Richards, F. D., Davies, J. H., Fernandes, V. M. & Ghelichkhan, S., Reconciling Surface Deflections From Simulations of Global Mantle Convection, *in review at Geochem. Geophys. Geosyst.*
 <!---([PDF](/documents/papers/omalley_etal_2024_gcubed_inreview.pdf))--->
 </p>
 
