@@ -33,13 +33,11 @@ permalink: /publications/
 <h3 style="font-weight: bold">2025</h3>
 
 <p style="padding-top:15px">
-**[33]** Richards, F. D., Quantifying Plio-Pleistocene Global Mean Sea Level Variation, in Elias, S. (ed.) Encyclopedia of Quaternary Science (3rd Edition), London, 6, 48–62: Elsevier, doi: 10.1016/B978-0-323-99931-1.00073-8.
-([PDF](/documents/papers/richards_2024_EQS.pdf))
+**[33]** Richards, F. D., Quantifying Plio-Pleistocene Global Mean Sea Level Variation, in Elias, S. (ed.) Encyclopedia of Quaternary Science (3rd Edition), London, 6, 48–62: Elsevier, doi: 10.1016/B978-0-323-99931-1.00073-8. ([PDF](/documents/papers/richards_2024_EQS.pdf))
 </p>
 
 <p style="padding-top:15px">
-**[32]** Ghelichkhan, S., Hoggard, M.J., Richards, F. D., Chan, N.-H., Creveling J. R., Moore, K. M. & Mitrovica, J. X., Closing the budget of 20th Century True Polar Wander, Geophys. J. Int., 242, ggaf197, doi:10.1093/gji/ggaf197.
-([PDF](/documents/papers/ghelichkhan_etal_2025_gji.pdf))
+**[32]** Ghelichkhan, S., Hoggard, M.J., Richards, F. D., Chan, N.-H., Creveling J. R., Moore, K. M. & Mitrovica, J. X., Closing the budget of 20th Century True Polar Wander, Geophys. J. Int., 242, ggaf197, doi:10.1093/gji/ggaf197. ([PDF](/documents/papers/ghelichkhan_etal_2025_gji.pdf))
 </p>
 
 
@@ -50,27 +48,23 @@ permalink: /publications/
 </p>
 
 <p style="padding-top:15px">
-**[30]** Fernandes, V. M., Roberts, G. G. & Richards, F. D., Testing Mantle Convection Simulations with Paleobiology and Other Stratigraphic Observations: Examples from Western North America, Geochem. Geophys. Geosyst., 25, e2023GC01138, doi: 10.1029/2023GC011381.
-([PDF](/documents/papers/fernandes_etal_2024_gcubed.pdf))
+**[30]** Fernandes, V. M., Roberts, G. G. & Richards, F. D., Testing Mantle Convection Simulations with Paleobiology and Other Stratigraphic Observations: Examples from Western North America, Geochem. Geophys. Geosyst., 25, e2023GC01138, doi: 10.1029/2023GC011381. ([PDF](/documents/papers/fernandes_etal_2024_gcubed.pdf))
 </p>
 
 <p style="padding-top:15px">
-**[29]** O'Malley, C. P. B., Roberts, G. G., Panton, J., Richards, F. D., Davies, J. H., Fernandes, V. M. & Ghelichkhan, S., Reconciling Surface Deflections From Simulations of Global Mantle Convection, Geosci. Model Dev., 17, 9023–9049, doi: 10.5194/gmd-17-9023-2024.
-([PDF](/documents/papers/omalley_etal_2024_gmd.pdf))
+**[29]** O'Malley, C. P. B., Roberts, G. G., Panton, J., Richards, F. D., Davies, J. H., Fernandes, V. M. & Ghelichkhan, S., Reconciling Surface Deflections From Simulations of Global Mantle Convection, Geosci. Model Dev., 17, 9023–9049, doi: 10.5194/gmd-17-9023-2024. ([PDF](/documents/papers/omalley_etal_2024_gmd.pdf))
 </p>
 
 <p style="padding-top:15px">
-**[28]** Hollyday, A., Raymo, M. E., Austermann, J., Richards, F. D., Hoggard, M. J. & Rovere, A., Pliocene shorelines and the epeirogenic motion of continentalmargins: A target dataset for dynamic topography models, Earth Surf. Dyn., 12, 883–905, doi: 10.5194/esurf-12-883-2024. (([PDF](/documents/papers/hollyday_etal_2024_esd.pdf))
+**[28]** Hollyday, A., Raymo, M. E., Austermann, J., Richards, F. D., Hoggard, M. J. & Rovere, A., Pliocene shorelines and the epeirogenic motion of continentalmargins: A target dataset for dynamic topography models, Earth Surf. Dyn., 12, 883–905, doi: 10.5194/esurf-12-883-2024. ([PDF](/documents/papers/hollyday_etal_2024_esd.pdf))
 </p>
 
 <p style="padding-top:15px">
-**[27]** Hoggard, M.J., Hazzard, J. A. N., Sudholz, Z., Richards, F. D., Duvernay, T., Austermann, J., Jaques, A.L., Yaxley, G., Czarnota, K., Haynes, M., Thermomechanical models of the Australian plate. Exploring for the Future: Extended Abstracts, Geoscience Australia, Canberra, doi: 10.26186/149411.
-(([PDF](/documents/papers/hoggard_etal_2024_eftf.pdf))
+**[27]** Hoggard, M.J., Hazzard, J. A. N., Sudholz, Z., Richards, F. D., Duvernay, T., Austermann, J., Jaques, A.L., Yaxley, G., Czarnota, K., Haynes, M., Thermomechanical models of the Australian plate. Exploring for the Future: Extended Abstracts, Geoscience Australia, Canberra, doi: 10.26186/149411. ([PDF](/documents/papers/hoggard_etal_2024_eftf.pdf))
 </p>
 
 <p style="padding-top:15px">
-**[26]** Lloyd, A. J., Crawford, O., Al-Attar, D. A., Austermann, J., Hoggard, M. J., Richards, F. D. & Syvret, F., GIA imaging of 3D mantle viscosity based on palaeo sea-level observations - Part I: Sensitivity kernels for an Earth with laterally varying viscosity, GJI, 236, ggad455, doi: 10.1093/gji/ggad455.
-([PDF](/documents/papers/lloyd_etal_2024_gji.pdf))
+**[26]** Lloyd, A. J., Crawford, O., Al-Attar, D. A., Austermann, J., Hoggard, M. J., Richards, F. D. & Syvret, F., GIA imaging of 3D mantle viscosity based on palaeo sea-level observations - Part I: Sensitivity kernels for an Earth with laterally varying viscosity, GJI, 236, ggad455, doi: 10.1093/gji/ggad455. ([PDF](/documents/papers/lloyd_etal_2024_gji.pdf))
 </p>
 
 <h3 style="font-weight: bold">2023</h3>
