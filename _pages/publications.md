@@ -38,7 +38,7 @@ permalink: /publications/
 </p>
 
 <p style="padding-top:15px">
-**[32]** Ghelichkhan, S., Hoggard, M.J., Richards, F. D., Chan, N.-H., Creveling J. R., Moore, K. M. & Mitrovica, J. X., Closing the budget of 20th Century True Polar Wander, GJI, 242, ggaf197, doi:10.1093/gji/ggaf197.
+**[32]** Ghelichkhan, S., Hoggard, M.J., Richards, F. D., Chan, N.-H., Creveling J. R., Moore, K. M. & Mitrovica, J. X., Closing the budget of 20th Century True Polar Wander, Geophys. J. Int., 242, ggaf197, doi:10.1093/gji/ggaf197.
 ([PDF](/documents/papers/ghelichkhan_etal_2025_gji.pdf))
 </p>
 
