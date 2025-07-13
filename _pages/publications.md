@@ -8,55 +8,79 @@ permalink: /publications/
 <br/><br/>
 <h3 style="font-weight: bold">In Review	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; [Google Scholar](https://scholar.google.co.uk/citations?user=IpZA1mcAAAAJ&hl=en&oi=sra)</h3>
 
-
 <p style="padding-top:15px">
-**[33]** Fernandes, V. M., Roberts, G. G. & Richards, F. D., Testing Mantle Convection Simulations with Paleobiology and Other Stratigraphic Observations: Examples from Western North America, *in review at Geochem. Geophys. Geosyst.*
-<!---([PDF](/documents/papers/fernandes_etal_2024_gcubed_inreview.pdf))--->
+**[37]** Lucas, E. L., Richards, F. D., Cederberg, G., Bao, X., Hoggard, M. J., Tsuji, S. R. J., Latychev, K., Tsuji, L. J. S., Mitrovica, J. X., *in review at Nature Climate Change*.
+<!---([PDF](/documents/papers/lucas_etal_2025_natclimchange_inreview.pdf))--->
 </p>
 
 <p style="padding-top:15px">
-**[32]** An, Y., Ding, H., Richards, F. D., Jiang, W., Li, J. & Shen, W., Satellite observations reveal shorter periodic inner core oscillation, *in review at Nature*. 
-<!---([PDF](/documents/papers/an_etal_2024_nature_inreview.pdf))--->
+**[36]** Parazin, B., Gomez, N., Richards, F. D., Hoggard, M. J., Coulson, S. C. & Mitrovica, J. X., Ice sheets without dynamic topography, *in review at Nature Climate Change*.
+<!---([PDF](/documents/papers/parazin_etal_2025_grl_inreview.pdf))--->
 </p>
 
 <p style="padding-top:15px">
-**[31]** Holdt, M. C., White, N. J. & Richards, F. D., A Revised Oceanic Plate Cooling Model, *in review at J. Geophys. Res.: Solid Earth*. 
+**[35]** An, Y., Ding, H., Richards, F. D., Jiang, W., Li, J. & Shen, W., Weak magnetic field and dense LLVPs: new insights from satellite observations of inner core oscillation, *in review at Nature Communications*. 
+<!---([PDF](/documents/papers/an_etal_2024_natcomms_inreview.pdf))--->
+</p>
+
+<h3 style="font-weight: bold">In Press</h3>
+
+<p style="padding-top:15px">
+**[34]** Holdt, M. C., White, N. J. & Richards, F. D., A Revised Oceanic Plate Cooling Model, *accepted at J. Geophys. Res.: Solid Earth*. 
 <!---([PDF](/documents/papers/holdt_etal_2023_jgr_inreview.pdf))--->
 </p>
 
+<h3 style="font-weight: bold">2025</h3>
+
 <p style="padding-top:15px">
-**[30]** O'Malley, C. P. B., Roberts, G. G., Panton, J., Richards, F. D., Davies, J. H., Fernandes, V. M. & Ghelichkhan, S., Reconciling Surface Deflections From Simulations of Global Mantle Convection, *in review at Geochem. Geophys. Geosyst.*
-<!---([PDF](/documents/papers/omalley_etal_2024_gcubed_inreview.pdf))--->
+**[33]** Richards, F. D., Quantifying Plio-Pleistocene Global Mean Sea Level Variation, in Elias, S. (ed.) Encyclopedia of Quaternary Science (3rd Edition), London, 6, 48–62: Elsevier, doi: 10.1016/B978-0-323-99931-1.00073-8.
+([PDF](/documents/papers/hazzard_richards_2024_grl.pdf))
 </p>
 
 <p style="padding-top:15px">
-**[29]** Hollyday, A., Raymo, M. E., Austermann, J., Richards, F. D., Hoggard, M. J. & Rovere, A., Pliocene shorelines and the epeirogenic motion of continentalmargins: A target dataset for dynamic topography models, *in review at Earth Surf. Dyn*. 
-<!---(([PDF](/documents/papers/hollyday_etal_2024_esd_inreview.pdf))--->
+**[32]** Ghelichkhan, S., Hoggard, M.J., Richards, F. D., Chan, N.-H., Creveling J. R., Moore, K. M. & Mitrovica, J. X., Closing the budget of 20th Century True Polar Wander, GJI, 242, ggaf197, doi:10.1093/gji/ggaf197.
+([PDF](/documents/papers/hazzard_richards_2024_grl.pdf))
 </p>
+
 
 <h3 style="font-weight: bold">2024</h3>
 
 <p style="padding-top:15px">
-**[28]** Hazzard, J. A. N. & Richards, F. D., Antarctic geothermal heat flow, crustal conductivity and heat production inferred from seismological data. Geophys. Res. Lett., 51, e2023GL106274, doi: 10.1029/2023GL106274 ([PDF](/documents/papers/hazzard_richards_2024_grl.pdf))
+**[31]** Hazzard, J. A. N. & Richards, F. D., Antarctic geothermal heat flow, crustal conductivity and heat production inferred from seismological data. Geophys. Res. Lett., 51, e2023GL106274, doi: 10.1029/2023GL106274. ([PDF](/documents/papers/hazzard_richards_2024_grl.pdf))
 </p>
 
 <p style="padding-top:15px">
-**[27]** Lloyd, A. J., Crawford, O., Al-Attar, D. A., Austermann, J., Hoggard, M. J., Richards, F. D. & Syvret, F., GIA imaging of 3D mantle viscosity based on palaeo sea-level observations - Part I: Sensitivity kernels for an Earth with laterally varying viscosity, GJI, 236, ggad455, doi: 10.1093/gji/ggad455
+**[30]** Fernandes, V. M., Roberts, G. G. & Richards, F. D., Testing Mantle Convection Simulations with Paleobiology and Other Stratigraphic Observations: Examples from Western North America, Geochem. Geophys. Geosyst., 25, e2023GC01138, doi: 10.1029/2023GC011381.
+([PDF](/documents/papers/fernandes_etal_2024_gcubed.pdf))
+</p>
+
+<p style="padding-top:15px">
+**[29]** O'Malley, C. P. B., Roberts, G. G., Panton, J., Richards, F. D., Davies, J. H., Fernandes, V. M. & Ghelichkhan, S., Reconciling Surface Deflections From Simulations of Global Mantle Convection, Geosci. Model Dev., 17, 9023–9049, doi: 10.5194/gmd-17-9023-2024.
+([PDF](/documents/papers/omalley_etal_2024_gcubed.pdf))
+</p>
+
+<p style="padding-top:15px">
+**[28]** Hollyday, A., Raymo, M. E., Austermann, J., Richards, F. D., Hoggard, M. J. & Rovere, A., Pliocene shorelines and the epeirogenic motion of continentalmargins: A target dataset for dynamic topography models, Earth Surf. Dyn., 12, 883–905, doi: 10.5194/esurf-12-883-2024. (([PDF](/documents/papers/hollyday_etal_2024_esd.pdf))
+</p>
+
+<p style="padding-top:15px">
+**[27]** Hoggard, M.J., Hazzard, J. A. N., Sudholz, Z., Richards, F. D., Duvernay, T., Austermann, J., Jaques, A.L., Yaxley, G., Czarnota, K., Haynes, M., Thermomechanical models of the Australian plate. Exploring for the Future: Extended Abstracts, Geoscience Australia, Canberra, doi: 10.26186/149411.
+(([PDF](/documents/papers/hoggard_etal_2024_eftf.pdf))
+</p>
+
+<p style="padding-top:15px">
+**[26]** Lloyd, A. J., Crawford, O., Al-Attar, D. A., Austermann, J., Hoggard, M. J., Richards, F. D. & Syvret, F., GIA imaging of 3D mantle viscosity based on palaeo sea-level observations - Part I: Sensitivity kernels for an Earth with laterally varying viscosity, GJI, 236, ggad455, doi: 10.1093/gji/ggad455.
 ([PDF](/documents/papers/lloyd_etal_2024_gji.pdf))
 </p>
 
 <h3 style="font-weight: bold">2023</h3>
 
 <p style="padding-top:15px">
-**[26]** Richards, F. D., Coulson, S. L., Hoggard, M. J., Austermann, J., Dyer, B. & Mitrovica, J. X., Geodynamically corrected Pliocene shoreline elevations in Australia consistent with midrange projections of Antarctic ice loss, Science Advances, 9, eadg3035, doi: 10.1126/sciadv.adg3035. ([PDF](/documents/papers/richards_etal_2023_sciadv.pdf))
+**[25]** Richards, F. D., Coulson, S. L., Hoggard, M. J., Austermann, J., Dyer, B. & Mitrovica, J. X., Geodynamically corrected Pliocene shoreline elevations in Australia consistent with midrange projections of Antarctic ice loss, Science Advances, 9, eadg3035, doi: 10.1126/sciadv.adg3035. ([PDF](/documents/papers/richards_etal_2023_sciadv.pdf))
 </p>
 
 <p style="padding-top:15px">
-**[25]** Richards, F. D., Hoggard, M. J., Ghelichkhan, S., Koelemeijer, P. & Lau, H. C. P., Geodynamic, geodetic, and seismic constraints favour deflated and dense-cored LLVPs, Earth Plan. Sci. Lett., 602, 117964, doi: 10.1016/j.epsl.2022.117964. ([PDF](/documents/papers/richards_etal_2023_epsl.pdf))
-</p>
-
-<p style="padding-top:15px">
-**[24]** Richards, F. D., Quantifying Plio-Pleistocene Global Mean Sea Level Variation, in Elias, S. (ed.) Encyclopedia of Quaternary Science (3rd Edition), Cambridge, MA: Elsevier, doi: 10.1016/B978-0-323-99931-1.00073-8. ([PDF](/documents/papers/richards_2023_EQS.pdf))
+**[24]** Richards, F. D., Hoggard, M. J., Ghelichkhan, S., Koelemeijer, P. & Lau, H. C. P., Geodynamic, geodetic, and seismic constraints favour deflated and dense-cored LLVPs, Earth Plan. Sci. Lett., 602, 117964, doi: 10.1016/j.epsl.2022.117964. ([PDF](/documents/papers/richards_etal_2023_epsl.pdf))
 </p>
 
 <p style="padding-top:15px">
@@ -134,11 +158,11 @@ permalink: /publications/
 </p>
 
 <p style="padding-top:12px">
-**[6]** Czarnota, K., Hoggard, M. J., Richards, F. D., Teh, M., Huston, D. L., Jacques, A. L. & Ghelichkhan, S., 2020. Minerals on the edge: Sediment-hosted base metal endowment above steps in lithospheric thickness, Exploring for the Future: Extended Abstracts, Geoscience Australia, Canberra. ([PDF](/documents/papers/czarnota_etal_2020_eftf.pdf))
+**[6]** Czarnota, K., Hoggard, M. J., Richards, F. D., Teh, M., Huston, D. L., Jacques, A. L. & Ghelichkhan, S., 2020. Minerals on the edge: Sediment-hosted base metal endowment above steps in lithospheric thickness, Exploring for the Future: Extended Abstracts, Geoscience Australia, Canberra, doi: 10.11636/134991. ([PDF](/documents/papers/czarnota_etal_2020_eftf.pdf))
 </p>
 
 <p style="padding-top:12px">
-**[5]** Huston, D. L., Champion, D. C., Czarnota, K., Hutchens, M., Hoggard, M. J., Ware, B. D., Richards, F. D., Tessalina, S. D., Gibson, G. M. & Carr, G., 2020. Lithospheric-scale controls on zinc-lead-silver deposits of the North Australian Zinc Belt: evidence from isotopic and geophysical data, Exploring for the Future: Extended Abstracts, Geoscience Australia, Canberra. ([PDF](/documents/papers/huston_etal_2020_eftf.pdf))
+**[5]** Huston, D. L., Champion, D. C., Czarnota, K., Hutchens, M., Hoggard, M. J., Ware, B. D., Richards, F. D., Tessalina, S. D., Gibson, G. M. & Carr, G., 2020. Lithospheric-scale controls on zinc-lead-silver deposits of the North Australian Zinc Belt: evidence from isotopic and geophysical data, Exploring for the Future: Extended Abstracts, Geoscience Australia, Canberra, doi: 10.11636/134276. ([PDF](/documents/papers/huston_etal_2020_eftf.pdf))
 </p>
 
 <h3 style="font-weight: bold">2019</h3>
