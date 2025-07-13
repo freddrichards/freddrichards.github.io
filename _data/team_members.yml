@@ -1,15 +1,14 @@
 - name: Fred Richards
   photo: fred.jpg
-  info: Lecturer (~ Assistant Professor)
+  info: Assistant Professor in Earth Sciences
   email: f.richards19@imperial.ac.uk
   number_addit: 2
-  addit1: <a href="../documents/CVs/fred_richards_CV_20_05_22.pdf">CV</a>
+  addit1: <a href="../documents/CVs/Fred_Richards_CV_2page_FLFR10">Short CV</a>
   addit2: <a href="https://scholar.google.com/citations?user=IpZA1mcAAAAJ&hl=en">Scholar</a>, <a href="https://www.researchgate.net/profile/Fred_Richards">ResearchGate</a>
 
 - name: James Hazzard
   photo: james.jpg
-  info: PhD student, from October 2020
-  email: j.hazzard20@imperial.ac.uk
+  info: PhD student, 2020––2023
   number_addit: 0
   
 - name: Matthew Morris
