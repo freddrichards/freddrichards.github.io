@@ -14,7 +14,7 @@ permalink: /publications/
 </p>
 
 <p style="padding-top:15px">
-**[36]** Parazin, B., Gomez, N., Richards, F. D., Hoggard, M. J., Coulson, S. C. & Mitrovica, J. X., Ice sheets without dynamic topography, *in review at Nature Climate Change*.
+**[36]** Parazin, B., Gomez, N., Richards, F. D., Hoggard, M. J., Coulson, S. C. & Mitrovica, J. X., Ice sheets without dynamic topography, *in review at Geophys. Res. Lett.*.
 <!---([PDF](/documents/papers/parazin_etal_2025_grl_inreview.pdf))--->
 </p>
 
