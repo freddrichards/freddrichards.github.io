@@ -27,19 +27,19 @@ permalink: /publications/
 
 <p style="padding-top:15px">
 **[34]** Holdt, M. C., White, N. J. & Richards, F. D., A Revised Oceanic Plate Cooling Model, *accepted at J. Geophys. Res.: Solid Earth*. 
-<!---([PDF](/documents/papers/holdt_etal_2023_jgr_inreview.pdf))--->
+<!---([PDF](/documents/papers/holdt_etal_2025_jgr_inreview.pdf))--->
 </p>
 
 <h3 style="font-weight: bold">2025</h3>
 
 <p style="padding-top:15px">
 **[33]** Richards, F. D., Quantifying Plio-Pleistocene Global Mean Sea Level Variation, in Elias, S. (ed.) Encyclopedia of Quaternary Science (3rd Edition), London, 6, 48–62: Elsevier, doi: 10.1016/B978-0-323-99931-1.00073-8.
-([PDF](/documents/papers/hazzard_richards_2024_grl.pdf))
+([PDF](/documents/papers/richards_2024_EQS.pdf))
 </p>
 
 <p style="padding-top:15px">
 **[32]** Ghelichkhan, S., Hoggard, M.J., Richards, F. D., Chan, N.-H., Creveling J. R., Moore, K. M. & Mitrovica, J. X., Closing the budget of 20th Century True Polar Wander, GJI, 242, ggaf197, doi:10.1093/gji/ggaf197.
-([PDF](/documents/papers/hazzard_richards_2024_grl.pdf))
+([PDF](/documents/papers/ghelichkhan_etal_2025_gji.pdf))
 </p>
 
 
@@ -56,7 +56,7 @@ permalink: /publications/
 
 <p style="padding-top:15px">
 **[29]** O'Malley, C. P. B., Roberts, G. G., Panton, J., Richards, F. D., Davies, J. H., Fernandes, V. M. & Ghelichkhan, S., Reconciling Surface Deflections From Simulations of Global Mantle Convection, Geosci. Model Dev., 17, 9023–9049, doi: 10.5194/gmd-17-9023-2024.
-([PDF](/documents/papers/omalley_etal_2024_gcubed.pdf))
+([PDF](/documents/papers/omalley_etal_2024_gmd.pdf))
 </p>
 
 <p style="padding-top:15px">
