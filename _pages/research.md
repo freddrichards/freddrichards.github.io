@@ -22,7 +22,7 @@ In addition, while GIA is accounted for in most recent sea-level studies, modell
 Many sea-level projections are tuned to fit ice loss estimates from the satellite and palaeoclimate record but none of these target values account for the mantle dynamic impacts described above. The resulting forecasts therefore remain subject to deep uncertainty, reducing their utility for decision makers involved in developing adaptation and mitigation strategies. Accurately mapping 3D variations in Earth’s internal structure, and its spatiotemporal evolution is therefore a grand challenge of climate research.
  
 <figure>
-<img align="left" src="{{ site.url }}{{ site.baseurl }}/images/australia_result.jpg" width="100%">
+<img align="left" src="{{ site.url }}{{ site.baseurl }}/images/smc_inversion_oct22_normal_noduyken_DT_map.jpg" width="100%">
 </figure> 
   
 To address this challenge, we are developing new methodologies to accurately convert seismic velocity structure into temperature, density and viscosity, and obtain uncertainties on these quantities. This work has allowed us to generate mantle convection simulations that explain both present-day topographic patterns and changes in elevation inferred from ancient sea-level markers. One important outcome is that during the mid-Pliocene warm period (the last time in Earth history that atmospheric CO2 concentrations were similar to the present), global ice volumes appear to have been larger than previously assumed, ruling out the most pessimistic recent sea-level projections. Another key result is that the eastern coast of Baffin Island has experienced significant convectively-driven uplift in the past 5 million years, potentially explaining geological evidence that Northern Hemisphere glaciation began in the Canadian Arctic rather than Greenland. We have also successfully developed high-resolution models of steady-state viscosity, lithospheric thickness and heat flow beneath Antarctica, using a Bayesian inverse framework to quantify uncertainties in these parameters.  In future, we plan to use more sophisticated inverse methods coupled with new geological constraints to extend and refine mantle convection reconstructions, allowing deep Earth-climate interactions to be determined over ~10 million-year timescales.
@@ -113,7 +113,7 @@ Davies, D. R., Ghelichkhan, S., Hoggard, M. J., Valentine, A. P. & Richards, F. 
 <h3 style="font-weight: bold">Mapping the Thermomechanical Structure of the Upper Mantle</h3>
 
 <figure>
-<img align="left" src="{{ site.url }}{{ site.baseurl }}/images/temperature_model.jpg" 
+<img align="left" src="{{ site.url }}{{ site.baseurl }}/images/surface_observables.jpg" 
 width="60%" style="float: left; margin-right: 20px; margin-top: 15px; margin-bottom:15px;">
 </figure>
 
