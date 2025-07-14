@@ -104,11 +104,11 @@ permalink: /publications/
 </p>
 
 <p style="padding-top:12px">
-**[17]**  Bowman, D. M., Richards, F. D., Maunder, M., O'Brien, A. C. & Boubert, D., Stay in love with your PhD, Astron. Geophys, 63, 3.32-3.35, doi: 10.1093/astrogeo/atac039. N.B. not research-related. ([PDF](/documents/papers/bowman_etal_2022_astrongeophys.pdf))
+**[17]**  Bowman, D. M., Richards, F. D., Maunder, M., O'Brien, A. C. & Boubert, D., Stay in love with your PhD, Astron. Geophys, 63, 3.32-3.35, doi: 10.1093/astrogeo/atac039. N.B. not research-related. ([PDF](/documents/papers/bowman_etal_2022_ag.pdf))
 </p>
 
 <p style="padding-top:12px">
-**[16]** Maunder, M., O'Brien, A. C., Reid, J., Bowman, D. M., Richards, F. D. & Gough-Kelly, S., Generation Covid, Astron. Geophys, 63, 3.22-3.27, doi: 10.1093/astrogeo/atac037. N.B. not research-related. ([PDF](/documents/papers/maunder_etal_2022_astrongeophys.pdf))
+**[16]** Maunder, M., O'Brien, A. C., Reid, J., Bowman, D. M., Richards, F. D. & Gough-Kelly, S., Generation Covid, Astron. Geophys, 63, 3.22-3.27, doi: 10.1093/astrogeo/atac037. N.B. not research-related. ([PDF](/documents/papers/maunder_etal_2022_ag.pdf))
 </p>
 
 <h3 style="font-weight: bold">2021</h3>
@@ -122,11 +122,11 @@ permalink: /publications/
 </p>
 
 <p style="padding-top:12px">
-**[13]**  O'Brien, A. C., Boubert, D., Bowman, D. M., Richards, F. D. & Maunder, M., Pandemic Posters, Astron. Geophys., 62, 1.19, doi: 10.1093/astrogeo/atab039. N.B. not research-related. ([PDF](/documents/papers/obrien_etal_2021_astrongeophys.pdf))
+**[13]**  O'Brien, A. C., Boubert, D., Bowman, D. M., Richards, F. D. & Maunder, M., Pandemic Posters, Astron. Geophys., 62, 1.19, doi: 10.1093/astrogeo/atab039. N.B. not research-related. ([PDF](/documents/papers/obrien_etal_2021_ag.pdf))
 </p>
 
 <p style="padding-top:12px">
-**[12]**  Bowman, D. M., Maunder, M., Richards, F. D., O'Brien, A. C. & Boubert, D., Hear it through the grapevine, Astron. Geophys., 62, 4.12-4.14, doi: 10.1093/astrogeo/atab076. N.B. not research-related. ([PDF](/documents/papers/bowman_etal_2021_astrongeophys.pdf))
+**[12]**  Bowman, D. M., Maunder, M., Richards, F. D., O'Brien, A. C. & Boubert, D., Hear it through the grapevine, Astron. Geophys., 62, 4.12-4.14, doi: 10.1093/astrogeo/atab076. N.B. not research-related. ([PDF](/documents/papers/bowman_etal_2021_ag.pdf))
 </p>
 
 <h3 style="font-weight: bold">2020</h3>
