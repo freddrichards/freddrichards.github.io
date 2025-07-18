@@ -14,32 +14,31 @@ permalink: /publications/
 </p>
 
 <p style="padding-top:15px">
-**[36]** Parazin, B., Gomez, N., Richards, F. D., Hoggard, M. J., Coulson, S. C. & Mitrovica, J. X., Ice sheets without dynamic topography, *in review at Geophys. Res. Lett.*.
-<!---([PDF](/documents/papers/parazin_etal_2025_grl_inreview.pdf))--->
-</p>
-
-<p style="padding-top:15px">
-**[35]** An, Y., Ding, H., Richards, F. D., Jiang, W., Li, J. & Shen, W., Weak magnetic field and dense LLVPs: new insights from satellite observations of inner core oscillation, *in review at Nature Communications*. 
+**[36]** An, Y., Ding, H., Richards, F. D., Jiang, W., Li, J. & Shen, W., Weak magnetic field and dense LLVPs: new insights from satellite observations of inner core oscillation, *in review at Nature Communications*. 
 <!---([PDF](/documents/papers/an_etal_2024_natcomms_inreview.pdf))--->
 </p>
 
 <h3 style="font-weight: bold">In Press</h3>
 
 <p style="padding-top:15px">
-**[34]** Holdt, M. C., White, N. J. & Richards, F. D., A Revised Oceanic Plate Cooling Model, *accepted at J. Geophys. Res.: Solid Earth*. 
-<!---([PDF](/documents/papers/holdt_etal_2025_jgr_inreview.pdf))--->
+**[35]** Parazin, B., Gomez, N., Richards, F. D., Hoggard, M. J., Coulson, S. C. & Mitrovica, J. X., Ice sheets without dynamic topography, *accepted at Geophys. Res. Lett.*.
+<!---([PDF](/documents/papers/parazin_etal_2025_grl_inreview.pdf))--->
 </p>
 
 <h3 style="font-weight: bold">2025</h3>
 
 <p style="padding-top:15px">
-**[33]** Richards, F. D., Quantifying Plio-Pleistocene Global Mean Sea Level Variation, in Elias, S. (ed.) Encyclopedia of Quaternary Science (3rd Edition), London, 6, 48–62: Elsevier, doi: 10.1016/B978-0-323-99931-1.00073-8. ([PDF](/documents/papers/richards_2024_EQS.pdf))
+**[34]** Richards, F. D., Quantifying Plio-Pleistocene Global Mean Sea Level Variation, in Elias, S. (ed.) Encyclopedia of Quaternary Science (3rd Edition), London, 6, 48–62: Elsevier, doi: 10.1016/B978-0-323-99931-1.00073-8. ([PDF](/documents/papers/richards_2024_EQS.pdf))
+</p>
+
+<p style="padding-top:15px">
+**[33]** Holdt, M. C., White, N. J. & Richards, F. D., A Revised Oceanic Plate Cooling Model, *accepted at J. Geophys. Res.: Solid Earth*. 
+<!---([PDF](/documents/papers/holdt_etal_2025_jgr_inreview.pdf))--->
 </p>
 
 <p style="padding-top:15px">
 **[32]** Ghelichkhan, S., Hoggard, M.J., Richards, F. D., Chan, N.-H., Creveling J. R., Moore, K. M. & Mitrovica, J. X., Closing the budget of 20th Century True Polar Wander, Geophys. J. Int., 242, ggaf197, doi:10.1093/gji/ggaf197. ([PDF](/documents/papers/ghelichkhan_etal_2025_gji.pdf))
 </p>
-
 
 <h3 style="font-weight: bold">2024</h3>
 
