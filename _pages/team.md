@@ -6,7 +6,7 @@ sitemap: false
 permalink: /team/
 ---
 <br/><br/>
-<h3 style="font-weight: bold">Group members</h3> 
+<h3 style="font-weight: bold">Solid Earth&#8212;Fluid Earth Interactions Group </h3> 
 
 <h3 style="font-weight: bold">Current:</h3>
 {% assign number_printed = 0 %}
