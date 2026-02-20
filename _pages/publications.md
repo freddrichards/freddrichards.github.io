@@ -26,6 +26,7 @@ permalink: /publications/
 <!---<h3 style="font-weight: bold">In Press</h3>--->
 <h3 style="font-weight: bold">2026</h3>
 
+<p style="padding-top:15px">
 **[36]** Lucas, E. L., <b>Richards, F. D.</b>, Cederberg, G., Bao, X., Hoggard, M. J., Tsuji, S. R. J., Latychev, K., Tsuji, L. J. S., Mitrovica, J. X., Nature Climate Change, doi:https://doi.org/10.1038/s41558-026-02569-1. ([PDF](/documents/papers/lucas_etal_2026_natclimchange.pdf))
 </p>
 
