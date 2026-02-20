@@ -9,6 +9,11 @@ permalink: /publications/
 <h3 style="font-weight: bold">In Review	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; [Google Scholar](https://scholar.google.co.uk/citations?user=IpZA1mcAAAAJ&hl=en&oi=sra)</h3>
 
 <p style="padding-top:15px">
+**[39]** Lau, H. C. P., Coonin, A. N., <b>Richards, F. D.</b>, &  Latychev, K., The Overprint of Transient Rheology on Laterally Heterogeneous Viscosity: Influences on Sea-Level Change driven by Antarctic Ice Sheet Loss, *in review at JGR: Solid Earth*. 
+<!---([PDF](/documents/papers/an_etal_2024_natcomms_inreview.pdf))--->
+</p>
+
+<p style="padding-top:15px">
 **[38]** Morris, M. J., Roberts, G. G., <b>Richards, F. D.</b>, Lipp, A. G., & Siddle, E. S., Seeing through geomorphic complexity to recover tectonics from topography: Inverting landscapes for uplift histories using the Wasserstein distance, *in review at JGR: Earth Surface*. 
 <!---([PDF](/documents/papers/an_etal_2024_natcomms_inreview.pdf))--->
 </p>
@@ -20,6 +25,7 @@ permalink: /publications/
 
 <!---<h3 style="font-weight: bold">In Press</h3>--->
 <h3 style="font-weight: bold">2026</h3>
+
 **[36]** Lucas, E. L., <b>Richards, F. D.</b>, Cederberg, G., Bao, X., Hoggard, M. J., Tsuji, S. R. J., Latychev, K., Tsuji, L. J. S., Mitrovica, J. X., Nature Climate Change, doi:https://doi.org/10.1038/s41558-026-02569-1. ([PDF](/documents/papers/lucas_etal_2026_natclimchange.pdf))
 </p>
 
