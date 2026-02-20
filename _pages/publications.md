@@ -9,16 +9,19 @@ permalink: /publications/
 <h3 style="font-weight: bold">In Review	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; [Google Scholar](https://scholar.google.co.uk/citations?user=IpZA1mcAAAAJ&hl=en&oi=sra)</h3>
 
 <p style="padding-top:15px">
-**[37]** Lucas, E. L., <b>Richards, F. D.</b>, Cederberg, G., Bao, X., Hoggard, M. J., Tsuji, S. R. J., Latychev, K., Tsuji, L. J. S., Mitrovica, J. X., *in review at Nature Climate Change*.
-<!---([PDF](/documents/papers/lucas_etal_2025_natclimchange_inreview.pdf))--->
+**[38]** Morris, M. J., Roberts, G. G., <b>Richards, F. D.</b>, Lipp, A. G., & Siddle, E. S., Seeing through geomorphic complexity to recover tectonics from topography: Inverting landscapes for uplift histories using the Wasserstein distance, *in review at JGR: Earth Surface*. 
+<!---([PDF](/documents/papers/an_etal_2024_natcomms_inreview.pdf))--->
 </p>
 
 <p style="padding-top:15px">
-**[36]** An, Y., Ding, H., <b>Richards, F. D.</b>, Jiang, W., Li, J. & Shen, W., Satellite detection of inner core oscillation reveals inner core low viscosity and dense LLVPs, *in review at National Science Review*. 
+**[37]** An, Y., Ding, H., <b>Richards, F. D.</b>, Jiang, W., Li, J. & Shen, W., Satellite detection of inner core oscillation reveals inner core low viscosity and dense LLVPs, *in review at National Science Review*. 
 <!---([PDF](/documents/papers/an_etal_2024_natcomms_inreview.pdf))--->
 </p>
 
 <!---<h3 style="font-weight: bold">In Press</h3>--->
+<h3 style="font-weight: bold">2026</h3>
+**[36]** Lucas, E. L., <b>Richards, F. D.</b>, Cederberg, G., Bao, X., Hoggard, M. J., Tsuji, S. R. J., Latychev, K., Tsuji, L. J. S., Mitrovica, J. X., Nature Climate Change, doi:https://doi.org/10.1038/s41558-026-02569-1. ([PDF](/documents/papers/lucas_etal_2026_natclimchange.pdf))
+</p>
 
 <h3 style="font-weight: bold">2025</h3>
 
