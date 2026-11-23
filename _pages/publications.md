@@ -13,7 +13,7 @@ permalink: /publications/
 </p>
 
 <p style="padding-top:15px">
-**[42]** McMahon, W. & <b>Richards, F. D.</b>, Geodynamic Controls on Sequential Serpentinisation at Slow Spreading Ridges: Insights from the Ligurian Ophiolites, *in review at Geochem. Geophys. Geosyst.*
+**[42]** McMahon, W. & <b>Richards, F. D.</b>, Geodynamic Controls on Sequential Serpentinisation at Slow Spreading Ridges: Insights from the Ligurian Ophiolites, *in review at Geochem. Geophys. Geosyst.* ([PDF](/documents/papers/mcmahon_richards_2026_gcubed.pdf))
 </p>
 
 <p style="padding-top:15px">
@@ -28,7 +28,7 @@ permalink: /publications/
 </p>
 
 <p style="padding-top:15px">
-**[39]** Lau, H. C. P., Coonin, A. N., <b>Richards, F. D.</b> & Latychev, K., The Overprint of Transient Rheology on Laterally Heterogeneous Viscosity: Influences on Sea-Level Change driven by Antarctic Ice Sheet Loss, J. Geophys. Res.: Solid Earth, 131, e2026JB033961.
+**[39]** Lau, H. C. P., Coonin, A. N., <b>Richards, F. D.</b> & Latychev, K., The Overprint of Transient Rheology on Laterally Heterogeneous Viscosity: Influences on Sea-Level Change driven by Antarctic Ice Sheet Loss, J. Geophys. Res.: Solid Earth, 131, e2026JB033961. ([PDF](/documents/papers/lau_etal_2026_jgr.pdf))
 </p>
 
 <p style="padding-top:15px">
