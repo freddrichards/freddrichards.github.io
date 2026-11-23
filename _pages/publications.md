@@ -24,7 +24,7 @@ permalink: /publications/
 <h3 style="font-weight: bold">2026</h3>
 
 <p style="padding-top:15px">
-**[40]** Lucas, E. L., <b>Richards, F. D.</b>, Cederberg, G., Bao, X., Hoggard, M. J., Tsuji, S. R. J., Latychev, K., Tsuji, L. J. S. & Mitrovica, J. X., Emergence of Antarctic mineral resources in a warming world, Nature Climate Change, doi: 10.1038/s41558-026-02569-1. ([PDF](/documents/papers/lucas_etal_2026_natclimchange.pdf))
+**[40]** Lucas, E. M., <b>Richards, F. D.</b>, Cederberg, G., Bao, X., Hoggard, M. J., Tsuji, S. R. J., Latychev, K., Tsuji, L. J. S. & Mitrovica, J. X., Emergence of Antarctic mineral resources in a warming world, Nature Climate Change, doi: 10.1038/s41558-026-02569-1. ([PDF](/documents/papers/lucas_etal_2026_natclimchange.pdf))
 </p>
 
 <p style="padding-top:15px">
