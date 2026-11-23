@@ -9,7 +9,7 @@ permalink: /publications/
 <h3 style="font-weight: bold">In Press/In Review	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; [Google Scholar](https://scholar.google.co.uk/citations?user=IpZA1mcAAAAJ&hl=en&oi=sra)</h3>
 
 <p style="padding-top:15px">
-**[43]** Hoggard, M. J., Sudholz, Z. J., Hawkins, R., Duvernay, T., Bagchi, S., <b>Richards, F. D.</b>, Jaques, A. L., Yaxley, G. M., Czarnota, K. & Haynes, M., Paleothermal structure of the Australian continental lithosphere, *accepted at Geochem. Geophys. Geosyst.*
+**[43]** Hoggard, M. J., Sudholz, Z. J., Hawkins, R., Duvernay, T., Bagchi, S., <b>Richards, F. D.</b>, Jaques, A. L., Yaxley, G. M., Czarnota, K. & Haynes, M., Paleothermal structure of the Australian continental lithosphere, *accepted at Geochem. Geophys. Geosyst.* ([PDF](/documents/papers/hoggard_etal_2026_gcubed.pdf))
 </p>
 
 <p style="padding-top:15px">
@@ -17,7 +17,7 @@ permalink: /publications/
 </p>
 
 <p style="padding-top:15px">
-**[41]** An, Y., Ding, H., <b>Richards, F. D.</b>, Jiang, W., Li, J. & Shen, W., Satellite gravity constraints on inner core viscosity and LLVPs density anomalies, *in review at National Science Review*.
+**[41]** An, Y., Ding, H., <b>Richards, F. D.</b>, Jiang, W., Li, J. & Shen, W., Satellite gravity constraints on inner core viscosity and LLVPs density anomalies, *in review at National Science Review*. ([PDF](/documents/papers/an_etal_2026_natscirev_inreview.pdf))
 </p>
 
 <!---<h3 style="font-weight: bold">In Press</h3>--->
@@ -32,15 +32,15 @@ permalink: /publications/
 </p>
 
 <p style="padding-top:15px">
-**[38]** Morris, M. J., Roberts, G. G., <b>Richards, F. D.</b>, Lipp, A. G. & Siddle, E. R., Seeing through geomorphic complexity to recover tectonics from topography: Inverting landscapes for uplift histories using the Wasserstein distance, J. Geophys. Res.: Earth Surface, 131, e2025JF008966, doi: 10.1029/2025JF008966.
+**[38]** Morris, M. J., Roberts, G. G., <b>Richards, F. D.</b>, Lipp, A. G. & Siddle, E. R., Seeing through geomorphic complexity to recover tectonics from topography: Inverting landscapes for uplift histories using the Wasserstein distance, J. Geophys. Res.: Earth Surface, 131, e2025JF008966, doi: 10.1029/2025JF008966. ([PDF](/documents/papers/morris_etal_2026_jgr.pdf))
 </p>
 
 <p style="padding-top:15px">
-**[37]** Zhou, P., Goes, S., Bastow, I. D., <b>Richards, F. D.</b>, Burns, T., El-Sharkawy, A. & Wang, Y., Pervasively thin Anatolian lithosphere with elevated upper mantle temperatures in the east: Insights from Bayesian thermo-compositional inversion, J. Geophys. Res.: Solid Earth, 131, e2026JB033934, doi: 10.1029/2026JB033934.
+**[37]** Zhou, P., Goes, S., Bastow, I. D., <b>Richards, F. D.</b>, Burns, T., El-Sharkawy, A. & Wang, Y., Pervasively thin Anatolian lithosphere with elevated upper mantle temperatures in the east: Insights from Bayesian thermo-compositional inversion, J. Geophys. Res.: Solid Earth, 131, e2026JB033934, doi: 10.1029/2026JB033934. ([PDF](/documents/papers/zhou_etal_2026_jgr.pdf))
 </p>
 
 <p style="padding-top:15px">
-**[36]** Scheinert, M., Shen, W., Aster, R. C., Caron, L., Hartinger, M. D., King, M. A., Lloyd, A., Reading, A. M., Winberry, J. P., Wilson, T., Alfonsi, L., Bentley, M. J., Buchta, E., Chen, T. Y., Clarke, P. J., Ebbing, J., Eisen, O., Gomez, N., Günaydın, E., Hansen, S., Ivins, E. R., Koulali, A., Nield, G. A., <b>Richards, F. D.</b>, Oğuz Selbesoğlu, M., Sherman, S., Whitehouse, P. L. & Willen, M., Solid-Earth geophysics and geodesy in Antarctica: achievements, current capabilities, and future directions, Solid Earth, 17, 1271–1324, doi: 10.5194/se-17-1271-2026.
+**[36]** Scheinert, M., Shen, W., Aster, R. C., Caron, L., Hartinger, M. D., King, M. A., Lloyd, A., Reading, A. M., Winberry, J. P., Wilson, T., Alfonsi, L., Bentley, M. J., Buchta, E., Chen, T. Y., Clarke, P. J., Ebbing, J., Eisen, O., Gomez, N., Günaydın, E., Hansen, S., Ivins, E. R., Koulali, A., Nield, G. A., <b>Richards, F. D.</b>, Oğuz Selbesoğlu, M., Sherman, S., Whitehouse, P. L. & Willen, M., Solid-Earth geophysics and geodesy in Antarctica: achievements, current capabilities, and future directions, Solid Earth, 17, 1271–1324, doi: 10.5194/se-17-1271-2026. ([PDF](/documents/papers/scheinert_etal_2026_se.pdf))
 </p>
 
 <h3 style="font-weight: bold">2025</h3>
